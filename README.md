@@ -19,9 +19,7 @@
 
 * [[翻译]使用CTC进行序列建模](<https://blog.ailemon.me/2019/07/18/sequence-modeling-with-ctc/>)
 
-更多内容请访问作者的博客：[AI柠檬博客](https://blog.ailemon.me/)
 
-或使用[AI柠檬站内搜索引擎](https://s.ailemon.me/)进行相关信息的搜索
 
 ## Introduction 简介
 
@@ -71,8 +69,6 @@ ASRT API服务器启动请执行：
 $ python3 asrserver.py
 ```
 
-请注意，开启API服务器之后，需要使用本ASRT项目对应的客户端软件来进行语音识别，详见Wiki文档[ASRT客户端Demo](https://asrt.ailemon.net/docs/client-demo)。
-
 如果要训练和使用非251版模型，请在代码中 `import SpeechModel` 的相应位置做修改。
 
 ## Model 模型
@@ -85,7 +81,7 @@ CNN + LSTM/GRU + CTC
 
 * 关于下载已经训练好的模型的问题
 
-已经训练好的模型包含在发布版服务端程序压缩包里面，发布版成品服务端程序可以在此下载：[ASRT下载页面](https://asrt.ailemon.net/download)。
+已经训练好的模型包含在发布版服务端程序压缩包里面，发布版成品服务端程序可以在此下载：[下载页面](https://asrt.ailemon.net/download)。
 
 Github本仓库下[Releases](https://github.com/nl8590687/ASRT_SpeechRecognition/releases)页面里面还包括各个不同版本的介绍信息，每个版本下方的zip压缩包也是包含已经训练好的模型的发布版服务端程序压缩包。
 
