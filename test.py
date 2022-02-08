@@ -51,20 +51,9 @@ if __name__ == "__main__":
 	datapath = ''
 	modelpath = 'model_speech'
 	os.environ["CUDA_VISIBLE_DEVICES"] = "3"
-	system_type = plat.system()  # 由于不同的系统的文件路径表示不一样，需要进行判断
-	if (system_type == 'Windows'):
-		datapath = 'Z:\\SpeechData'
-		modelpath = modelpath + '\\'
-	elif (system_type == 'Linux'):
-		datapath = 'dataset'
-		modelpath = modelpath + '/'
-	else:
-		print('*[Message] Unknown System\n')
-		datapath = 'dataset'
-		modelpath = modelpath + '/'
-
+	datapath = 'dataset'
+	modelpath = modelpath + '/'
 	ms = ModelSpeech(datapath)
-
 	ms.LoadModel(modelpath + '/m251/speech_model251best.h5')
 	ml = ModelLanguage('./model_language')
 	ml.LoadModel()

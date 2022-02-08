@@ -1,26 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-#
-# Copyright 2016-2099 Ailemon.net
-#
-# This file is part of ASRT Speech Recognition Tool.
-#
-# ASRT is free software: you can redistribute it and/or modify
-# it under the terms of the GNU General Public License as published by
-# the Free Software Foundation, either version 3 of the License, or
-# (at your option) any later version.
-# ASRT is distributed in the hope that it will be useful,
-# but WITHOUT ANY WARRANTY; without even the implied warranty of
-# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-# GNU General Public License for more details.
-#
-# You should have received a copy of the GNU General Public License
-# along with ASRT.  If not, see <https://www.gnu.org/licenses/>.
-# ============================================================================
-
-"""
-@author: nl8590687
-"""
 
 import platform as plat
 import os
@@ -47,7 +24,7 @@ from readdata24 import DataSpeech
 abspath = ''
 ModelName='251'
 #NUM_GPU = 2
-os.environ["CUDA_VISIBLE_DEVICES"] = "0"
+os.environ["CUDA_VISIBLE_DEVICES"] = "3"
 class ModelSpeech(): # 语音模型类
 	def __init__(self, datapath):
 		'''
@@ -60,18 +37,9 @@ class ModelSpeech(): # 语音模型类
 		self.label_max_string_length = 64
 		self.AUDIO_LENGTH = 1600
 		self.AUDIO_FEATURE_LENGTH = 200
-		self._model, self.base_model = self.CreateModel() 
-		
+		self._model, self.base_model = self.CreateModel()
 		self.datapath = datapath
-		self.slash = ''
-		system_type = plat.system() # 由于不同的系统的文件路径表示不一样，需要进行判断
-		if(system_type == 'Windows'):
-			self.slash='\\' # 反斜杠
-		elif(system_type == 'Linux'):
-			self.slash='/' # 正斜杠
-		else:
-			print('*[Message] Unknown System\n')
-			self.slash='/' # 正斜杠
+		self.slash='/' # 正斜杠
 		if(self.slash != self.datapath[-1]): # 在目录路径末尾增加斜杠
 			self.datapath = self.datapath + self.slash
 	
@@ -118,20 +86,14 @@ class ModelSpeech(): # 语音模型类
 		layer_h14 = Conv2D(128, (3,3), use_bias=True, activation='relu', padding='same', kernel_initializer='he_normal')(layer_h13) # 卷积层
 		layer_h15 = MaxPooling2D(pool_size=1, strides=None, padding="valid")(layer_h14) # 池化层
 		
-		#test=Model(inputs = input_data, outputs = layer_h12)
-		#test.summary()
-		
 		layer_h16 = Reshape((200, 3200))(layer_h15) #Reshape层
-		#layer_h5 = LSTM(256, activation='relu', use_bias=True, return_sequences=True)(layer_h4) # LSTM层
-		#layer_h6 = Dropout(0.2)(layer_h5) # 随机中断部分神经网络连接，防止过拟合
 		layer_h16 = Dropout(0.3)(layer_h16)
 		layer_h17 = Dense(128, activation="relu", use_bias=True, kernel_initializer='he_normal')(layer_h16) # 全连接层
 		layer_h17 = Dropout(0.3)(layer_h17)
 		layer_h18 = Dense(self.MS_OUTPUT_SIZE, use_bias=True, kernel_initializer='he_normal')(layer_h17) # 全连接层
 		
 		y_pred = Activation('softmax', name='Activation0')(layer_h18)
-		model_data = Model(inputs = input_data, outputs = y_pred)
-		#model_data.summary()
+		model_base  = Model(inputs = input_data, outputs = y_pred)
 		
 		labels = Input(name='the_labels', shape=[self.label_max_string_length], dtype='float32')
 		input_length = Input(name='input_length', shape=[1], dtype='int64')
@@ -141,9 +103,6 @@ class ModelSpeech(): # 语音模型类
 		
 		#layer_out = Lambda(ctc_lambda_func,output_shape=(self.MS_OUTPUT_SIZE, ), name='ctc')([y_pred, labels, input_length, label_length])#(layer_h6) # CTC
 		loss_out = Lambda(self.ctc_lambda_func, output_shape=(1,), name='ctc')([y_pred, labels, input_length, label_length])
-		
-		
-		
 		model = Model(inputs=[input_data, labels, input_length, label_length], outputs=loss_out)
 		
 		model.summary()
@@ -154,38 +113,18 @@ class ModelSpeech(): # 语音模型类
 		opt = Adam(lr = 0.001, beta_1 = 0.9, beta_2 = 0.999, decay = 0.0, epsilon = 10e-8)
 		#model.compile(loss={'ctc': lambda y_true, y_pred: y_pred}, optimizer=sgd)
 		model.compile(loss={'ctc': lambda y_true, y_pred: y_pred}, optimizer = opt)
-		
-		
-		# captures output of softmax so we can decode the output during visualization
-		test_func = K.function([input_data], [y_pred])
-		
-		#print('[*提示] 创建模型成功，模型编译成功')
+
 		print('[*Info] Create Model Successful, Compiles Model Successful. ')
-		return model, model_data
+		return model, model_base
 		
 	def ctc_lambda_func(self, args):
 		y_pred, labels, input_length, label_length = args
-		
 		y_pred = y_pred[:, :, :]
-		#y_pred = y_pred[:, 2:, :]
 		return K.ctc_batch_cost(labels, y_pred, input_length, label_length)
-	
-	
 	
 	def TrainModel(self, datapath, epoch = 2, save_step = 500, batch_size = 32,
 				   filename = abspath + 'model_speech/m' + ModelName + '/speech_model'+ModelName):
-		'''
-		训练模型
-		参数：
-			datapath: 数据保存的路径
-			epoch: 迭代轮数
-			save_step: 每多少步保存一次模型
-			filename: 默认保存文件名，不含文件后缀名
-		'''
 		data=DataSpeech(datapath, 'train')
-		
-		# num_data = data.GetDataNum() # 获取数据的数量
-
 		best_cer = 100000.0
 		
 		yielddatas = data.data_genetator(batch_size, self.AUDIO_LENGTH)
@@ -233,7 +172,6 @@ class ModelSpeech(): # 语音模型类
 		num_data = data.GetDataNum() # 获取数据的数量
 		if(data_count <= 0 or data_count > num_data): # 当data_count为小于等于0或者大于测试数据量的值时，则使用全部数据来测试
 			data_count = num_data
-		
 		try:
 			ran_num = random.randint(0,num_data - 1) # 获取一个随机数
 			
@@ -274,79 +212,33 @@ class ModelSpeech(): # 语音模型类
 			return 10000
 	
 	def Predict(self, data_input, input_len):
-		'''
-		预测结果
-		返回语音识别后的拼音符号列表
-		'''
-		
 		batch_size = 1 
 		in_len = np.zeros((batch_size),dtype = np.int32)
-		
 		in_len[0] = input_len
-		
 		x_in = np.zeros((batch_size, 1600, self.AUDIO_FEATURE_LENGTH, 1), dtype=np.float)
-		
 		for i in range(batch_size):
 			x_in[i,0:len(data_input)] = data_input
-		
-		
 		base_pred = self.base_model.predict(x = x_in)
-		
-		#print('base_pred:\n', base_pred)
-		
-		#y_p = base_pred
-		#for j in range(200):
-		#	mean = np.sum(y_p[0][j]) / y_p[0][j].shape[0]
-		#	print('max y_p:',np.max(y_p[0][j]),'min y_p:',np.min(y_p[0][j]),'mean y_p:',mean,'mid y_p:',y_p[0][j][100])
-		#	print('argmin:',np.argmin(y_p[0][j]),'argmax:',np.argmax(y_p[0][j]))
-		#	count=0
-		#	for i in range(y_p[0][j].shape[0]):
-		#		if(y_p[0][j][i] < mean):
-		#			count += 1
-		#	print('count:',count)
-		
 		base_pred =base_pred[:, :, :]
-		#base_pred =base_pred[:, 2:, :]
-		
 		r = K.ctc_decode(base_pred, in_len, greedy = True, beam_width=100, top_paths=1)
-		
-		#print('r', r)
 		if(tf.__version__[0:2] == '1.'):
 			r1 = r[0][0].eval(session=tf.compat.v1.Session())
 		else:
 			r1 = r[0][0].numpy()
-		#tf.compat.v1.reset_default_graph()
 		return r1[0]
 	
 	def RecognizeSpeech(self, wavsignal, fs):
 		'''
 		最终做语音识别用的函数，识别一个wav序列的语音
 		'''
-		
-		#data = self.data
-		#data = DataSpeech('E:\\语音数据集')
-		#data.LoadDataList('dev')
-		# 获取输入特征
-		#data_input = GetMfccFeature(wavsignal, fs)
-		#t0=time.time()
 		data_input = GetFrequencyFeature3(wavsignal, fs)
-		#t1=time.time()
-		#print('time cost:',t1-t0)
-		
 		input_length = len(data_input)
 		input_length = input_length // 8
-		
 		data_input = np.array(data_input, dtype = np.float)
-		#print(data_input,data_input.shape)
 		data_input = data_input.reshape(data_input.shape[0],data_input.shape[1],1)
-		# t2=time.time()
 		r1 = self.Predict(data_input, input_length)
-		# print('r1 :',r1)
-		# t3=time.time()
-		# print('time cost:',t3-t2)
 		list_symbol_dic = GetSymbolList(self.datapath) # 获取拼音列表
-		
-		
+
 		r_str=[]
 		for i in r1:
 			r_str.append(list_symbol_dic[i])
@@ -387,41 +279,19 @@ if(__name__=='__main__'):
 	#config.gpu_options.per_process_gpu_memory_fraction = 0.95
 	#config.gpu_options.allow_growth=True   #不全部占满显存, 按需分配
 	#set_session(tf.Session(config=config))
-	
-	
+
+
 	datapath =  abspath + ''
 	modelpath =  abspath + 'model_speech'
-	
-	
+
+
 	if(not os.path.exists(modelpath)): # 判断保存模型的目录是否存在
 		os.makedirs(modelpath) # 如果不存在，就新建一个，避免之后保存模型的时候炸掉
-	
-	system_type = plat.system() # 由于不同的系统的文件路径表示不一样，需要进行判断
-	if(system_type == 'Windows'):
-		datapath = 'E:\\语音数据集'
-		modelpath = modelpath + '\\'
-	elif(system_type == 'Linux'):
-		datapath =  abspath + 'dataset'
-		modelpath = modelpath + '/'
-	else:
-		print('*[Message] Unknown System\n')
-		datapath = 'dataset'
-		modelpath = modelpath + '/'
-	
+	datapath =  abspath + 'dataset'
+	modelpath = modelpath + '/'
 	ms = ModelSpeech(datapath)
-	
-	
+
+
 	#ms.LoadModel(modelpath + 'm251/speech_model251_e_0_step_100000.h5')
 	ms.TrainModel(datapath, epoch = 50, batch_size = 16, save_step = 500)
-	
-	#t1=time.time()
-	#ms.TestModel(datapath, str_dataset='train', data_count = 128, out_report = True)
-	#ms.TestModel(datapath, str_dataset='dev', data_count = 128, out_report = True)
-	#ms.TestModel(datapath, str_dataset='test', data_count = 128, out_report = True)
-	#t2=time.time()
-	#print('Test Model Time Cost:',t2-t1,'s')
-	#r = ms.RecognizeSpeech_FromFile('E:\\语音数据集\\ST-CMDS-20170001_1-OS\\20170001P00241I0053.wav')
-	#r = ms.RecognizeSpeech_FromFile('E:\\语音数据集\\ST-CMDS-20170001_1-OS\\20170001P00020I0087.wav')
-	#r = ms.RecognizeSpeech_FromFile('E:\\语音数据集\\wav\\train\\A11\\A11_167.WAV')
-	#r = ms.RecognizeSpeech_FromFile('E:\\语音数据集\\wav\\test\\D4\\D4_750.wav')
-	#print('*[提示] 语音识别结果：\n',r)
+

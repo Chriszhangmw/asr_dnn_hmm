@@ -1,0 +1,1362 @@
+Dev0 fu3 zi tong2 zi a pi3 chai2 yong4 de a fu3 zi fu3 zi
+Dev1 hao3 wo3 han3 ni3 ji4 dao4 de san1 yang4 dong1 xi1 shi4 sha2 zi
+Dev2 guo2 ren2 xi3 zao3 de2 xing2 bu4 de2 xing2
+Dev3 di4 yi2 ge4 di4 yi2 ge4 a zhe4 ge4 zi4 di4 yi2 ge4 sha2 zi mu4 zhou1 sa1
+Dev4 jiu4 shi4 shang4 ci4 qu4 na4 ge4 yi1 yuan4 kai1 de yin1 wei4 ta1 zhe4 ge4 wen4 ti2 shu3 yu2 nao3 wei1 suo1 jiu4 shi4 xue4 guan3 de zhi4 liao2 xue4 guan3 de nei3 xie1 yao4
+Dev5 ni3 shuo1 xin4 hao4 bu4 hao3 ni3 ting1 bu2 dao4 ma wo3 lai2 tiao2 zheng3 yi1 xia4 ya
+Dev6 kan4 ni3 hui2 yi4 yi1 xia4 hai2 you3 nei3 xie1
+Dev7 zi4 xing2 che1 yi1 sheng1 zi4 xing2 che1 o2 zi4 xing2 che1 zi4 xing2 che1
+Dev8 dou4 gang1 gang1 ni3 bei4 de na4 xie1 ci2 yu3 bei4 na4 xie1 dang1 shi2
+Dev9 ta1 ren4 de dao4 xin4 feng1 bu4 ma ta1 ren4 de dao4 xin4 feng1 ai1
+Dev10 nv3 er2 lei ge4 you3 wu4 ti3 lei ge4 ye3 you3
+Dev11 ji4 bu2 dao4 ji4 bu2 dao4 jia1 ju4 you3 xie1 shi4 shu3 yu2 jia1 ju4 de ci2
+Dev12 ran2 hou4 gang1 gang1 er2 gen1 ni3 shuo1 de niao3 shi4 na3 yi2 ge4 niao3 shi4 na3 yi2 ge4 niao3 wa gang1 gang1 gen1 ni3 shuo1 de na4 xie1 ci2 yu3 zhong1 you3 yi2 ge4 shi4 niao3 ni3 hai2 ji4 de shi4 nei3 ge4 bu4
+Dev13 shui3 guan3 an1 shi4 shui3 guan3 shui3 guan3
+Dev14 hao3 di4 er4 ge4 dong4 zuo4 yong4 shou3 zhi3 yi1 ha1 wu1 ding3 zai4 zhi3 yi1 ha1 di4 ban3 er2
+Dev15 a na4 wo3 xie3 ge4 wu3 dian3 ban4 ma qu4 ge4 zhong1
+Dev16 n2 jia1 ting2 hai2 you3 shen2 me hai2 you3 shen2 me
+Dev17 o1 hao3 wo3 ma3 shang4 deng1 ni3 zhi1 qian2 gei3 wo3 fa1 le ge4 hao4 you3 yi2 ge4
+Dev18 ji3 dian3 a n2 xia4 wu3 da4 gai4 jiu3 dian3 zhong1 le na4 ni3 xian4 zai4 de shi4 nei3 ge4 cheng2 shi4 ya
+Dev19 xiao3 de zhe4 ge4 shi4 shen2 me bu4 zhe4 ge4 shi4 sha2 zi ta1 shou3 shang4 na2 de shi4 sha2 zi
+Dev20 dui4 tou2 na4 shi4 hua4 dui4 le de ran2 hou4 ni3 gen1 lao3 shi1 shuo1 ni3 na4 li3 ming2 bai2 le mei2 de2 ma
+Dev21 hao3 de mei2 shi4 ha1 wo3 men xian4 zai4 kan4 ping2 mu4 xian4 zai4 kan4 de2 dao4 ping2 mu4 shang4 zhe4 ge4 dong1 xi1 ma
+Dev22 lei ge4 hao3 xiang4 hai2 mei2 de2
+Dev23 hao3 nei4 ge4 ni3 zhe4 ge4 ji4 yi4 li4 ni3 de2 hao3 po2 po2 wo3 men xian1 ba3 zhe4 ge4 ce4 shi4 zuo4 wan2
+Dev24 xing1 qi1 si4 hao3 de
+Dev25 ni3 xian4 zai4 zai4 de zhe4 ge4 di4 fang1 jiao4 shen2 me ming2 zi4 ni3 xiao3 bu4 xiao3 de ya a bu4 zhi1 dao4
+Dev26 jiu4 shi4 shu4 zi4 he2 han4 zi4 jiao1 ti4 jin4 xing2 xian1 shu4 zi4 hou4 han4 zi4 bing4 yi1 ci4 di4 zeng1
+Dev27 zhe4 duan4 shi2 jian1 mei3 tian1 dou1 you3 ha1 fan3 zheng4 jing1 chang2 zhe4 me zuo4 ta1 yi2 ge4 ren2 zhe4 me zuo4
+Dev28 ran2 hou4 zi4 ji3 ta1 ke3 yi3 zi4 ji3 zuo4 gong1 jiao1 ma da3 che1 bu4 bu4
+Dev29 da3 quan1 da3 quan1 hua4 quan1 zhe4 ge4 shou3 zhi3 tou n2 da3 quan1 zhe4 ge4 ha1 n2 jiu4 zhe4 ge4 ha1 n2 zhe4 shi4 o2 zhe4 shi4 sha2 zi zhi3
+Dev30 shi4 huo3 jian4 zhe4 ge4 hao3 hao3 de zhe4 ge4 fen3 bing3
+Dev31 zhe4 ge4 fei1 biao1
+Dev32 na4 ge4 jia1 shu3 xie4 xie4 ni3 la a mei2 shi4 mei2 shi4 hao3 jia1 shu3 zai4 ma
+Dev33 na4 ou3 er3 jing1 chang2 pin2 fan2 he2 fei1 chang2 pin2 fan2 ni3 de2 da3 ge4 pin2 lv4 cheng2 du4 pin2 fan2 ba
+Dev34 yan3 jing1 wang4 yuan3 jing4
+Dev35 lei ge4 an1 ji4 yi4 gang1 cai2 shuo1 dao4 guo4 mei2 de2 shuo1 dao4 guo4 shuo1 dao4 guo4 man2 nian4 dao4 guo4 le de man2 you3 you3 you3 an1
+Dev36 xin1 qing2 hao3 ni3 zuo4 yi2 ge4 jue2 ding4 rong2 bu4 rong2 yi4 ya
+Dev37 ying4 bi4 tie3 lu4 mai4 zi
+Dev38 ba3 bi3 fang4 zai4 bai2 zhi3 shang4 ran2 hou4 zai4 na2 hui2 lai2
+Dev39 bu4 bu4 bu4 gei3 ta1 zhi3 tong4 yao4 wo3 men ke3 yi3 gei3 ta1 yong4 dan4 shi4 ni3 shuo1 yao4 gei3 ta1 shu1 yao4 yao4 rang4 ta1 hun1 dao4 wo3 jue2 de hai2 mei2 dao4 zhe4 ge4 jie1 duan4 a
+Dev40 pi2 fu1 tu2 shu1 guan3 tu2 shu1 guan3 mai4 zi mai4 zi hai3 yang2
+Dev41 pu2 tao2 shui3 bei1 mao1 tou2 ying1 shu1 zhuo1 hao3 ji4 xu4
+Dev42 fu2 qi4 hao3 po2 po2 wo3 men kai1 shi3 zuo4 ce4 shi4 le nin2 jiu4 hui2 da2 wo3 gang1 cai2 nei3 xie1 ci2 nin2 jian4 guo4 huo4 zhe3 mei2 jian4 guo4
+Dev43 n2 shen2 me ying1 a xiang3 xiang3 an1 n2 xiang3 xiang3 shi4 ge4 sa1 zi ying1 o2
+Dev44 pu2 tao2 qiu2 pai1 mao1 tou2 ying1 shu1 zhuo1
+Dev45 kai1 shui3 de2 bu4 de2 xing2 a de2 xing2 a
+Dev46 mei2 jian4 guo4 jian4 guo4 jian4 guo4
+Dev47 hai3 yang2 n2 mu4 tou hai2 you3 ji4 xu4 hai2 you3
+Dev48 wu3 ba1 yao1 jiu3 si4 liu4 er4 qi1
+Dev49 shao1 wei1 you3 dian3 dian3 dan4 shi4
+Dev50 nin2 jue2 de wei4 lai2 chong1 man3 xi1 wang4 ma chong1 man3 xi1 wang4
+Dev51 suan4 yi1 suan4 yi1 ha1
+Dev52 he2 ma3 hai2 shi4 xi1 niu2 he2 ma3 he2 ma3
+Dev53 ni3 kan4 ma ni3 kan4 ping2 mu4 ma po2 po2 ni3 kan4 dian4 nao3 ping2 mu4
+Dev54 zhe4 ge4 shi4 shen2 me wo3 gao3 bu4 qing1 chu3 le ha1 hao3 wo3 gei3 nin2 ji3 ge4 xuan3 xiang4 ha1 po2 po2 bing1 wu1 cao3 fang2 fen2 mu4 zhe4 shi4 na3 yi2 ge4
+Dev55 na4 ni3 zai4 na3 tiao2 jie1 ni3 xiao3 de bu4 ni3 men lei1 tiao2 jie1
+Dev56 n2 na4 ti3 zhong4 ne ti3 zhong4 zhe4 duan4 shi2 jian1 mei2 you3 cheng1 mei2 qu4 cheng1
+Dev57 xiao3 de han4 zi4 gen1 bi3 ta1 da4 yi1 ge4 de shu4 zi4 lian2 qi3 lai2
+Dev58 kou3 qin2 xi1 niu2
+Dev59 n2 hao3 biao1 qi3 shi2 yi4 dian3 guo4 shi2 fen1 hao3 dui4 shi2 jian1 zhi1 dao4 la xian4 zai4 ke3 yi3 kai1 shi3
+Dev60 lei ge4 an1 gang1 cai2 wo3 men nian4 dao4 guo4 mei2 de2 lei ge4 nian4 dao4 guo4 mei2 de2 n2 ba4 ba4 lei ge4 shi4 sha2 zi nian4 dao4 guo4 mei2 de2 lei shi4 sha2 zi gang1 cai2 wo3 men nian4 dao4 guo4 mei2 mei2 nian4 dao4 guo4 mei2 nian4 dao4 guo4 a
+Dev61 o2 you3 you3 you3 zhe4 ge4 shi4 you3 de dong4 mai4 ying4 hua4 a shang4 ci4 qu4 zhao4 le he2 ci2 de jiu4 shi4 dong4 mai4 ying4 hua4 a zhe4 xie1 mao2 bing4 shi4 you3 de you3 yi4 dian3 jiu4 shi4 nao3 geng3 a zhe4 xie1 dou1 you3 yi1 xie1 yin1 wei4 na4 ge4 xue4 guan3 bian4 xi4 ma zhe4 xie1 dou1 you3 de
+Dev62 jia1 ren2 dou1 ren4 bu2 dao4 de hua4 jie3 jue2 wen4 ti2 ke3 neng2 bu4 de2 xing2 she4 hui4 shi4 wu4
+Dev63 you3 mei2 you3 de2 yi1 xie1 dan4 mo4 de biao3 xian4 a bi3 ru2 shuo1 yi3 qian2 xi3 huan1 zuo4 de shi4 qing2 bu4 zuo4 le n2 guan1 xin1 de ren2 ye3 bu4 guan1 xin1 le
+Dev64 wo3 shen1 gao1 da4 gai4 xian4 zai4 yi1 mi3 liu4 duo1 dian3 ma xian4 zai4 hao3 xiang4 ren2 lao3 le suo1 le dian3
+Dev65 ni3 ju3 qi3 lai2 gei3 wo3 kan4 yi1 xia4 tie1 you2 piao4 chu4 zhe4 bian1 tie1 you2 piao4 chu4 hao3 de hao3 de hao3 de
+Dev66 ye2 ye2 ni3 ba3 gao1 tou2 zhe4 ge4 zi4 kan4 bu4 kan4 de2 dao4 qing3 bi4 shang4 ni3 de yan3 jing1 hao3 ba3 ta1 zuo4 chu1 lai2
+Dev67 hao3 ni3 xian4 zai4 zi4 ji3 lai2 shuo1 yi1 bian4 guo2 qi2 shu4 mu4 n2 hao3 de
+Dev68 ran2 hou4 ping2 shi2 chuan1 yi1 fu2 ne shi4 zi4 ji3 chuan1 yi1 fu2 zi4 ji3 jin4 xing2 da1 pei4 ma hai2 shi4 ma1 ma1 bang1 mang2 ma1 ma1 wo3 ma1 ma1 bang1 ta1
+Dev69 hao3 zhe2 hao3 le hao3 ba3 kou3 feng1 qi3 lai2 ba3 xin4 feng1 de kou3 feng1 qi3 lai2
+Dev70 hao3 wo3 men xian4 zai4 zuo4 xia4 yi2 ge4
+Dev71 ni3 xiang3 shuo1 sha2 zi hua4 ye2 lang1 ge4 gao3 di1 ma sa1 zi ye2 ta1 zui4 xi3 huan1 shuo1 de na4 ju4 hua4 gan3 dao4 hen3 wu2 zhu4 wu2 li4 de gan3 jue2 jiu4 shi4 zhe4 yang4
+Dev72 hao3 de hao3 po2 po2 jin1 nian2 shi4 ji3 ji3 nian2 ya
+Dev73 er3 duo3 gou3 chui2 zi yi3 zi jiao4 che1
+Dev74 ta1 zhi3 shi4 zuo4 qi3 jiu4 yao4 da3 ke1 shui4 han3 ta1 qu4 shui4 ai1 ta1 you4 shui4 bu4 zhe
+Dev75 yong3 qi4 mei2 you3 bei4 ke2 mei2 you3
+Dev76 wu3 ba1 er4 wu3 ba1 er4 o2 ni3 gen1 dao4 wo3 shuo1 de zhe4 ge4 shu4 zi4 nian4
+Dev77 ying1 gai1 lang1 ge4 zuo4 a bi3 fang4 zai4 bai2 zhi3 shang4 zai4 na2 hui2 lai2
+Dev78 gang1 gang1 gei3 ni3 kan4 de ni3 dou1 kan4 guo4 de ha1 zhe4 ge4 ye3 gang1 gang1 na4 ge4 shi4 o2 zhe4 ge4 ye3 kan4 guo4 mei2 you3
+Dev79 na4 ni3 xiao3 bu4 xiao3 de ni3 men jia1 shi4 zhu4 zai4 ji3 lou2 an1 wu3 wu3 lou2 qi1 hao4
+Dev80 ta1 zhi3 shi4 bu4 neng2 zhun3 que4 di4 biao3 da2 ying1 gai1 ji4 yi4 shang4 hai2 shi4 you3
+Dev81 zhe4 liang3 tian1 da3 shi4 pin2 gei3 qin1 qi1 da3 shi4 pin2 qin1 qi1 dou1 shuo1 ta1 hao3 yi4 dian3 le dou1
+Dev82 hao3 lei1 shi2 jiu3 ceng2 lou2 hao3 shi2 jiu3 ceng2 lou2 ha1
+Dev83 jiu4 shi4 shuo1 ni3 zuo4 zhe4 jian4 shi4 xu1 yao4 ji2 zhong1 suo3 you3 de jing1 li4 zuo4 kun4 bu4 kun4 nan2
+Dev84 na4 ni3 zhe4 san1 ge4 yue4 you3 mei2 you3 jiang4 di1 le zhe4 san1 ge4 yue4 you3 mei2 you3 hen3 yan2 zhong4 de bian4 hua4 ne
+Dev85 a shi2 wu4 zuo4 fan4 xian4 zai4 bu4 xing2 le jiu4 shi4 e4 re4 ge4 cai4 fan4 cai4 shen2 me de zen3 me yang4 ba re4 yi1 xia4 na4 xie1 ke3
+Dev86 zuo4 fan4 ne po2 po2 nin2 hai2 zuo4 fan4 bu4 zuo4 fan4 a zi4 ji3 zuo4 fan4
+Dev87 mei2 you3 kan4 dao4 o2 hui2 sheng1 shi4 kan4 dao4 hai2 shi4 mei2 kan4 dao4
+Dev88 lei shi4 sha2 zi ba4 ba4 lei shi4 sha2 zi niu2 nian4 dao4 guo4 mei2 de2 mei2 nian4 dao4 guo4 mei2 nian4 dao4 guo4
+Dev89 ye3 mei2 you3 da3 guo4 mei2 you3 da3 guo4
+Dev90 e2 yi3 zi n2
+Dev91 dui4 lei hai2 you3 ma mai4 zi hai2 you3 sha2
+Dev92 mei2 you3 fu3 zi mei2 you3
+Dev93 fei1 ji1 wo3 ji4 bu2 zhu4 le
+Dev94 lei ge4 an1 wu4 ti3 a wu4 ti3 n2
+Dev95 zi4 xing2 che1 n2
+Dev96 zhe4 ge4 an1 mei2 kan4 dao4 guo4 zhe4 ge4 an1 mei2 kan4 dao4 guo4 zhe4 ge4 an1 kan4 dao4 guo4
+Dev97 kou3 qin2 ma kou3 qin2 ta1 shuo1 li1
+Dev98 ni3 shao1 deng3 n2 jiao4 hui2 xing2 zhen1
+Dev99 la4 zhu2 mei2 you3
+Dev100 zui4 jin4 yi2 ge4 yue4 jiu4 shi4 liu4 yue4 fen4 you3 mei2 you3 lei1 zhong3 qing2 kuang4 dou4 shi4 lao3 shi1 ni3 you3 mei2 you3 de2 liu4 yue4 fen4 chu1 xian4 lei1 zhong3 qing2 kuang4
+Dev101 ta1 qi3 lai2 yao4 kan4 dian4 shi4 kan4 dian4 shi4 ke3 neng2 yao4 yi1 liang3 ge4 xiao3 shi2 ba ta1 jiu4 bu4 xiang3 shui4 jiao4 ran2 hou4 bai2 tian1 jiu4 shi3 jin4 da3 ke1 shui4
+Dev102 n2 wang4 yuan3 jing4 n2
+Dev103 yong4 bing1 zuo4 de wu1 zi he2 cao3 fang2 zi he2 fen2 mu4 ni3 jue2 de shi4 na3 yi2 ge4
+Dev104 ying4 bi4 n2 hai2 you3 sha2 zi
+Dev105 a ni3 jue2 de wei4 lai2 you3 xi1 wang4 ma you3 xi1 wang4
+Dev106 dan4 shi4 wo3 ge4 ren2 ren4 wei2 de hua4 ke3 neng2 gao3 zhe4 ge4 geng4 zhong4 yao4 ba
+Dev107 ta1 ying1 gai1 shi4 yi1 zhong3 xiao3 hai2 zi hua4 hua4 yong4 de yuan2 gui1
+Dev108 na2 qi3 lai2 le n2 na2 qi3 lai2 le hao3 nin2 nin2 xian4 zai4 jiu4 shi4 na2 zhuo2 bi3 ran2 hou4 zai4 zhi3 shang4 xie3 yi1 ju4 hua4 sui2 bian4 xie3 yi1 ju4 hua4 xie3 yi1 ju4 wan2 zheng3 de hua4 jiu4 ke3 yi3
+Dev109 nong2 cun1 ren2 you3 ma mo4 de2
+Dev110 lou2 ban3 zhi3 yi1 zhi3 di4 ban3 zuo4 zuo4 dong4 zuo4
+Dev111 ran2 hou4 yao4 ji4 zhu4 shi4 bu4 hao3 po2 po2 gen1 wo3 nian4 yi2 ge4 nin2 nian4 yi2 ge4 ha1
+Dev112 ni3 you3 mei2 de2 jing1 chang2 yi1 xie1 fan2 nao3 a you3 mei2 de2 mei2 de2 fan2 nao3
+Dev113 di4 er4 ge4 shi4 nv3 er2 ha1
+Dev114 rong2 qi4 you3 qi4 che1 ye3 mei2 de2
+Dev115 xiang4 lian4 mei2 you3 jian4 guo4 qi4 pao4 mei2 you3
+Dev116 chuang2 chuang2
+Dev117 pi2 fu1 n2 tu2 shu1 guan3 n2
+Dev118 jia1 ju4 shi4 shen2 me jia1 ju4 shu1 zhuo1 yun4 dong4 qi4 cai2 qiu2 pai1
+Dev119 jiu4 shi4 xiang4 cheng1 na4 zhong3 a bang4 cheng4 na4 zhong3 o2
+Dev120 er2 tong2 jia1 ting2 jun1 dui4
+Dev121 liu4 yao1 jiu3 si4 qi1 san1
+Dev122 po2 po2 lai2 ni3 zai4 kan4 yi1 xia4 zhe4 ge4 shi4 pin2 ma
+Dev123 chuan4 chuan4 shi4 na3 yi2 ge4 chuan2 la chuan2 ma jiu4 shi4 du2 mu4 zhou1 sai1 nei3 ge4 shi4 yi2 ge4 shi4 yong4 lai2 bie2 dong1 xi1 de jin3 gu4 jian4 er2
+Dev124 shi4 sha2 zi jian3 dao1
+Dev125 ran2 hou4 wo3 men kan4 le yi3 hou4 ye2 wo3 men zai4 chong2 xin1 hua4 yi1 bian4 hua4 de2 geng4 zhun3 que4 yi4 dian3 hao3 bu4 hao3
+Dev126 na4 wo3 gei3 nin2 shuo1 jiu4 wo3 gei3 nin2 san1 shi2 ge4 ci2 yu3 ran2 hou4 nin2
+Dev127 ta1 lei ge4 jiao1 lv4 jiu4 shi4 jin3 zhang1 zhe4 zhong3 qing2 kuang4 ye3 shi4 ou3 er3 chu1 xian4 shi4 ba n2 n2
+Dev128 ran2 hou4 wo3 men shuo1 le yi1 xie1 jia1 ju4
+Dev129 ti4 dao1 ti4 dao1 hao3 de hao3 de po2 po2 xian4 zai4
+Dev130 zai4 shuo1 yi1 bian4 ye2 ye2 ni3 zai4 shuo1 yi1 bian4
+Dev131 dui4 wo3 men zhu4 de zhe4 da4 bu4 fen4 zhou1 wei2 de ren2 a ken3 ding4 bi3 wo3 men qiang2 sa1 nian2 qing1 ren2 na4 bi3 wo3 men qiang2
+Dev132 zhe4 shi4 yi2 ge4 shou3 feng1 qin2 ge1
+Dev133 hao3 xian4 zai4 xian1 kai1 shi3 zhe4 ge4 shu4 zi4 yue4 lai2 yue4 zhang3 ha1 di4 yi1 zu3
+Dev134 wo3 lei1 li1 gen1 ta1 zhi3 yi1 xia4 ma ai1 ni3 kuo4 yi3 zhe4 ge4 dou1 gei3 wo3 zhi3 dao3 yi1 xia4
+Dev135 n2 di4 yi2 ge4 ji4 jing4 ha1
+Dev136 mao1 mao1 fu3 zi fu3 zi chuang2 chuang2 fei1 ji1
+Dev137 bo1 lang4 gu3 lei ge4 lei ge4 shi4 kou3 qin2
+Dev138 pi2 qiu2 guo2 qi2 shu4 mu4 lei san1 yang4 ha1 ji4 dao4 qi3 ji4 dao4 qi3 pi2 qiu2 guo2 qi2 shu4 mu4
+Dev139 zhe4 ge4 shao4 zi xiao3 shi2 hou4 wan2 guo4 de zhe4 ge4 ne
+Dev140 yong3 qi4 lei ge4
+Dev141 jia1 ju4 shi4 na3 yi2 ge4 jia1 ju4 jia1 ju4 a ei2
+Dev142 ting1 bu4 qing1 le dai4 fu1 hao3 hao3 hao3 wo3 men jie1 xia4 lai2 kan4 yi1 xie1 tu2
+Dev143 lei shi4 kan4 dong1 xi1 li1 ha1 ce4 liang2 liang4 dong1 xi1 li1 o2 ce4 liang2 jiao4 shen2 me chi3 ai1 wo3 kan4 ha1 ka3 chi3
+Dev144 zhuang1 ye4 ti3 de dong1 xi1 shang4 yi1 bian4 ni3 mei2 ji4 dao4 de jiao4 shui3 guan4
+Dev145 li2 ming2 jian4 guo4 mei2 jian4 guo4 mei2 jian4 guo4
+Dev146 zhe4 shi4 ge4 bi3 qian1 bi3 dui4 zhe4 ge4 jian3 dao1
+Dev147 lei ge4 zheng4 fang1 xing2 ai1 ni3 xiang3 ha1 zheng4 fang1 xing2 lang1 ge4 hua4 de
+Dev148 zai4 jian3 sha2 zi a
+Dev149 ge1 ha1 jiu4 shi4 mei2 de2 fa3 de2 ya ji4 bu2 dao4 jiu4 shi4
+Dev150 o2 mei2 wen4 ti2 lao3 jia1 mei2 de2 wen4 ti2 ni3 xian4 zai4 shi4 gang1 gang1 ban1 guo4 lai2 hai2 bu4 shu2 ma lang1 ge4 zi
+Dev151 o2 zhe4 shi4 qu1 chi3 sha2 zi ai1 qu1 chi3 qu1 chi3 sai1
+Dev152 you3 shi2 hou4 shui4 de2 hao3 an1 hai2 ke3 yi3 you3 shi2 hou4 you4 bu4 hao3
+Dev153 gou3 gou3 chui2 zi chui2 zi
+Dev154 ran2 hou4 wo3 men zai4 lai2 kan4 yi1 bian4 shu1 shu1 nin2 xian4 zai4 zai4 lai2 gen1 zhe wo3 ji4 yi1 bian4 zhe4 ge4 dan1 ci2 ha1
+Dev155 e4 san1 jiu3 er4 si4 ba1 qi1 san1 jiu3 er4 si4 ba1 qi1
+Dev156 dao1 zi zhong1
+Dev157 zhu3 yao4 shi4 ta1 you4 biao3 da2 bu4 qing1 chu3 dao4 di3 shi4 na3 li3 bu4 hao3 xia4 yi1 bu4 lang1 ge4 nong4 fa3 le ai1 ta1 mei2 de2 sha2 zi te4 bie2 le ba xian4 zai4
+Dev158 xiao3 de shi4 qing2 hen3 shao3 hen3 shao3 ha1 na4 ni3 you3 mei2 you3 chang2 chang2 jue2 de hen3 xiang3 ku1 ne
+Dev159 n2 a1 yi2 zhi1 qian2 shang4 xue2 shi2 shang4 dao4 shen2 me shi2 hou4 ya shang4 xue2 ya ji4 bu2 dao4 le xiao3 de shi2 hou4 shang4 xue2 de
+Dev160 yi1 he2 er4 n2 si4 he2 wu3 dou1 biao1 qi3 ha1 an4 zhao4 zhe4 ge4 shun4 xu4 ha1 yi1 er4 san1 si4 wu3
+Dev161 hao3 niao3 shi4 na3 yi2 ge4 sha2 zi an1 niao3
+Dev162 sha1 yu2 n2 dui4 tou2 ha1 gang1 gang1 kan4 le yi1 zhong3 yong4 lai2 ce4 liang2 de dong1 xi1 shi4 sha2 zi
+Dev163 gang1 gang1 wo3 gei3 ni3 shuo1 de na4 san1 ge4 pi2 qiu2 n2 dui4 tou2 hai2 you3 sha2 zi shu4 mu4
+Dev164 na4 ge4 you3 yi1 xie1 guan1 yu2 shen1 ti3 lei4 de jiu4 shi4 wo3 shuo1 de di4 yi2 ge4 jiu4 shi4 shen1 ti3 lei4 de er3 duo3 ge1 bo2 dui4 dui4 dui4
+Dev165 lei1 ge4 xiang4 jia1 zi jiu4 hao3 bi3 lei1 gen1 qian2 lei1 xie1 shu4 shu4 a
+Dev166 hai2 shi4 xiang4 gang1 cai2 yi1 yang4 de cong2 xiao3 dao4 da4 de lian2 lian2 lian2 wan2 le jiu4 gei3 wo3 shuo1
+Dev167 xian4 zai4 shi4 ji3 lou2 ni3 xian4 zai4 zai4 de shi4 ji3 lou2 si4 lou2
+Dev168 ta1 you3 mei2 de2 na4 zhong3 kong4 zhi4 bu2 zhu4 de shi4 ta1 jue2 de zhe4 ge4 hua4 bu4 gai1 shuo1 dan4 shi4 ni3 ren3 bu2 zhu4 shuo1 chu1 lai2 you3 mei2 de2 na4 zhong3 qing2 kuang4
+Dev169 zhe4 zhong3 gei3 ni3 men dai4 lai2 le kun4 rao3 le mei2 you3 ne ta1 na4 zhong3 qing2 xu4 gao1 zhang3 hai2 hao3
+Dev170 han3 ni3 sheng1 yin1 da4 dian3 gen1 dao4 ta1 fu4 du2 ni3 yao4 sheng1 yin1 da4 dian3 yi1 sheng1 cai2 ting1 de dao4 gou3
+Dev171 wo3 ye3 shuo1 bu4 shang4 yan4 juan4 yin1 wei4 yi1 tian1 shou3 ji1 ye3 shi4 ge4 gong1 ju4 bi3 jiao4 fang1 bian4
+Dev172 hai3 yang2 tu2 shu1 guan3 mai4 zi er4 hu2
+Dev173 o2 hao3 a1 yi2 na4 jiu4 xian1 zhe4 yang4 ha1
+Dev174 hao3 a1 yi2 wo3 gei3 nin2 du2 yi1 xie1 nin2 kan4 ni3 shu2 xi1 bu4 shu2 xi1 ha1
+Dev175 wei4 yi1 xie1 xiao3 shi4 qing2 shang1 xin1
+Dev176 n2 jiu4 shi4 jue2 zhe you3 yi4 dian3 yi4 yu4 de qing2 kuang4 na4 ta1 you3 shi2 hou4 hui4 tu1 ran2 zi4 ji3 zai4 na3 er2 ku1 huo4 zhe3 shi4 kan4 qi3 lai2 hen3 bei1 shang1 zhe4 zhong3 qing2 kuang4 you3 ma
+Dev177 shi4 fou3 jue2 de sheng1 huo2 chong1 man3 huo2 li4
+Dev178 hua4 hao3 le ma hua4 de2 mei2 ni3 de na4 ge4 hao3 de hua4 wan2 le ha1
+Dev179 pi2 fu1 tu2 shu1 guan3 e4 hai3 yang2
+Dev180 a shen2 me wo3 shuo1 yi1 dao4 er4 shi2 de zi4 dui4
+Dev181 yong4 li1 ai1 nan2 wa2 er2 yong4 li1 shi4 sha2 zi yong4 li1 o2
+Dev182 a1 yi2 nin2 hua4 de you3 dian3 bu4 tai4 biao1 zhun3 ha1 ran2 hou4 wo3 men kan4 yi2 ge4 shi4 pin2 xue2 xi2 yi1 xia4
+Dev183 xian4 zai4 shi4 sha2 zi ji4 jie2 an1 xian4 zai4 shi4 sha2 zi ji4 jie2 ba4 ba4 sha2 zi ji4 jie2 shi4 nei3 ge4 shuo1 de xian4 zai4 an1 xian4 zai4 shi4 sha2 zi ji4 jie2 nei3 ge4 ji4 jie2
+Dev184 ran2 hou4 ni3 ba3 qian1 bi3 fang4 dao4 lei1 ge4 zhi3 li1 yi1 bian1 ran2 hou4 ba3 zhi3 fan1 guo4 lai2
+Dev185 nan2 wa2 er2 yong4 li1 nan2 wa2 er2 yong4 li1
+Dev186 hao3 hai2 you3 ma
+Dev187 zuo4 fan4 xian4 zai4 mei2 han3 ta1 wo3 men dou1 shi4 qing3 de bao3 mu3 o2 na4 ta1 zi4 ji3 shang4 ce4 suo3 zhe4 xie1 ke3 bu4 ke3 yi3
+Dev188 ge1 bo2 fu3 zi mao1 zi4 xing2 che1 hao3 deng3 wo3 ji4 lu4 yi1 xia4 ha1
+Dev189 lei1 ge4 mei2 you3 hao3 li1 lei1 ge4 ye3 mei2 you3 xia4 yi2 ge4 lei1 ge4 kan4 guo4 li1
+Dev190 er2 qie3 ta1 yin1 wei4 yin1 wei4 da3 yi4 miao2 wei4 sha2 zi wo3 qi2 shi2 yi4 zhi2 dou1 you3 dian3 gu4 ji4 da3 yi4 miao2 yin1 wei4 da3 yi4 miao2 mian3 yi4 fan3 ying4 you3 shi2 hou4 shi4 hui4 yin3 qi3
+Dev191 jiao3 luo4 kan4 dao4 guo4 mei2 de2 jiao3 luo4 kan4 dao4 guo4 di1 ya kan4 dao4 di1
+Dev192 hao3 ni3 zhao4 zhe zhe4 fu2 tu2 hua4 hua4 n2 dui4 zhe tu2 hua4 hua4
+Dev193 ni3 you3 mei2 you3 gan3 dao4 jing1 chang2 gan3 dao4 xin1 qing2 chen2 men4 a bu4 shu1 fu2 zhe4 xie1
+Dev194 hao3 wo3 men zai4 lai2 yi1 bian4 ha1 ge1 bo2 ge1 bo2 mao1
+Dev195 po2 po2 ru2 guo3 han3 ni3 qu4 mai3 dian3 xiao3 dong1 xi1 de2 bu4 de2 xing2
+Dev196 ni3 ba3 xin1 qing2 bian4 hao3 le ni3 zhe4 xie1 zheng4 zhuang4 jiu4 man4 man4 xiao1 shi1 le
+Dev197 hao3 na4 wo3 shuo1 shen2 me ni3 jiu4 shuo1 shen2 me hao3 bu4 hao3 yao4 de hao3
+Dev198 san1 er4 qi1 jiu3 dao4 guo4 lai2
+Dev199 bu4 xiao3 de tie1 zai4 na3 li3
+Dev200 jian4 zhu4 wu4 ta1 shi4 zong4 zi hai2 shi4 shi1 shen1 ren2 mian4 xiang4 hai2 shi4 jin1 zi4 ta3
+Dev201 ai1 you3 shi2 hou4 shang4 qie4 ke3 neng2 jiu4 shi4 yi1 er4 shi2 fen1 zhong1 jiu4 shui4 zhao2 le
+Dev202 yi3 qian2 hen3 shu2 xi1 de shi4 qing2 ji4 de dao4 dan4 shi4 xin1 de shi4 qing2 ji4 bu2 dao4 ai1 ai1
+Dev203 n2 shu1 shu1 wo3 ti2 shi4 nin2 yi1 xia4 ha1 zhe4 li3 bian1 you3 yi1 zhong3 shui3 guo3 ni3 hai2 ji4 de bu4
+Dev204 di4 zhi3 xie3 zai4 n2 di4 zhi3 ying1 gai1 xie3 zai4 ni3 ji4 xin4 de hua4 di4 zhi3 ying1 gai1 xie3 zai4 na3 li3 ye3
+Dev205 na4 ge4 shi4 shang4 lou2 ti1 lou2 ti1
+Dev206 hao3 nin2 shuo1 kai1 shi3 ma kai1 shi3 le ma kai1 shi3 kai1 shi3 n2
+Dev207 ta1 jiu4 shi4 wang4 shi4 ji4 bu4 de2 na4 ta1 pi2 qi4 hao3 bu4 hao3 ne pi2 qi4 a ji1 ben3 shang4 hai2 hao3 jiu4 shi4 mei2 you3 shen2 me te4 bie2 ji2 de shi4 ta1 ye3 bu2 hui4 jiao4 zhen1
+Dev208 dao3 yu3 lei ge4 mei2 you3
+Dev209 hao3 po2 po2 xian4 zai4 ping2 mu4 shang4 zhe4 ge4 dong1 xi1 shi4 shen2 me ye3
+Dev210 dui4 bu4 qi3 wo3 ji4 bu4 de2 le mei2 you3 kan4 hao3 de mei2 you3 kan4 ri4 li4 na4 jin1 tian1 xing1 qi1 ji3 zhi1 dao4 ma
+Dev211 jia1 shu3 ma2 fan2 na2 yi1 zhang1 kong4 bai2 de zhi3 fang4 zai4 shu1 shu1 mian4 qian2 de zhuo1 shang4
+Dev212 ran2 hou4 yao4 ji4 zhu4 zhe4 san1 yang4 dong1 xi1 deng3 hui4 hai2 yao4 wen4 ni3 n2 pi2 qiu2
+Dev213 you3 nei4 ge4 ci2 you3
+Dev214 shi4 dao4 han4 zi4 yi1 na4 ge4 kai1 shi3 qu4 dao4 han4 zi4 di1 yi1 lei1 ge4 kai1 shi3 qu4 dao4 han4 zi4 di1 yi1
+Dev215 hao3 shu1 shu1 wo3 men xian4 zai4 zai4 lai2 yi1 bian4 ha1 zai4 ji4 yi1 xia4 ha1
+Dev216 yi3 zi wo3 ji4 bu2 dao4 bi2 zi yi3 zi nin2 zuo4 de na4 ge4 yi3 zi yi3 zi
+Dev217 zhe4 yang4 ba shu1 shu1 gei3 nin2 kan4 yi2 ge4 shi4 pin2 ran2 hou4 nin2 zhao4 zhe ta1 de yang4 zi zai4 hua4 yi1 bian4 hao3 bu4 hao3
+Dev218 n2 hen3 hao3 a po2 po2
+Dev219 na4 ni3 xi3 bu4 xi3 huan1 wu1 tou2 bi3 ru2 shuo1 lai2 ren2 ma jia1 ting2 ju4 hui4 ya huo4 zhe3 ni3 de lao3 tong2 shi4 lao3 peng2 you3 ju4 hui4 ni3 xi3 bu4 xi3 huan1 ma
+Dev220 na4 ta1 xian4 zai4 ke3 yi3 zi4 ji3 shang4 ce4 suo3 ma ke3 yi3
+Dev221 ni3 shi4 dui4 zui4 jin4 fa1 sheng1 de shi4 qing2 gan3 jue2 hen3 rong2 yi4 yi2 wang4 ai1 hai2 shi4 shuo1 dui4 yi3 qian2 yi1 xie1 jiu4 de shi4 qing2 wang4 de duo1 dian3
+Dev222 ru2 guo3 ta1 ren4 bu4 de2 de hua4 wo3 ke3 yi3 du2 gei3 ta1 ting1 qing3 ni3 jin3 liang4 ji4 zhu4 ha1
+Dev223 you3 yi2 ge4 shi4 zhong3 kan4 dong1 xi1 de wu4 pin3 wang4 yuan3 jing4 dui4
+Dev224 ji4 de bu4 duo1 ni3 xiang3 yi1 xia4 ma xiang3 yi1 xia4 ni3 hai2 ji4 de nei3 xie1 ci2 ni3 gei3 wo3 shuo1
+Dev225 yi1 zhong3 ce4 liang2 yong4 yu2 ce4 liang2 de wu4 pin3 shi4 zhi2 chi3
+Dev226 mei2 de2 qi3 gai4 you3 lei ge4 mei2 de2 lei ge4
+Dev227 ye2 ye2 kan4 ping2 mu4 ha1 wo3 men an1 shu4 zi4 shun4 xu4 lian2 yi1 er4 san1 si4 zhe4 ge4 shu4 zi4 shun4 xu4 lian2 qi3 zou3 ni3 kan4 ha1 yi1 lian2 er4 er4 lian2 san1 san1 lian2 si4 si4 lian2 wu3 wu3 lian2 qi1 qi1 lian2 ba1 hao3 zhe4 ge4 dou1 lian2 wan2 le kan4 qing1 chu3 le mei2 you3
+Dev228 wo3 men xu1 yao4 ba3 ta1 ku4 zi tuo1 diao4 a ta1 hui4 ta1 zhi1 dao4 ta1 yao4 shang4 ce4 suo3 ta1 hui4 jiao4 ni3 shi4 ma
+Dev229 ti4 dao1 er4 hu2 hai2 you3 shang4 mian4 zhe4 yi1 pai2
+Dev230 ei2 huo4 gei3 ni3 kan4 yi1 xie1 dong1 xi1 ni3 gei3 wo3 shuo1 shi4 sha2 zi hao3 bu4 hao3
+Dev231 you3
+Dev232 hao3 po2 po2 na4 wo3 men jie1 zhe xia4 mian4 de wo3 xian4 zai4 wo3 jiu4 shi4 zhe4 yang4 de jiu4 shi4 bi3 ru2 shuo1 wo3 gei3 ni3 shuo1 yi1 er4 ran2 hou4 ni3 yao4 dao4 guo4 lai2 gei3 wo3 shuo1 er4 yi1 n2
+Dev233 di4 yi2 ge4 shi4 pi2 qiu2 di4 er4 ge4 shi4 guo2 qi2 di4 san1 ge4 shi4 shu4 mu4
+Dev234 zui4 hou4 zui4 hou4 quan2 bu4 jie2 shu4 zhi1 hou4 nin2 pai1 ge4 zhao4 pian1 fa1 gei3 wo3 jie2 yue1 yi1 xie1 shi2 jian1 bu4 ran2 wo3 pa4 a1 yi2 zhuang4 tai4 hui4 na3 er2 bu4 shu1 fu2
+Dev235 hai2 ji4 de nei3 ge4 ma hai2 ji4 de xian4 zai4 jiu4 bu4 tai4 qing1 chu3 na4 wo3 men jiu4 lai2 zui4 hou4 yi1 ci4
+Dev236 bu4 kong1 xu1 n2
+Dev237 wo3 gei3 ni3 nian4 yi1 chuan4 shu4 zi4 gen1 dao4 du2 yi1 chuan4 shu4 zi4 gen1 dao4 du2 ai1
+Dev238 yi1 zhong3 zhi2 wu4 shi4 sha2 zi ji4 bu4 qi3 le
+Dev239 jiu4 shi4 ni3 an4 zhao4 shi4 pin2 shang4 li1 fang1 fa3 ni3 zai4 hua4 yi1 bian4 shi4 yi1 xia4 a ha1 yao4 de ni3 zhong4 ba shi4 pin2 fang4 chu1 lai2 ba a gang1 gang1 ni3 mei2 kan4 dao4 mie1
+Dev240 wo3 men an4 shu4 zi4 lian2 xian4 ha1 ni3 kan4 ta1 lei1 ge4 yi1 lian2 er4 er4 lian2 san1
+Dev241 wo3 wu1 na3 li3 de2 ni3 pa4 dong4 wu4 sha2 zi ni3 kan4 dao4 zhu1 ni3 ken3 ding4 kan4 dao4 guo4 sai1 nei3 ge4 zhu1 na4 xie1 ni3 kan4 dao4 guo4 o2 o2 ni3 shuo1 zhu1 o2
+Dev242 fang1 xiang4 pan2 shui3 guan4 hai2 you3 sha2 shui3 guo3 a
+Dev243 zhe4 shi4 yi2 ge4 dao4 shui3 yong4 de dong1 xi1
+Dev244 jiu4 shi4 gang1 gang1 bu2 shi4 shuo1 gei3 ni3 kan4 shi2 miao3 zhong1 ni3 ba3 zhe4 xie1 tu2 ji4 xia4 lai2 ma
+Dev245 you3 yi2 ge4 shi4 yong4 lai2 kan4 dong1 xi1 de wu4 pin3 wang4 yuan3 jing4 n2
+Dev246 peng2 jia4 la1 ji1 tong3 wang3 lei ge4 shi4 ge4 sha2 zi shi4 ge4 wang3
+Dev247 shu4 zi4 si4 he2 han4 zi4 si4
+Dev248 fen2 mu4 fen2 mu4 ta1 shuo1 shi4 hao3 lei shi4 sha2 zi ai1
+Dev249 jiu4 hai3 li3 mian4 lei zhong3 jiao4 shen2 me hen3 li4 hai4 xiong1 meng3 de sha1 yu2 ai1 dui4
+Dev250 ke3 yi3 ke3 yi3 fei1 chang2 hao3 hao3 de
+Dev251 zai4 zhi3 shang4 hua4 ge4 yuan2 zai4 zhi3 shang4 hua4 ge4 yuan2 n2
+Dev252 lei shi4 yi1 zhong3 yue4 qi4
+Dev253 hao3 mei2 guan1 xi4 lai2 wo3 men zai4 kan4 yi1 bian4 zai4 lai2 yi1 ci4
+Dev254 pi2 qiu2 guo2 qi2 shu4 mu4
+Dev255 jiao4 che1 du2 guo4 ma
+Dev256 xian1 ren2 zhang3 n2 hao3 zhe4 ge4 ne
+Dev257 yi1 zhu4 yi4 you4 mei2 ting1 dao4 na4 zhong3 o1 wo3 wen4 ha1 ni3 cheng2 du4 ha1
+Dev258 jiu4 shi4 zui4 hou4 wo3 men nian4 le san1 bian4 de zhe4 xie1 ci2 ni3 xian4 zai4 hui2 yi4 yi1 xia4 hai2 neng2 ji4 de qi3 lai2 bu4
+Dev259 na4 ni3 shi4 fou3 yi3 jing1 fang4 qi4 le xu3 duo1 huo2 dong4 he2 xing4 qu4
+Dev260 zhou1 a dui4 tou2 hui4 xing2 zheng1 sha1 yu2 hao3 ji4 xu4
+Dev261 o2 chuang2 yi3 zi
+Dev262 zhe4 ge4 ne zhe4 ge4 shi4 sao3 zhe4 ge4 shi4 sao4 ba3 ei2 dui4
+Dev263 kai1 tuo4 n2
+Dev264 hao3 you3 yi1 zhong3 gu4 ding4 dong1 xi1 de
+Dev265 hao3 la hao3 de san1 ge4 kou3 ling4 dou1 dui4 ma ei2 dui4
+Dev266 wang4 yuan3 jing4 n2 yi1 zhong3 zhi2 wu4 wa
+Dev267 n2 jia1 ting2 n2 n2 er2 tong2 n2
+Dev268 bu4 xing2 ta1 cong2 lai2 bu4 zuo4 chu1 zu1 huo4 zhe3 gong1 jiao1 che1 ta1 jiu4 shi4 chu1 qu4 qu4 yi1 xia4 cai4 shi4 chang3 a qu4 yi1 xia4 chao1 shi4 zui4 duo1
+Dev269 qi2 zi mei2 zi tie3 lu4 ying4 bi4
+Dev270 hao3 de zhe4 ge4 zhe4 ge4 shi4 shen2 me zhe4 ge4 shi4 ai1 ji2 na4 bian1 de yi1 zhong3 jian4 zhu4 nin2 kan4 zhe4 ge4 ta1 shi4 shi1 shen1 ren2 mian4 xiang4 hai2 shi4 jin1 zi4 ta3 ya zhe4 shi4 jin1 zi4 ta3 hao3 de
+Dev271 xian4 zai4 xian4 zai4 wo3 men lai2 shuo1 shu4 zi4 ha1 jiu4 shi4 wo3 shuo1 shen2 me nin2 gen1 wo3 chong2 fu4 jiu4 xing2 hao3 bu4 ke3 yi3
+Dev272 na3 yi2 ge4 lei yi2 ge4 ba4 ba4 zhe4 yi2 ge4 jian3 dao1 jian3 dao1 zhe4 ge4 shi4 jian3 dao1
+Dev273 yi1 yang4 li1 dao4 li3 ni3 han4 zi4 er4 yao4 gen1 shu4 zi4 san1 lian2 qi3 lai2 han4 zi4 san1 yao4 gen1 shu4 zi4 si4 lian2 qi3 lai2
+Dev274 hao3 wo3 xia4 mian4 gei3 ni3 nian4 xia4 yi1 chuan4 shu4 zi4 er4 si4
+Dev275 gang1 gang1 shuo1 li1 kan4 li1 dong1 xi1 ha1 ni3 hui2 yi4 ha1 kan4 neng2 hui2 yi4 qi3 lai2 hao3 duo1 ha1
+Dev276 zhe4 shi4 bi3 ha1 hao3 ran2 hou4 xian4 zai4 ba3 na4 ge4 ling4 wai4 na4 liang3 yang4 dong1 xi1 fen1 bie2 gei3 ta1 na2 qi3 lai2 wen4 ta1 shi4 sha2 zi
+Dev277 ran2 hou4 xian4 zai4 wo3 men kai1 shi3 yao4 lai2 ji4 ci2 le na4 ge4 na4 zhang1 zhi3 ni3 ke3 yi3 fang4 zai4 pang2 bian1 lei1 ha1 zan4 shi2 bu4 xu1 yao4 yong4 na4 zhang1 zhi3 xu1 yao4 yong4 de shi2 hou4 wo3 gei3 ni3 shuo1 yi1 sheng1 ha1
+Dev278 yi3 zi jiao4 che1 yan3 jing1
+Dev279 n2 wo3 men kan4 ping2 mu4 nin2 gao4 su4 wo3 yi1 xia4 ping2 mu4 shang4 zhe4 xie1 dong1 xi1 shi4 shen2 me dong1 xi1
+Dev280 a ta1 you3 yi2 ge4 you3 yi2 ge4 jiao4 biao1 ba3 fei1 biao1 huo3 jian4 ni3 jue2 de shi4 nei3 ge4 fei1 biao1 fei1 biao1 n2
+Dev281 ni3 na4 xie1 ci2 shi4 ni3 kai1 tou2 kan4 dao4 guo4 de nei3 xie1 shi4 ni3 mei2 kan4 dao4 guo4 de
+Dev282 ye3 bu4 yi2 ding4 o2 shi4 fou3 jing1 chang2 yin1 wei4 yi1 xie1 xiao3 shi4 qing2 shang1 xin1
+Dev283 wang4 yuan3 jing4 na3 yi2 ge4 shi4 yong4 lai2 ce4 liang2 dong1 xi1 de zhi2 chi3
+Dev284 mei2 you3 mei2 you3 mei2 de2 ta1 wan3 shang4 you3 mei2 de2 jiu4 shi4
+Dev285 mei3 tian1 dou1 you3 ma n2
+Dev286 zhe4 ge4 an1 mei2 kan4 dao4 guo4
+Dev287 lei ge4 shi4 yi1 zhong3 yong4 lai2 zhu4 de yong4 lai2 ju1 zhu4 de dong1 xi1
+Dev288 yi1 hui4 er tong3 yi1 quan2 bu4 yi1 ha1 fa1 zhao4 pian1 gei3 ni3 ma zui4 hou4 jie2 shu4 de shi2 hou4 nin2 zai4 shuo1 ba3 ta1 lian2 zhe de fa1 gei3 wo3
+Dev289 jiu4 shi4 ni3 shi4 bu2 shi4 gan3 jue2 tou2 nao3 xiang3 shi4 qing2 a xiang3 wen4 ti2 shi4 bu2 shi4 gen1 yi3 qian2 yi1 yang4 dou1 bi3 jiao4 qing1 xi1 hai2 shi4 gan3 jue2 xian4 zai4 mei2 de2 yi3 qian2 na4 me suan4 xiang3 de2
+Dev290 wo3 ting1 ni3 du4 guo4 le de ma n2 du2 guo4 le de
+Dev291 ni3 kan4 yi1 ha1 zhe4 ge4 de lian2 fa3 ha1 ni3 kan4 yi1 xia4
+Dev292 n2 dai4 chong2 qing4 dui4 ni3 men zhu4 zai4 nei3 ge4 qu1 ai1
+Dev293 nei4 ge4 tu2 xing2 yao4 hua4 chu1 lai2 mai4
+Dev294 yi1 zhou1 wo3 men dou1 shi4 shuo1 xiang4 nei4 ge4
+Dev295 ta1 zi4 ji3 da3 dian4 hua4 jie1 dian4 hua4 dou1 mei2 de2 wen4 ti2 de ma mei2 wen4 ti2
+Dev296 ta1 hai2 shi4 yuan4 yi4 wo3 hai2 shi4 yuan4 yi4 o2 hao3 li1 zuo4 huo2 dong4 wo3 ba3 xin1 bu4 de2 qu4 zuo4
+Dev297 hen3 yi4 ban1 hen3 ping2 chang2 na4 ni3 xian4 zai4 hai2 xi3 huan1 qu4 can1 jia1 na4 xie1 ju4 hui4 a na4 xie1 huo2 dong4 bu4 a
+Dev298 ran2 hou4 deng3 yi1 ha1 ai1 ni3 ba3 ni3 ji4 dao4 de ci2 dou1 gao4 su4 wo3 wo3 hui4 gei3 ni3 duo1 nian4 ji3 bian4 ha1 lei xie1 ci2 ni3 bu4 xu1 yao4 an4 shun4 xu4 gao4 su4 wo3 ni3 neng2 ji4 duo1 shao3 ji4 duo1 shao3 ha1
+Dev299 ta1 shi4 yi2 ge4 san1 jiao3 jia4 hai2 shi4 ji1 xie4 shou3 bi4 hai2 shi4 hua4 jia4
+Dev300 ru2 guo3 xin1 fa1 de hua4 qi2 shi2 feng1 xian3 hai2 geng4 gao1 hen3 lao3 de fang2 chan4 de ke3 neng2 feng1 xian3 hai2 di1 dian3
+Dev301 ran2 hou4 ting1 zhe wo3 a ting1 qing1 chu3 ha1 wo3 hui4 shuo1 man4 yi4 dian3 ha1 shuang1 shou3 wo4 quan2
+Dev302 ta1 quan1 qi3 de zhe4 ge4 shou3 zhi3 wo3 men han3 ta1 sha2 zi zhe4 ge4 zhong1 zhi3 da4 mu3 zhi3 ta1 quan1 qi3 lai2 de zhe4 ge4 shou3 zhi3 wo3 men han3 ta1 han3 sha2 zi
+Dev303 ta1 you3 mei2 you3 qi2 ta1 de hen3 rong2 yi4 ji1 nu4 de yi1 xie1 xing2 wei2
+Dev304 shu1 shu1 zhe4 hui2 ne e4 ni3 gao4 su4 wo3 neng2 ji4 zhu4 shen2 me sui2 bian4 sui2 bian4 shuo1 zhi3 yao4 neng2 xiang3 qi3 na3 yi2 ge4 ci2 ke3 yi3 bu4 an4 shun4 xu4 de
+Dev305 zhi3 jiu4 shuo1 wo3 men ji4 de na4 ge4 dao4 ju4 li3 mian4 you3 zhi3 sa1 na2 yi1 zhang1 bai2 zhi3 chu1 lai2
+Dev306 xiang3 bu4 qi3 lai2 hao3 de hao3 na4 wo3 xian4 zai4 gei3 nin2 nian4 san1 shi2 ge4 ci2
+Dev307 hao3 zhi3 yi1 xia4 wu1 ding3 zai4 zhi3 yi1 xia4 di4 ban3
+Dev308 shou4 le shi2 ji3 jin1 o2 shou4 le shi2 ji3 jin1
+Dev309 tu2 shu1 guan3 hai3 yang2 xian4 zai4 ji4 de nei3 xie1 ci2 a hao3 ni3 xian4 zai4 ji4 de nei3 xie1
+Dev310 ei2 dui4 ha1 xian4 zai4 jiang1 bi3 fang4 zai4 bai2 zhi3 de ling4 wai4 yi1 bian4
+Dev311 sha2 zi lu4 sha2 zi jie1 ni3 men na4 xiao3 bu4 xiao3 de
+Dev312 ni3 jue2 de dou1 mei2 kan4 dao4 guo4 jiu4 shuo1 dou1 mei2 kan4 guo4 ye3 xing2
+Dev313 bing1 wu1 he2 cao3 fang2 ni3 jue2 de shi4 na3 yi2 ge4 huo4 zhe3 shi4 fen2 mu4
+Dev314 bu4 rong2 yi4 ni3 you3 mei2 you3 xi1 wang4 bi4 kai1 yi1 xie1 ju4 hui4 ju4 hui4 zhe4 xie1 mei2 qu4 guo4 mei2 lang1 ge4 gao3 guo4
+Dev315 jiu4 shi4 bi3 ru2 shuo1 fei1 chang2 de gu4 zhi2 yi2 ding4 yao4 an4 zi4 ji3 de fang1 shi4 xing2 shi4 bu4 he2 zuo4 ju4 jue2 ta1 ren2 de bang1 zhu4 nan2 yi3 he2 ta1 su4 shuo1 dui4 yu2 bie2 ren2 da4 han3 da4 jiao4 da3 ma4 bie2 ren2 ta1 bu4 da3 ma4 bie2 ren2 ta1 yao4 chao3
+Dev316 shi2 hao4 zuo4 de shi2 hao4 jin1 tian1 shi4 shi2 qi1 hao4 cai2 yi1 zhou1 ma bu4 zhao2 ji2 ma
+Dev317 wo3 dian4 hua4 kan4 wo3 men lei1 ge4 kan4 wo3 lao3 gong1 kan4 ta1 ta1 cai2 xiao3 de wo3 da3 dian4 hua4 wen4 hao3 bu4 hao3
+Dev318 n2 hao3 lao3 hu3 kan4 dao4 guo4 mei2 you3 lao3 hu3 wo3 men gang1 cai2 kan4 dao4 guo4 mei2 de2 wo3 men kan4 dao4 guo4 mei2 de2 zhe4 ge4 di4 fang1 kan4 bu2 dao4 sai1
+Dev319 na4 ni3 tong4 bu4 tong4 bu4 tong4 bu4 tong4 a o2
+Dev320 niao3 shi4 na3 yi2 ge4 niao3 niao3 shi4 zhuo2 mu4 niao3 yang4 hao3 xiang4 shi4
+Dev321 jia1 ren2 dou1 ren4 bu2 dao4 de hua4 hai2 shi4 bi3 jiao4 zhong4 ta1 you3 shi2 hou4 ren4 de dao4 you3 shi2 hou4 ren4 bu2 dao4 n2
+Dev322 shi4 fou3 jing1 chang2 xiang3 ku1 bu4 xiang3 ku1 zhong4 mei2 ku1 guo4 ji2 zhong1 jing1 li4 you3 kun4 nan2 ma bu4 kun4 nan2
+Dev323 xie3 yi1 ju4 sui2 bian4 xie3 yi1 ju4 hua4
+Dev324 wu3 jiu3 yao1 qi1 si4 er4 ba1
+Dev325 xian4 zai4 zhe4 yi1 bian4 rang4 ni3 ji4 de ha1 ni3 yao4 ba3 ta1 men ji4 zhu4 ha1 hao3 hao3 kai1 shi3 ji1 jin4
+Dev326 zhe4 xie1 ci2 dou1 kan4 guo4 de zhe4 ge4 ye3 kan4 guo4 de zhe4 ge4 ye3
+Dev327 yue4 qi4 ji4 bu2 dao4 suan4 le yue4 qi4 shi4 sha2 zi
+Dev328 zao3 ri4 hao3 wo3 xiang3 zao3 dian3 hao3 ba3 ji4 yi4 li4 hui1 fu4 lai2
+Dev329 da4 gai4 ming2 bai2 le mei2 de2 ni3 zai4 hua4 yi1 xia4 sai1
+Dev330 zhe4 ge4 shi4 ge4 niu2 mai4 ma3 yo1 yang2 zi yo1 o2 na4 ni3 kan4 zhe4 shi4 sha2 zi
+Dev331 ran2 hou4 wo3 nian4 wan2 zhi1 hou4 nin2 hai2 shi4 ji4 yi1 xia4 ran2 hou4 ba3 neng2 ji4 zhu4 de gao4 su4 wo3 jiu4 bu2 yao4 an4 zhao4 shun4 xu4 n2
+Dev332 yan3 jing1 ting1 guo4 mei2 de2 yan3 jing1 ting1 guo4 li1 ting1 guo4 li1
+Dev333 shi4 leng2 ge4 yang4 zi li1 wo3 men de gan3 jue2 shi4 ta1 xian4 zai4 zuo4 ti2 a wo3 jue2 de gen1 shang4 hui2 cha4 bu4 duo1 ji1 hu1 dou1 zuo4 bu4 qi3
+Dev334 bian1 du2 bian1 ji4 ma yao4 na4 ge4 ya bie2 ge4 ba3 na4 ge4 zui4 duo1 yi1 ha1 er2 jiu4 ba3 na4 ge4 nong4 wan2 cheng2 ni3 shi4 nao4 de
+Dev335 jiu4 shi4 you3 dian3 you1 yu4 dan4 shi4 you3 mei2 you3 dian3 jiao1 lv4 jiu4 shi4 kan4 qi3 lai2 jin3 zhang1 zuo4 li4 bu4 an1 de na4 zhong3
+Dev336 wo3 mei2 xiang3 zhe4 ge4
+Dev337 na4 ni3 lang1 ge4 ban4 ni3 guo2 ren2 dou1 bu4 xiao3 de hao3 duo1 sui4 a ni3 guo2 ren2 dou1 bu4 xiao3 de ni3 hao3 duo1 sui4 na4 shi4 ni3 bing4 le
+Dev338 liu4 er4 jiu3 jiu3 er4 liu4
+Dev339 ni3 nao3 ke2 xiang3 de shi4 shang4 mian4
+Dev340 hai2 mei2 you3
+Dev341 na4 ci4 gan3 mao4 lao2 na4 shi4 gan3 mao4 hao3 lei1 na4 mei2 wen4 ti2 de2
+Dev342 fei1 ji1 wu1 gui1 you3
+Dev343 n2 n2 dou4 shi4 zui4 jin4 ji3 tian1 zui4 jin4 ji3 tian1 da4 bian4 shi4 sha2 zi yan2 se4
+Dev344 an4 shun4 xu4 ha1 kai1 shi3 yi1 zai4 na3 li3 yi1 zai4 na3 li3
+Dev345 hao3 xian4 zai4 wo3 you4 gei3 ni3 shuo1 le yi1 bian4 le san1 xian4 zai4 ni3 lai2 hui2 yi4 gang1 gang1 wo3 men yi1 gong4 kan4 le nei3 xie1 ci2
+Dev346 zi4 xing2 che1 hao3 po2 po2 xian4 zai4 ji4 de nei3 xie1 ci2 a zi4 xing2 che1 ge1 bo2 dao1 zi
+Dev347 you3 yi1 zhong3 chuan2 e4
+Dev348 ta1 leng2 ge4 bing4 shi3 mei2 sha2 zi te4 zheng1 xing4 ha1 ye3 bu4 xiao3 de jiu4 tu1 ran2 fa1 xian4 jiu4 zhe4 yang4 zi
+Dev349 zhe4 ge4 mei2 kan4 dao4 zhe4 ge4 an1 kan4 dao4 le yang4 n2
+Dev350 xiang1 dang1 yu2 ta1 hua4 le san1 ge4 le yo1 mei4 er2 wo3 xiao3 de hua4 le san1 ge4 hou4 mian4 hua4 de liang3 ge4 ni3 gei3 wo3 biao1 yi1 xia4 ma
+Dev351 a po2 po2 nin2 xian4 zai4 cong2 yi4 bai3 jian3 qu4 qi1 ran2 hou4 suo3 de dao4 de shu4 zi4 zai4 jian3 yi4 zhi2 zhe4 yang4 ji4 suan4 xia4 qu4 bing4 qie3 ba3 mei3 ge4 da2 an4 dou1 gao4 su4 wo3 zhi2 dao4 wo3 shuo1 ting2 wei2 zhi3 ha1
+Dev352 na4 ni3 jue2 de ni3 xian4 zai4 sheng1 huo2 guo4 de2 hai2 shi4 bi3 jiao4 shu1 shi4 qie4 yi4 de zhe4 zhong3 shi4 hai2 shi4 bu2 shi4
+Dev353 a hao3 hao3 na4 deng3 yi1 ha1 ye2 ni3 kan4 shi4 pin2 ma kan4 zi3 xi4
+Dev354 n2 yi1 zhong3 zhi2 wu4 ne
+Dev355 bu2 shi4 na4 zhong3 jia3 ru2 shuo1 hao3 bi3 wo3 men zou3 lu4 jiu4 shi4 xiang4 na4 ge4 you3 shi2 hou4 hei1 de le na4 xie1 shi2 hou4 zou3 lu4
+Dev356 na4 zuo2 wan3 shang4 shui4 hao3 mei2 you3 ma zuo2 wan3 shang4 shui4 de2 hao3 bu4 hao3 shui4 de2 hao3 ai1
+Dev357 wo1 niu2 a xi1 niu2 dui4
+Dev358 shuang1 shou3 dui4 zhe2 shuang1 shou3 dui4 zhe2 dui4 zhe2 a o2 n2 n2 shuang1 shou3 dui4 zhe2 o2 o2 o2
+Dev359 bu4 neng2 ji4 ha1 po2 po2 bu4 neng2 ji4 bu2 yao4 ji4
+Dev360 o2 jiu4 shi4 jue2 de wai4 tou de shi4 qing2 bi3 wu1 tou2 de dong1 xi1 shi4 yao1 hao3 xie1 na4 ni3 dan1 xin1 jiang1 lai2 bu4
+Dev361 ru2 guo3 xian4 zai4 rang4 ni3 qu4 chang2 shi4 zuo4 xie1 xin1 de gong1 zuo4 a zuo4 xie1 nei4 zhong3 shi4 qing2 hui4 bu2 hui4 gan3 jue2 hen3 kun4 nan2 na4 you3 yi1 fen4 gong1 zuo4 a hai2 ke3 yi3 wo3 neng2 gou4 sheng4 ren4 xia4 lai2 de wo3 hai2 shi4 xiang3 wo3 hai2 shi4 ke3 yi3 gei3 ni3 zuo4 a
+Dev362 kan4 qing1 chu3 le ha1 qing1 chu3 le na4 wo3 men xian4 zai4 zi4 ji3 lai2 hua4 yi2 ge4
+Dev363 yi2 ge4 dou1 ji4 bu4 de2 le ma n2 yi2 ge4 dou1 xiang3 bu2 dao4 na3 men2 ji4 bu4 de2 ji4 bu4 de2 tai4 kuai4 le
+Dev364 hai2 you3 ma
+Dev365 jiu4 shi4 zhe4 bian1 ba3 bi3 xian1 fang4 zai4 bai2 zhi3 de ling4 yi1 bian1 bai2 zhi3 de ling4 yi1 bian1
+Dev366 liu4 yi1 jiu3 si4 qi1 san1 liu4 jia1 jiu3
+Dev367 hao3 zui4 hou4 yi1 bian4 ha1
+Dev368 ai1 hao3 tie1 na4 ge4 zhi1 hou4 hai2 you3 sa1 zi neng2 zuo4 li1 ni3 xiang3 yi1 xiang3
+Dev369 ta1 ke3 neng2 gen1 yi3 qian2 mei2 you3 bian4 hua4 jiu4 shi4 ta1 ke3 yi3 jiu4 shi4 du2 li4 wan2 cheng2 jia1 wu4 mei2 de2 wen4 ti2 shi4 bu2 shi4 n2
+Dev370 yi4 bai3 jian3 qi1 deng3 yu2 jiu3 shi2 san1 zai4 jiu4 shi4 ba1 shi2 ba1 shi2 ba1 shi2 si4
+Dev371 jia1 zi hao3 de hong2 quan1 quan1 quan1 chu1 lai2 zhe4 ge4 shou3 zhi3 tou jiao4 shen2 me ming2 zi4 a
+Dev372 e2 bo1 da3 dian4 hua4 you3 mei2 you3 wen4 ti2 mei2 de2
+Dev373 o2 hao3 ma hao3 xie4 xie4 a n2 hao3 mei2 shi4
+Dev374 o2 shi4 fang1 xiang4 pan2 dui4 li3 dui4 li3 you3 yi2 ge4 shi4 zhong3 zhuang1 ye4 ti3 di1 wu4 pin3
+Dev375 di4 yi2 ge4 shi4 pi2 qiu2 n2 ting1 dao4 mei2 de2 pi2 qiu2
+Dev376 wo3 lao3 ban4 zou3 le lao3 ban4 zou3 ji3 nian2 zou3 le san1 nian2 le ni3 hai4 bu4 hai4 pa4 ni3 hai4 bu4 hai4 pa4 yu4 jian4 bu4 xing4 de shi4
+Dev377 mei2 you3 zhe4 ge4 gan3 jue2 n2 you3 mei2 you3 jing1 chang2 gan3 jue2 dao4 yan4 juan4 mei2 you3 na4 nin2 jue2 de wei4 lai2 you3 mei2 you3 xi1 wang4
+Dev378 ji4 jie2 lei ge4 mei2 de2
+Dev379 e2 na4 ni3 xian4 zai4 zai4 de zhe4 ge4 di4 fang1 jiao4 shen2 me jie1 dao4 shi4 nei3 ge4 xiao3 qu1 ne tong1 tian1 lu4 hao3 de
+Dev380 ta1 you3 mei2 de2 jiu4 shi4 gan3 jue2 hen3 rong2 yi4 fa1 nu4 a qing2 xu4 bu4 wen3 ding4 zhe4 xie1
+Dev381 hao3 po2 po2 jie1 xia4 lai2 de hua4 wo3 hui4 gei3 ni3 kan4 yi1 xie1 ci2 yu3
+Dev382 ji4 bu2 dao4 ai1 yi2 ge4 dou1 ji4 bu2 dao4 a xiang3 de2 qi3 ji3 ge4 suan4 ji3 ge4 hai2 ji4 bu2 dao4 ji4 bu2 dao4 a zai4 xiang3 yi1 xia4 ai1
+Dev383 you3
+Dev384 jia1 ting2 ying4 bi4
+Dev385 pu2 tao2
+Dev386 ni3 ji4 yi4 li4 bu4 hao3 shi4 dang1 shi2 ji4 yi4 li4 bu4 hao3 ha1 ha1 xiang3 qi3 lai2 hai2 shi4 yi4 zhi2 xiang3 bu4 qi3
+Dev387 fan3 zheng4 ta1 zi1 shi4 hai2 shi4 mei2 you3 gan3 jue2 hai2 shi4 mei2 dui4 tou2 ha1 kan4 zhe jiu4 hen3 nan2 shou4
+Dev388 na4 ni3 zhu4 de zhe4 ge4 di4 zhi3 bi3 ru2 shuo1 jiao4 nei3 ge4 xiao3 qu1
+Dev389 hua4 zhe4 ge4 zhao4 zhe zhe4 fu2 tu2 hua4 n2
+Dev390 n2 na4 yong4 lai2 ce4 liang2 de dong1 xi1 shi4 sha2 zi ye3
+Dev391 wo3 guo2 ren2 na3 li3 xiao3 de guo2 ren2 hao3 duo1 sui4 ma
+Dev392 er3 duo3 n2
+Dev393 she2 she2 mei2 shuo1 guo4
+Dev394 deng3 dao4 deng3 dao4 mei2 de2 wo3 mei2 you3 kan4 dao4 ji1 ni3 kan4 dao4 guo4 mei2 de2 ji1 dao4 you3 o2
+Dev395 hai2 you3 ma mao1
+Dev396 chu2 fang2 li1 yan1 cong1 yi1 zhong3 chuan2 du2 mu4 zhou1
+Dev397 n2 wu3 san1 jiu3 shi2 yao1 ba1
+Dev398 xiang1 dang1 yu2 shi4 suo3 you3 dou1 shi4 shu4 zi4 yi1 gen1 han4 zi4 er4 shu4 zi4 er4 gen1 han4 zi4 er4 lian2 qi3 lai2 shi4 mei2 you3 wen4 ti2 de
+Dev399 ji4 bu4 de2 hao3 ta1 jiu4 shi4 ji4 xing4 nei4 kuai4 you3 wen4 ti2 qi2 ta1 nei4 xie1 dou1 mei2 de2 wen4 ti2
+Dev400 na3 yi2 ge4 shi4 ying1 er2 yong4 pin3 jiu4 shi4 xiao3 wa2 er2 shua3 de
+Dev401 zhe4 ge4 ji4 de dao4 o2 zhe4 ge4 ji4 de dao4 zhe4 shi4 shen2 me zhe4 ge4 shi4 shen2 me zhe4 ge4 jiu4 shi4
+Dev402 chui2 zi chui2 zi yi3 zi yi3 zi
+Dev403 bi3 he2 bai2 zhi3 jiu4 fang4 zai4 zhuo1 shang4 jiu4 xing2 jiu4 liang3 ge4 bu2 yao4 chong2 die2 bu2 yao4 chong2 die2 de fang4
+Dev404 shi4 fou3 jue2 de zi4 ji3 de ji4 yi4 li4 bi3 yi3 qian2 cha4
+Dev405 ran2 hou4 yi1 zhong3 hai3 yang2 sheng1 wu4 jiu4 shi4 sha1 yu2
+Dev406 ji3 yue4 fen4 la ai1 ya1 hua4 you4 shuo1 hui2 lai2 wo3 men hen3 shao3 kan4 zhe4 ge4 ji4 jie2 ni3 cai1 yi1 xia4 ma nin2 da4 gai4 gu1 ji4 yi1 xia4 xian4 zai4 shi4 ji3 yue4 fen4
+Dev407 hua4 cheng2 zhe4 yang4 de ha1 jiu4 shi4 shang4 mian4 lei1 ge4 tu2 de yi2 ban4 ta1 zai4 hua4 lei1 ge4 tuo3 yuan2
+Dev408 ta1 shuo1 nei4 ge4 you3 ge4 xiao3 hai2 er2 bei4 le yi1 tiao2 she2
+Dev409 shu4 shu4 mei2 you3 shuo1 guo4 ge1 bo2 ge1 bo2 ye3 mei2 you3 shuo1 guo4
+Dev410 chuang2 chuang2
+Dev411 biao1 ba3 fei1 biao1 huo3 jian4 ni3 jue2 de shi4 na3 yi2 ge4
+Dev412 n2 dui4 dui4 po2 po2 lei ge4 wo3 men jiu4 shuo1 san1 bian4 ru2 guo3 li3 jie3 bu2 dao4 jiu4 an4 zhao4 ni3 de li3 jie3 lai2 zuo4
+Dev413 zhe4 ge4 shi2 zhi3 zhong1 zhi3 wu2 ming2 zhi3 xiao3 zhi3
+Dev414 jia1 shi2 wu4 yong4 de qian2 zi ba qian2 zi ta1 shuo1 de shi4
+Dev415 shu1 shu1 wo3 ti2 xing3 yi1 xia4 ha1 shu1 shu1 wo3 ti2 xing3 ni3 yi1 xia4 you3 yi1 xie1 ci2 shi4 wo3 men shen1 ti3 bu4 fen4 de ci2
+Dev416 wo3 xian4 zai4 yao4 gei3 ni3 shuo1 san1 ge4 ci2 le ni3 jin3 liang4 de ji4 dao4 qi3 ha1 dai4 hui4 wo3 yao4 wen4 ni3 ba3 lei1 san1 ge4 ci2 dou1 ji4 dao4 qi3
+Dev417 you3 ge4 hen3 da4 de you3 ge4 zhong1 wen2 zhong1 guo2 zi4 de yi1 n2 ran2 hou4 cong2 zhong1 guo2 zi4 de na4 ge4 yi1 nei4 you4 kan4 dao4 shu4 zi4 de er4
+Dev418 you3 yi2 ge4 shi4 yi1 zhong3 yun4 dong4 qi4 cai2
+Dev419 shi4 fou3 hui4 xi1 wang4 dai4 zai4 wu1 tou2 bu4 yuan4 yi4 chu1 qu4 zuo4 xin1 xian1 shi4 bu4 ai1 wo3 hai2 shi4 yuan4 yi4 zuo4 xin1 xian1 shi4 hai2 jing1 chang2 chu1 qu4 lv3 you2 de ma
+Dev420 ni3 bu4 kan4 po2 po2 dai4 nei4 ge4 e2 zhe4 ge4
+Dev421 shi4 gou3 hai2 shi4 bao4 yu2 hai2 shi4 hai3 ma3 hai3 ma3 wo3 jue2 de mei2 xiang4
+Dev422 ai1 dui4 shi4 sha1 yu2 ran2 hou4 you3 yi1 zhong3 yong4 yu2 ce4 liang2 de wu4 pin3
+Dev423 jia1 ju4 ju4 zi jia1 ju4 chuang2
+Dev424 xing2 le zhe4 zhong3 qing2 kuang4 wo3 men jiu4 ku3 nao3 cheng2 du4 da4 yue1 zai4 shen2 me da3 ge4 fen1 bi3 ru2 shuo1 qing1 wei1 de ran2 hou4 qing1 du4 de jiu4 wo3 men hen3 rong2 yi4 ying4 dui4 de ran2 hou4 zhong1 du4 de wo3 men jiu4 nan2 yi3 ying4 dui4 de jiu4 shu1 shu1 zhe4 zhong3 pi2 qi4 bu4 wen3 ding4 de qing2 kuang4
+Dev425 kan4 dao4 de qi3 tou2 ge4 hai2 yao4 qing1 chu3 xie1 a ta1 zhe4 ge4 shi4 bie2 ge4 pai1 de shi4 pin2 o2
+Dev426 bo2 bo2 mao1 shu1 tou2
+Dev427 o2 yue4 qi4 er4 hu2 wa lei1 xie1 hao3 ge4 ren2 wei4 sheng1 wu4 pin3 shi4 sa1 zi
+Dev428 chu1 lai2 le da4 shu4 da4 shu4 ha1 zhe4 ge4 ne
+Dev429 yuan4 bu4 yuan4 yi4 can1 jia1 yi1 xie1 ju4 hui4 huo2 dong4 lei xie1 yuan4 bu4 yuan4 yi4
+Dev430 hao3 zhe4 ge4 bu4 xiao3 de a na4 zhe4 ge4 shi4 sha2 zi zhe4 ge4 shi4 sha2 zi ba4 ba4 qian1 bi3 man2 n2
+Dev431 ran2 hou4 wo3 zai4 zai4 gei3 ni3 chong2 xin1 kan4 yi1 ha1 wo3 men xu1 yao4 ji4 zhu4 de dan1 ci2 you3 nei3 xie1 ni3 ke3 yi3 nian4 chu1 lai2
+Dev432 ai1 ya1 suan4 le bu4 nong4 le ma3 shang4 jiu4 wan2 le ye2 ma3 shang4 ma3 shang4 hai2 you3 wu3 ge4 hai2 you3 wu3 ge4 ha1 hai2 you3 wu3 ge4 ya ma3 shang4 na4 ge4 na4 ge4 shi4 sha2 zi
+Dev433 hao3 ran2 hou4 niang2 niang2 ni3 lai2 suan4 yi1 xia4 yi4 bai3 jian3 qi1 deng3 yu2 hao3 duo1 an1
+Dev434 ni3 ping2 shi2 you3 mei2 de2 zi4 ji3 hu1 qi4 jiu4 shi4 shui4 jiao4 de shi2 hou4 gan3 jue2 hu1 xi1 bu4 shu1 fu2 jiu4 shi4 gan3 jue2 chuan3 bu4 guo4 qi4 lai2 nei4 zhong3 gan3 jue2
+Dev435 you4 shi4 you3 zhe4 zhong3 gan3 jue2 wo3 jue2 de bu4 hao3 xiao4 ta1 kan4 dian4 shi4 ta1 ye3 jue2 de hao3 xiao4 ta1 zi4 ji3 you4 zai4 xiao4 gen1 shuo1 ge4 hua4 ta1 ye3 xiao4
+Dev436 mo4 de2 na4 ge4 mo4 de2
+Dev437 wo3 mei2 ting1 po2 po2 wo3 shuo1 hua4 nin2 nin2 neng2 ting1 de dong3 ma nin2 neng2 ting1 dong3 wo3 shuo1 hua4 ma
+Dev438 hua4 zhe4 ge4 yi1 yang4 zhao4 dao4 zhe4 ge4 hua4 da4 xiao3 hua4 de yi1 yang4 da4 ma da4 xiao3 kan4 ni3 ma shao1 wei1 hua4 da4 dian3 ma hua4 zai4 xia4 tou
+Dev439 chu2 fang2 li1 bu2 shi4 dao1 ha1 yan1 cong1 yi1 zhong3 chuan2 du2 mu4 zhou1
+Dev440 you3 you3 you3 o2 ran3 ran3 li3 tou wen4 yi1 ha1 gao1 lao3 shi1 zai4 bu4 ba3 gao1 lao3 shi1 han3 guo4 lai2 ma hou4 tou you3 xie1 wen4 ti2 yao4 ta1 yi4 qi3 lai2 yi4 qi3 hui2 da2 hao3
+Dev441 n2 hao3 nin2 zai4 hui2 yi4 yi1 xia4
+Dev442 ni3 xiang3 ha1 ta1 de na4 zhong3 zhuang4 tai4 ha1 lei ge4 fei4 ai2 dou4 shi4 ge4 ni3 yu4 qi1 ta1 de shou4 ming4
+Dev443 shu1 shu1 nin2 xian4 zai4 bu2 yong4 shuo1 you3 mei2 you3 nin2 jiu4 ba3 zhe4 xie1 ci2 ji4 zhu4 hao3 bu4 hao3
+Dev444 hao3 xian4 zai4 wo3 men lai2 zuo4 xia4 yi2 ge4 ye2 ye2 wo3 xian4 zai4 wo3 zai4 gei3 ni3 kan4 yi1 zu3 ci2 ha1
+Dev445 guan1 jian4 shi4 ni3 zhe4 ge4 chao1 sheng1 wei4 jing4 zuo4 bu4 zuo4 ne
+Dev446 ai1 cha4 bu4 duo1 hao3 ni3 xian4 zai4 na2 yi1 zhang1 bai2 zhi3 fang4 zai4 ta1 mian4 qian2 o2
+Dev447 si4 er4 qi1 san1 yao1 si4 er4 qi1 san1 yao1
+Dev448 ci2 yu3 na4 ge4 fen1 sha2 zi bu4 fen1 qian2 hou4 ni3 ji4 de dao4 nei3 ge4 shi4 nei3 ge4
+Dev449 ni3 men an1 wei4 ta1 de hua4 neng2 gou4 huan3 jie3 bu4 ta1 de zhe4 you3 jiu4 shi4 jin3 zhang1 hai4 pa4 zuo4 li4 bu4 an1 gen1 ni3 men fen1 kai1 zhi1 hou4 you3 ha1
+Dev450 n2 ma1 ma1 shi4 zhi2 jie1 jiu4 bang1 ta1 chuan1 ma
+Dev451 zhe4 ge4 shi4 lun2 chuan2 po2 po2 ni3 kan4 ta1 shi4 ni3 jue2 de ta1 shi4 xiang4 kou3 qin2 hai2 shi4 xiang4 ge4 xiang1 zi
+Dev452 jing1 li4 jing1 li4 hai2 chong1 pei4 o2 dou1 shui4 zhao2 le de na4 ni3 jue2 bu4 jue2 de2 zi4 ji3 de ji4 yi4 li4 bi3 yi3 qian2 cha4 le ne
+Dev453 zhe4 shi4 hui4 hua4 yong4 de ta1 shi4 yao4 mian2 qian1 hai2 shi4 chi3 zi hai2 shi4 yuan2 gui1 yuan2 gui1
+Dev454 qing3 bi4 shang4 ni3 de yan3 jing1 n2 hao3 de hao3 ke3 yi3 ke3 yi3 zheng1 kai1 le ha1
+Dev455 hua4 jia4 a san1 jiao3 jia4 san1 jiao3 jia4 wo3 jue2 de bu2 shi4 hen3 xiang4 a
+Dev456 you3 shi2 hou4 hai2 shi4 zhen1 de bu4 kai1 xin1 hao3 de na4 ni3 hai4 bu4 hai4 pa4 you3 bu4 kai1 xin1 de shi4 qing2 luo4 zai4 ni3 tou2 shang4 ne
+Dev457 fu3 zi fu3 zi fu3 zi fu3 zi you3
+Dev458 deng3 yi1 ha1 er2 gei3 wo3 pai1 zhao4 ha1 deng3 yi1 ha1 er2 gei3 wo3 pai1 zhao4
+Dev459 ran2 hou4 na2 lai2 die2 hao3 le fang4 zai4 na4 ge4 xin4 feng1 tou2 ran2 hou4 yao4 zhao3 ni3 ji4 xin4 di1 hua4 zui4 hou4 ying1 gai1 yao4 xie3 di4 zhi3
+Dev460 na4 ta1 jiu4 shi4 ta1 de shen1 gao1 da4 gai4 duo1 gao1 a yi1 liu4 ba1 zuo3 you4 ba
+Dev461 jiu4 shi4 nian4 guo4 de na4 xie1 ci2 ni3 hai2 ji4 de duo1 shao3 hui2 xiang3 yi1 xia4
+Dev462 bu2 dui4 ha1 chi3 zi he2 sha1 yu2 dou1 shi4 qian2 mian4 na4 ge4 ce4 shi4 de le a1 yi2 wo3 men kan4 jiu4 shi4 xiang3 yi1 xiang3 gang1 cai2 cai2 rang4 nin2 du2 guo4 de zhe4 xie1 ci2
+Dev463 hui2 sheng1 mei2 you3 zhi2 zi mei2 you3
+Dev464 zhe4 zhong3 shi4 mei3 tian1 dou1 you3 ye3 bu2 shi4 mei3 tian1
+Dev465 mi3 chi3 ma hai2 you3 yi1 zhong3 jiu4 shi4 kan4 yi1 zhong3 kan4 dong1 xi1 de wu4 pin3 kan4 hen3 yuan3 hen3 yuan3 wang4 yuan3 jing4 ai1 dui4
+Dev466 xian4 zai4 shi4 shen2 me ji4 jie2 n2 xian4 zai4 shi4 jin4 ru4 xia4 ji4 le
+Dev467 hao3 wo3 men xian4 zai4 lai2 hua4 hua4 ha1 n2
+Dev468 zhi2 chi3 wang4 yuan3 jing4 xian1 ren2 zhang3 yao2 ling2
+Dev469 yu2 zhong1 qu1 ha1
+Dev470 mei2 shuo1 lei ge4 hua4 ping2 chang2 mei2 zai4 shuo1 zhe4 ge4 hua4 de ma hao3 hao3 hao3
+Dev471 na4 wo3 xian4 zai4 gei3 ni3 shuo1 san1 yang4 dong1 xi1 ni3 ba3 ta1 ji4 dao4 qi3 ran2 hou4 ya chong2 fu4 chu1 lai2 deng3 ha1 wo3 hai2 yao4 wen4 ni3 hao3 bu4 hao3
+Dev472 ran2 hou4 ta1 zi4 ji3 neng2 bu4 neng2 jiu4 shi4 yi2 ge4 ren2 chu1 qu4 shua3 zou3 lu4 lei xie1 you3 mei2 de2 wen4 ti2
+Dev473 bu4 xiang3 huo2 le zhe4 xie1 biao3 xian4 mei2 de2 a mei2 de2 ta1 zhi3 shi4 xiang3 yao4 xiao4
+Dev474 ran2 hou4 hai2 shi4 gang1 cai2 na4 xie1 dong1 xi1 jiu4 shi4 bao1 kuo4 wo3 ti2 shi4 gei3 ni3 de he2 qian2 mian4 dou1 kan4 guo4 de neng2 ji4 dao4 nei3 xie1
+Dev475 xiang3 bu4 qi3 lai2 shi4 bu4 xiang3 bu4 qi3 lai2
+Dev476 zhe4 bu2 dui4 cheng1 le yo1 ba3 yi1 quan1 shu4 zi4 biao1 qi3 le lai2
+Dev477 tu1 ran2 xiang3 qi3 shen2 me ne jiu4 tu1 ran2 jiu4 xing3 de2 hen3 zao3
+Dev478 ge1 bo2 mao1 fu3 zi chuang2 fei1 ji1 er3 duo3 gou3 chui2 zi yi3 zi jiao4 che1 yan3 jing1 ma3 dao1 zi zhong1 zi4 xing2 che1
+Dev479 han4 zi4 yi1 guo4 lao2 ge2 yi2 ge4 hao3 lian2 shu4 zi4 er4 shu4 zi4 er4 lian2 le you4 lian2 han4 zi4 er4
+Dev480 dian4 ti1 ge4 ma
+Dev481 ei2 shi4 fou3 da4 bu4 fen4 shi2 jian1 jing1 li4 chong1 pei4
+Dev482 wu3 ba1 er4 liu4 si4 san1 jiu3 liu4 qi1 san1 jiu3
+Dev483 jing3 bao4 mei2 de2 hui2 sheng1 hui2 sheng1 you3 yang4
+Dev484 xing2 na2 gei3 ta1 ba na2 yi1 zhang1 bai2 zhi3 gei3 gei3 po2 po2 n2
+Dev485 you3 mei2 de2 da3 han1 de qing2 kuang4 an1 da3 han1
+Dev486 ban3 deng4 ban3 deng4 you3
+Dev487 na4 ni3 you3 mei2 you3 jing1 chang2 gan3 jue2 dao4 shen2 me jiu4 shi4 bi3 jiao4 dan1 xin1 wei4 lai2 de shi4 qing2 ne wo3 mei2 dan1 xin1 na4 xie1 ge4 wo3 yi4 dian3 er2 dou1 mei2 dan1 xin1 na4 xie1 a
+Dev488 hao3 kai1 shi3 ha1 xian4 zai4 ni3 xian1 du2 ma ba3 zhe4 xie1 ci2 du2 yi1 bian4
+Dev489 ma3 bei4 dao4 de tui3 tui3 mei2 bei4 dao4 de gou3 gou3 wo3 bei4 dao4 de zhuo1 zi zhuo1 zi wo3 bei4 dao4 de
+Dev490 ei2 ran2 hou4 shu1 shu1 xian4 zai4 xiang3 yi1 xia4
+Dev491 ta1 te4 bie2 xiao3 qi4 er2 qie3 te4 bie2 ai4 sheng1 qi4 o2 jue2 de ta1 yi4 yu4 bu4 ne
+Dev492 bu4 po2 po2 ni3 jue2 de ta1 kan4 qi3 lai2 xiang4 na4 ge4 bang4 cheng4 hai2 shi4 xiang4 liang2 jiao3 qi4
+Dev493 jin1 tian1 xing1 qi1 ji3 ne jin1 tian1 ji3 hao4 wo3 ye3 mei2 you3 ji4
+Dev494 hao3 fei1 chang2 hao3 lei xie3 yi1 ju4 hua4 ha1 ni3 xie3 ma na2 dao4 bi3
+Dev495 ta1 zai4 wu1 tou2 zou3 xu1 bu4 xu1 yao4 fu2 dong1 xi1 zhe4 xie1 you3 shi2 hou4 yao4 you3 shi2 hou4
+Dev496 zhe4 ge4 dao4 di3 shi4 na4 ge4 you3 dian3 xiang4 ge4 yuan2 gui1 zhe4 ge4 you3 dian3 xiang4 ge4 yuan2 gui1 xiang4 ge4
+Dev497 zhe4 ge4 mei2 you3 dui4 li1 lei1 ge4 kan4 guo4 mei2 de2 kan4 guo4 li1 dui4 li1 lei1 ge4 ai1
+Dev498 shi4 bu2 shi4 shang4 hai3 yi1 ke1 da4 guo4 lai2 de bu2 shi4 zhong4 yi1
+Dev499 ke3 yi3 zi4 li3 ma ta1 ke3 yi3 zi4 ji3 shang4 ce4 suo3 de bu4 de2 xing2 ke3 yi3 zhe4 ge4 ke3 yi3 sa1 n2 zi4 ji3
+Dev500 shu4 zi4 de yi1 yao4 lian2 han4 zi4 de yi1 ran2 hou4 lian2 shu4 zi4 er4 lian2 han4 zi4 de er4
+Dev501 liu4 guo4 le shi4 ji3 ma ni3 jiu4 lian2 zhe4 ge4
+Dev502 na4 ni3 shi4 fou3 chang2 wei4 yi1 xie1 xiao3 shi4 shang1 xin1
+Dev503 si4 er4 qi1 san1 yao1 si4 er4 qi1 san1 yao1
+Dev504 ran2 hou4 yong4 shuang1 shou3 ba3 zhe4 zhang1 zhi3 dui4 zhe2 yao4 shuang1 shou3 ha1
+Dev505 yin1 wei4 wo3 men yin1 wei4 wo3 men jia1 zu2 you3 lei zhong3 you3 lei zhong3 bing4 shi3
+Dev506 a1 yi2 na4 wo3 men xia4 yi2 ge4 ha1 wo3 men xia4 yi2 ge4 xiang4 mu4 hai2 shi4 hai2 shi4 ei2
+Dev507 jian4 zhu4 wu4 shang4 mian4 yi1 bu4 fen4 shi4 sha2 zi jian4 zhu4 wu4 shang4 mian4
+Dev508 zai4 ji4 yi1 bian4 pu2 tao2 mao1 tou2 ying1 shu1 zhuo1 qiu2 pai1
+Dev509 ni3 zai4 shuo1 yi1 bian4 e2 mei2 guan1 xi4 ha1   ni3 kan4 de2 dao4 shi4 pin2 ma
+Dev510 xian4 zai4 shi4 sha2 zi ji4 jie2 an1 sha2 zi ji4 jie2
+Dev511 na4 dou1 you3 o2 ta1 na4 xie1 shi4 yao4 ni3 zuo4 bu4 de2 ni3 lang1 ge4
+Dev512 n2 ran2 hou4 you3 yi2 ge4 yong4 lai2 ce4 liang2 de wu4 pin3 chi3 zi
+Dev513 luo4 tuo2 qiu2 pai1
+Dev514 nin2 xian4 zai4 ji4 de nei3 xie1 jun1 dui4 hai3 yang2
+Dev515 xian1 lian2 xiao3 xie3 zai4 lian2 da4 xie3 jiu4 shi4 xiao3 xie3 de yi1 qu4 lian2 da4 xie3 de yi1
+Dev516 shui3 guan4 ha1 shui3 guan4
+Dev517 o2 ran2 hou4 wo3 men jia1 shu3 zhi3 shi4 shao3 liang4 de bang1 zhu4 dan4 shi4 da4 bu4 fen4 qing2 kuang4 neng2 zi4 ji3 wan2 cheng2 ha1 dui4 dui4
+Dev518 wo3 jue2 de hai2 suan4 shi4 bi3 jiao4 qing1 wei1 de jiu4 pi2 qi4 zhen1 de mei2 you3 shen2 me ta1 ye3 bu4 wang3 xin1 li3 qu4
+Dev519 o2 na4 dui4 ni3 men jia1 ren2 you3 mei2 you3 dai4 lai2 sha2 zi ying3 xiang3 a na4 zhong3 qing2 kuang4
+Dev520 shi2 yi4 dian3 guo4 shi2 fen1 hua4 liang3 gen1 zhen1 jiu4 ke3 yi3 le shi2 zhen1 he2 fen1 zhen1 jiu4 ke3 yi3 hua4 shi2 yi4 dian3 guo4 shi2 fen1 dui4
+Dev521 huang2 jue2 kan4 dao4 mei2 de2 mei2 na4 ge4 ci2 ta1 shuo1 mei2 kan4 dao4
+Dev522 jiu3 shi2 san1 zai4 jian3 qi1
+Dev523 qiu2 pai1 n2 hao3 n2 hao3
+Dev524 hao3 jie1 xia4 lai2 n2 jia1 shu3 ma2 fan2 ni3 dai4 hui4 jiu4 shi4 ba3 a1 yi2 suo3 you3 hua4 guo4 de xie3 guo4 de dong1 xi1 dou1 pai1 ge4 zhao4 fa1 gei3 wo3 n2 n2
+Dev525 ran2 hou4 lai2 ke3 yi3 zheng1 kai1 le
+Dev526 mei2 de2 ha1 you3 mei2 you3 jing1 chang2 wei4 yi1 xie1 xiao3 shi4 qing2 shang1 xin1 a nan2 guo4 a
+Dev527 you3 yi2 ge4 shi4 zhong3 hai3 yang2 sheng1 wu4
+Dev528 jiu4 shi2 yi4 dian3 guo4 shi2 fen1 shi2 yi4 dian3 guo4 shi2 fen1
+Dev529 po2 po2 nin2 jue2 de ta1 xiang4 tie3 shu4 hai2 shi4 xiang4 xian1 ren2 zhang3
+Dev530 zhe4 shi4 shu4 zi4 yi1 lian2 dao4 han4 zi4 yi1 ran2 hou4 han4 zi4 zai4 lian2 shu4 zi4
+Dev531 wang4 le
+Dev532 fei1 ji1 fei1 ji1 nian4 guo4 mei2 de2 fei1 ji1 nian4 guo4 li1 nian4 guo4 li1
+Dev533 ren4 bu2 dao4 lei shi4 sha2 zi ai1
+Dev534 o2 zhe4 shi4 ke1 shu4
+Dev535 shi2 yi4 dian3 shi2 fen1 xiao3 de lang1 ge4 hua4 o2 hei1 hei1 shi2 yi4 dian3 shi2 fen1
+Dev536 mao1 dou1 mei2 you3
+Dev537 you3 mei2 you3 shen2 me yi4 chang2 de ju3 dong4 ya jiu4 shi4 fan3 fu4 fan3 fu4 che3 ling3 kou4 la1 chou1 ti4 a mei2 you3 n2 hao3
+Dev538 na4 ni3 ping2 shi2 you3 mei2 you3 fa1 sheng1 gan3 jue2 shen2 me bu4 hao3 de shi4 qing2 ya na4 xie1 you3 mei2 de2 ping2 shi2 gan3 jue2
+Dev539 hao3 ni3 shuo1 po2 po2 ni3 xian4 zai4 ting1 wo3 de kou3 ling4 ha1
+Dev540 chui2 zi chui2 zi yi3 zi yi3 zi jiao4 che1 o2 jiao4 che1 mei2 shuo1 yan3 jing1 o2 yan3 jing1 mei2 shuo1
+Dev541 ta1 lei ge4 hua4 le hen3 duo1 quan1 quan1 de na4 ge4 tu2 yao4 zhun3 bei4 qi3
+Dev542 ran2 hou4 yong4 lai2 bie2 dong1 xi1 de jin3 gu1 jing3 shi4 sha2 zi ye3 bie2 dong1 xi1 de jin3 gu1 jing3
+Dev543 an4 dao4 shun4 xu4 lian2 yi1 er4 san1 si4 wu3 liu4 qi1 ba1 nen4 ge4 lian2
+Dev544 n2 you3 yi1 zhong3 niao3 lei4 shi4 sha2 zi an1 mao1 tou2 ying1
+Dev545 wo4 shi4 gang1 gang1 kan4 dao4 mei2 de2 kan4 dao4 li1 ta1 shuo1 kan4 dao4 li1 ji1 jin1 gang1 gang1 kan4 dao4 mei2 de2
+Dev546 yi1 zhou1 a ke3 neng2 you3 ge4 liang3 san1 tian1 ma o2 liang3 san1 tian1 ha1 hao3 de
+Dev547 ran2 hou4 zhe4 xie1 ci2 ni3 dou1 yao4 ji4 yi1 xia4 de ha1 yin1 wei4 wo3 dai4 hui4 zhong1 jian1 hui4 chuan1 cha1 yi1 xie1 qi2 ta1 de ce4 shi4 ran2 hou4 zai4 wen4 ni3 yi1 bian4 de ha1
+Dev548 ge1 bo2 shuo1 guo4 mei2 de2 sha2 zi
+Dev549 qi1 shi2 er4 jian3 qi1 shi2 liu4 shi2 san1
+Dev550 n2 shuo1 la hai2 you3 ma
+Dev551 lei1 ge4 shi4 lian2 la1 li1 shu4 zi4 yi1 kai1 shi3 lian2 dao4 yi1 han4 zi4 yi1 lian2 dao4 er4 kan4 ma you4 lai2 le han4 zi4 er4 shu4 zi4 san1 lian2 han4 zi4 san1 lian2 dao4 si4 kan4 dao4 mei2 de2
+Dev552 zhe4 ge4 gen1 qian2 mian4 de yi1 yang4 ha1 jiu4 shi4 zhao4 zhe ba3 ta1 hua4 xia4 lai2 jiu4 ke3 yi3
+Dev553 dui4 le jia1 qian2 qian2 zi n2 jia1 mian2 hua1 qiu2 zhe4 xie1 ta1 hua4 quan1 zhe4 ge4 shi4 sha2 zi
+Dev554 zhe4 ge4 xiang4 ge4 shen2 me bing1 wu1 mai4 n2 hao3 de zhe4 ge4
+Dev555 gong1 zuo4 kan4 dao4 mei2 de2 nv3 er2 an1 zhe4 liang3 ge4 zi4 kan4 dao4 mei2 de2 gang1 cai2 wo3 men nian4 de ci2 yu3 dang1 zhong1 you3 zhe4 liang3 ge4 ci2 mei2 de2   you3 you3 you3
+Dev556 ai1 na4 dou1 shi4 hei1 shao3 de cheng2 du4 hei1 shao3 ha1 hai2 shi4 hei1 shao3 hao3 lei1 na4 ni3 ping2 shi2 you3 mei2 you3 gan3 jue2 kun4 ne xiang3 shui4 jiao4 ne ping2 shi2 bai2 tian1 de hua4
+Dev557 ei2 mei2 shi4 mei2 shi4 po2 po2 lian2 ma
+Dev558 chuang2 ta1 nian4 de na4 xie1 ci2 yu3 ye3 gen1 dao4 bian1 lian4 bian1 ji4 ai1 fei1 ji1
+Dev559 shang4 jie1 gou4 wu4 xian4 zai4 ying1 gai1 bu4 xing2 le ba po2 po2 ying1 gai1 bu4 xing2 bu4 xing2 xian4 zai4 shang4 jie1 gou4 wu4 shi4 bu4 xing2 de
+Dev560 a1 yi2 nian4 yi1 xia4 ma ji4 jing4 nv3 er2 qian2 e2 lao3 hu3 li2 ming2 qi3 gai4 hui2 sheng1 cun1 zhuang1 jiao3 luo4 yong3 qi4 rong2 qi4 wu4 ti3
+Dev561 you3 you3 a
+Dev562 shu1 shu1 nin2 jue2 de ta1 shi4 san1 jiao3 jia4 hai2 shi4 hua4 jia4 ne
+Dev563 ni3 pa4 bu4 pa4 you3 shen2 me bu4 hao3 de shi4 qing2 luo4 zai4 ni3 tou2 shang4 mei2 sha2 zi
+Dev564 mao1 shuo1 guo4 mei2 de2 mei2 shuo1 guo4 mao1 n2
+Dev565 a ni3 yao4 bu4 yao4 dai4 yan3 jing4 po2 po2 ni3 neng2 bu4 neng2 kan4 de qing1 zhe4 shi4 shen2 me a ta1 dai4 shang4 wo3 yan3 jing4 deng3 yi2 xia4 ai1 hao3 hao3
+Dev566 nv3 er2 mei2 you3 yong3 qi4
+Dev567 hao3 ta1 chu1 xian4 huan4 jue2 de zhe4 zhong3 qing2 kuang4 de shi2 hou4 n2 wei1 hai4 da4 bu4 da4 an1 you3 mei2 you3 gei3 ni3 men zao4 cheng2 tong4 ku3 hai2 you3 yi1 xie1 po4 huai4 xing4 de xing2 wei2 an1 ta1 jiu4 shi4 chao3 jiu4 shi4 chao3 ha1 ai1 ai1 ta1 chao3
+Dev568 n2 hao3 ni3 you3 mei2 you3 da4 bu4 fen4 shi2 jian1 gan3 jue2 dao4 jing1 li4 hao3 bu4 hao3 ne
+Dev569 zhe4 ge4 mo2 hu2
+Dev570 xiao3 xue2 shi4 liang3 nian2 a po2 po2 bu4 zhong1 zhuan1 liang3 nian2 o2 zhong1 zhuan1 liang3 nian2
+Dev571 ke4 bo2 ge1 bo2 o2 ge1 bo2 mao1 mao1 mao1
+Dev572 jun1 dui4 hao3 de hao3 po2 po2 xian4 zai4 ji4 de nei3 xie1 ci2 ya hai3 yang2 jun1 dui4
+Dev573 ping2 guo3 n2 shi4 pu2 tao2 ha1 pu2 tao2 o2 shi4 pu2 tao2
+Dev574 hao3 wo3 neng2 wen4 yi1 ha1 jia1 shu3 ta1 zi4 ji3 sheng1 huo2
+Dev575 hao3 wo3 ma3 shang4 yao4 gei3 ni3 kan4 ling4 wai4 yi1 tao4 ci2 yu3 ha1 lei xie1 ci2 yu3 li3 mian4 you3 xie1 shi4 wo3 gang1 gang1 gei3 ni3 kan4 guo4 de
+Dev576 gang1 gang1 shuo1 san1 yang4 dong1 xi1 a ye2 ji4 bu2 dao4 le
+Dev577 yi1 zhong3 chuan2 shi4 du2 mu4 zhou1 jin1 gu1 jian4 shi4 hui2 xing2 zhen1
+Dev578 zai4 jian3 qi1 zai4 jian3 qi1 ba1 shi2 liu4
+Dev579 zhao3 gui1 lv4 mei2 you3 zhao3 dao4 gui1 lv4 n2 n2 na4 ni3 xiang3 de2 qi3 lai2 sha2 zi xiang3 sha2 zi ma
+Dev580 hao3 jin1 tian1 xing1 qi1 ji3 xiao3 bu4 xiao3 de a ta1 wen4 ni3 jin1 tian1 xing1 qi1 ji3 ni3 xiao3 bu4 xiao3 de mei2 de2 ji4 yo1
+Dev581 zhe4 ge4 an1 lan2 gan1
+Dev582 shu4 zi4 zai4 liang3 ge4 han4 zi na4 ge4 han4 zi4 er4 han4 zi4 yao4 lian2 bi3 ta1 da4 de yi2 ge4 shu4 zi4
+Dev583 po2 po2 xian4 zai4 neng2 xie3 zi4 ma ni3 neng2 bu4 neng2 xie3 zi4 o2 kuo4 yi3 sa1
+Dev584 ni3 shi4 ge4 nei3 ge4 shi4 ni3 bu2 yao4 wen4 qi2 ta1 ren2 ni3 bu2 yao4 wen4 qi2 ta1 ren2 ni3 zi4 ji3 zhi1 dao4 jiu4 zhi1 dao4 bu4 zhi1 dao4 jiu4 shuo1 bu4 zhi1 dao4 jiu4 ke3 yi3 le mei2 de2 guan1 xi4
+Dev585 ba1 shi2 er4 zai4 jian3 ge4 qi1 an1
+Dev586 ran2 hou4 jian4 zhu4 wu4 de yi2 ge4 bu4 fen4 shi4 yan1 cong1
+Dev587 hai2 you3 yi2 ge4 shi4 pi2 qiu2 ha1 ni3 xian4 zai4 yong4 yi4 bai3 jian3 qu4 qi1
+Dev588 ji4 jing4 hao3 xiang4 ye3 mei2 you3
+Dev589 zhe4 ge4 zhi3 mu3 jiao4 ai1 wo3 xiang3 ha1 kan4 kan4 ai1 zhe4 ge4 zhi3 mu3 zhe4 ge4 zhi3 mu3 jiao4 zhong1 zhi3 sa1 zhe4 ge4 zhi3 mu3 ta1 xian4 zai4 hua4 de shi4 zhe4 ge4 zhi3 mu3
+Dev590 qing1 cha4 shi4 cha4 dian3
+Dev591 bu4 de2 xing2
+Dev592 zhe4 shi4 mei2 ting1 dao4 ya fei1 ji1 shuo1 guo4 mei2 de2 fei1 ji1 shuo1 le de yo1
+Dev593 po2 po2 ta1 bu2 shi4 hei1 lei ge4 mai4 bu2 shi4 hei1 yuan4 yi4 zuo4 mai4
+Dev594 a1 yi2 ni3 kan4 ta1 xiang3 bao4 yu2 hai2 shi4 hai3 ma3 ya
+Dev595 chi1 fan4 chi1 de zen3 me yang4 ye3 xing2 a dou1 xing2
+Dev596 ti4 xu1 dao1 hao3 ti4 dao1 pang2 bian1 zhe4 ge4 ci2 shi4 shen2 me ci2 ti4 dao1 pang2 bian1 shi4 fu2
+Dev597 xian4 zai4 zhe4 xie1 huo2 dong4 jiu4 shao3 le ai1 yin1 wei4 ta1 you3 yi4 yi4 de huo2 dong4 shao3 le
+Dev598 hao3 di4 san1 chuan4 ha1 si4 er4 qi1 san1 yi1
+Dev599 na4 ni3 you3 mei2 you3 yong4 guo4 an1 mian2 yao4 de qing2 kuang4 ne
+Dev600 jian3 dao1 zhe4 ge4
+Dev601 qian1 bi3
+Dev602 hao3 a1 yi2 jie1 xia4 lai2 hai2 shi4 ba3 bi3 he2 zhi3 na2 chu1 lai2 ha1 ran2 hou4 wo3 men xian4 zai4 yao4 hua4 yi2 ge4 zhong1 biao3 de biao3 pan2
+Dev603 ge1 ha1 jiu4 shi4 mei2 de2 fa3 de2 ya ji4 bu2 dao4 jiu4 shi4
+Dev604 ran2 hou4 wo3 hui4 gei3 nin2 fang4 shi2 ge4 ci2 ran2 hou4 nin2 hai2 shi4 jin3 liang4 ji4 yi1 xia4 nin2 ji4 de nei3 xie1 jiu4 gei3 wo3 shuo1 nei3 xie1
+Dev605 yi2 ge4 dou1 ji4 bu2 dao4 ma ji4 bu2 dao4 hao3 de hao3 de
+Dev606 you3 chui2 zi hai2 you3 sha2 zi ai1 qi2 ta1 ta1 dou1 ji4 bu2 dao4
+Dev607 lai2 wen4 yi1 xia4 po2 po2 na4 ge4 luo2 bo he2 hua1 cai4 you3 shen2 me gong4 tong2 dian3 ne
+Dev608 liang4 yi1 fu2 di1 o2 yi1 jia4 yi1 jia4
+Dev609 ta1 wei4 kou3 hai2 shi4 hao3 ti3 zhong4 you3 mei2 you3 jian3 qing1 an1 qing1 le qing1 le ha1 ti3 zhong4 jian3 qing1 le n2
+Dev610 xiang4 lian4 lei ge4 ye3 mei2 de2
+Dev611 hao3 ma hao3 bu4 xie3 le
+Dev612 gou3 chui2 zi yi3 zi jiao4 che1 jiao4 che1 yan3 jing1
+Dev613 dou1 shi4 xie1 sha2 zi o2 ta1 ji4 bu2 dao4 gai1 xie3 sha2 zi la
+Dev614 zhong1 wu3 you3 hui4 yi4 mei2 de2
+Dev615 yi4 ban1 ban1 ni3 shi4 fou3 jue2 de da4 duo1 shu4 ren2 dou1 bi3 ni3 qiang2 de2 duo1
+Dev616 qi1 zi3 pi2 fu1
+Dev617 hao3 na4 wo3 xiang3 wen4 yi1 xia4 ta1 de qing2 xu4 wen3 bu4 wen3 ding4 a
+Dev618 shi4 ju4 zi a po2 po2 ju4 zi mei2 de2 ju4 chi3 da2 ma xiang4 ge4 dao1 yi1 yang4
+Dev619 san1 jiao3 jia4 zhe4 ge4 ai1
+Dev620 hao3 kai1 shi3 ta1 zhi3 shi4 ge4 dian3 ran2 hou4 kai1 shi3 hua4
+Dev621 sha2 zi ai1 zhi2 wu4 zhi2 wu4 o2 zhi2 wu4 o2 o2 o2 xian1 ren2 zhang3 dui4 li1
+Dev622 kan4 de2 dao4 ba ni3 men mei2 shi4 er2 dai4 hui4 er dai4 hui4 er nin2 jiu4 shi4 ma2 fan2 jiu4 shi4 ba3 shu1 shu1 suo3 you3 xie3 xie3 hua4 hua4 de zhe4 xie1 dong1 xi1 jiu4 shi4
+Dev623 wu4 ti3 xian4 zai4 wo3 men zai4 lai2 ba3 ta1 hun4 dao4 di4 er4 duan4 li3 mian4
+Dev624 ti4 kan4 dao4 de kan4 dao4 de
+Dev625 mei2 de2 mei2 de2 zhe4 xie1 wo3 jiu4 shi4 da3 bi3 wo3 kan4 le ma3 shang4 guan1 le wo3 jiu4 bu4 xiao3 de le
+Dev626 ke3 yi3 le hao3 de ke3 yi3 dao4 ping2 mu4 qian2 gei3 wo3 kan4 yi1 xia4 ma ke3 yi3 bu4 kan4 de2 dao4 bu4 o2 hao3 kan4 de2 dao4 ke3 yi3 ke3 yi3 hao3 de ke3 yi3 le
+Dev627 hao3 ran2 hou4 wo3 men jin4 xing2 xia4 yi1 xiang4 ha1 po2 po2
+Dev628 n2 mei2 guan1 xi4 a yan1 cong1 wo3 men gang1 cai2 shuo1 de yi1 zhong3 chuan2 shi4 shen2 me chuan2
+Dev629 yan3 jing1 yan3 jing1 yan3 jing1 shuo1 guo4
+Dev630 liu4 yao1 ba1 si4 san1
+Dev631 shu1 shu1 nin2 xian4 zai4 ba3 bi3 fang4 zai4 zhi3 shang4 hao3 bu4 hao3
+Dev632 hai2 you3 ne hai2 you3 ji4 de dao4 ma
+Dev633 liu4 yao1 jiu3 si4 qi1 san1 kai1 shi3 liu4 yao1 jiu3 si4 qi1 san1
+Dev634 ran2 hou4 wo3 men de lian2 fa3 shi4 cong2 xiao3 yi1 dao4 da4 yi1 ran2 hou4 zai4 dao4 xiao3 er4 zai4 dao4 da4 er4
+Dev635 mei2 you3 you3 you3
+Dev636 zhe4 ge4 ye3 dou1 kan4 guo4 de zhe4 ge4 ye3 dou1 kan4 guo4 de
+Dev637 fang1 xiang4 pan2 fang1 xiang4 pan2 shui3 gang1 o2 ai1 shui3 guan3 ai1 shui3 guan4
+Dev638 kan4 dao4 guo4 mei2 you3 ta1 shuo1 mei2 you3 mei2 you3 ha1
+Dev639 qi2 shi2 wo3 wo3 ji2 zhong1 jing1 li4 ha1 ji2 zhong1 jing1 li4 wo3 jue2 de hao3 xiang4 ye3 mei2 sha2 zi hao3 da4 kun4 nan2
+Dev640 hao3 ma
+Dev641 hao3 lai2 lao3 shi1 ni3 kan4 xia4 kan4 yi1 xia4 ni3 kan4 lei1 dian3 wo3 gei3 ni3 zhao3 yi1 zhang1 biao3 ni3 kan4 zhao3 yi1 xia4
+Dev642 you3 shi2 jian1 you3 you3 shi2 jian1 you3
+Dev643 hao3 a1 yi2 wo3 hou4 mian4 de wen4 ti2 ke3 yi3 wen4 ni3 nv3 er2 jiu4 ke3 yi3 le ni3 ke3 yi3 shao1 wei1 qu4 xiu1 xi1 yi1 xia4 le n2
+Dev644 wo3 gei3 wo3 zi4 ji3 xie3 yi2 ge4
+Dev645 ta1 mei2 xie3 di4 zhi3 yin1 wei4 ta1 wo3 bu2 shi4 wo3 bu2 shi4 xie3 bu4 qi3 zi4 ta1 li1 hua4 di1 gou1 gou1 n2 hao3 lei1 ta1 you3
+Dev646 hao3 hai2 you3 yi2 ge4 yue4 qi4 shi4 na3 yi2 ge4
+Dev647 na4 ge4 na4 ge4 na4 ge4 shi4 sha2 zi
+Dev648 hao3 hao3 hao3 di4 yi2 ge4 shi4 pi2 qiu2 pi2 qiu1 a pi2 qiu2
+Dev649 hao3 mei2 you3 le hao3 le ha1 hua4 zhe4 ge4 hua4 shen2 me
+Dev650 yao4 da4 gai4 pian1 wan3 yi4 dian3 jiu4 hao3 da4 gai4 shi4 liu4 qi1 dian3 zhong1 qi1 ba1 dian3 zhong1
+Dev651 jiu4 shi4 zi4 ji3 ru2 guo3 yao4 chi1 yao4 de hua4 neng2 bu4 neng2 zai4 zheng4 que4 de shi2 jian1 chi1 ne
+Dev652 ran2 hou4 xian4 zai4 ye2 ye2 zai4 ting1 wo3 shuo1 bi4 shang4 ni3 de yan3 jing1
+Dev653 shi2 jian1 xian1 biao1 zhi4 zhe4 ge4 ke4 du4 biao1 zhi4 er4 san1 liu4 jiu3 ba3 zhe4 ji3 ge4 biao1 zhi4 le zhi1 hou4 zai4 ba3 suo3 you3 shu4 zi4 tian2 hao3
+Dev654 shen2 me qu1 jiu3 long2 po1 ma jiu4 shi4 zhe4 ge4 qu1
+Dev655 rong2 qi4 rong2 qi4 wu4 ti3
+Dev656 jiu3 er4 liu4
+Dev657 you3
+Dev658 hao3 le bao1 qi3 lai2 le ai1 hao3 ran2 hou4 nei4 zhi3 fang4 dao4 ta1 mian4 qian2 jiu4 ke3 yi3 ha1 ai1 xian1 bu2 yao4 rang4 ta1 peng4
+Dev659 er2 tong2
+Dev660 wo3 zi4 ji3 jue2 de wo3 you3 fang4 song1 zi4 ji3 kuai4 le4 qi3 jiu4 hao3 xie1 hao3 na4 ni3 you3 mei2 you3 gan3 jue2 dao4 sheng1 huo2 hen3 kong1 xu1 hen3 yan4 juan4 na4 xie1 you3 mei2 gan3 jue2 dao4
+Dev661 kan4 dao4 de zhe4 ge4 ye3 kan4 dao4 de
+Dev662 zhe4 ge4 an1 ding4 shu1 ji1
+Dev663 hai2 shi4 you3 dian3 wen4 ti2 ta1 lei ge4
+Dev664 hao3 de ni3 kan4 zhe4 shi4 sha2 zi ya
+Dev665 ma3 ying1 gai1 shi4 shu3 yu2 sheng1 kou3 le dong4 wu4 ha1 shu3 yu2 dong4 wu4 dui4 li1 dui4 li1
+Dev666 da4 gai4 shi4 ji4 yi4 xia4 jiang4 duo1 jiu3 le a ni3 you3 hao3 ji3 nian2 le you3 san1 si4 nian2 ba
+Dev667 pai1 liang3 ge4 jian1 bang3 liang3 xia4 n2
+Dev668 na4 kan4 dong1 xi1 de na4 ge4 wu4 pin3 kan4 dong1 xi1 de na4 ge4 wu4 pin3 na4
+Dev669 ta1 yuan2 lai2 shen1 gao1 ti3 zhong4 you3 hao3 duo1 shen1 gao1 ti3 zhong4 you3 hao3 duo1
+Dev670 jiu3 shi2 si4 jian3 liu4 deng3 yu2 ba1 shi2 ba1
+Dev671 hao3 xian4 zai4 zhe4 yi1 zhang1 gui1 ze2 shi4 zhe4 yang4 de ni3 yao4 lian2 hai2 shi4 an4 zhao4 cong2 xiao3 dao4 da4 de shun4 xu4
+Dev672 zhe4 shi4 sha2 zi ya zhe4 hao3 xiang4 yi1 ke1 shu4 o2 n2 dui4 ha1 zhe4 shi4 sha2 zi ya
+Dev673 jia1 shu3 ma2 fan2 jiu4 shi4 ba3 yi1 zhang1 bai2 zhi3 he2 yi2 ge4 bi3 jiu4 zhe4 me liang3 ge4 fen1 bie2 fang4 zai4 shu1 shu1 mian4 qian2 de zhuo1 shang4 jiu4 ke3 yi3
+Dev674 ni3 you3 mei2 you3 jue2 de yuan4 yi4 dai4 dao4 jia1 li3 tou2 bu4 yuan4 yi4 zai4 wai4 bian1 zuo4 yi1 xie1 xin1 xian1 de shi4 qing2 ni3 you3 mei2 you3 zhe4 zhong3 xiang3 fa3 hei1 wo3 yuan4 yi4 qu4 wai4 tou zuo4 xin1 xian1 shi4 wo3 hai2 xiang3 shou4 qu4 wai4 tou shua3 zhe4 xie1 n2 hao3 de
+Dev675 hao3 na4 ni3 bang1 wo3 biao1 ji4 yi1 xia4 ha1 na3 yi2 ge4 shi4 ta1 zi4 ji3 bei4 zhe hua4 de na3 yi2 ge4 shi4 zhao4 zhe hua4 de
+Dev676 zi4 xing2 che1 chui2 zi jian3 dao1
+Dev677 hao3 kai1 shi3 hua4 ma
+Dev678 zhe4 ge4 ne qian1 bi3 ma
+Dev679 zi4 xing2 che1 jiao4 che1
+Dev680 xian4 zai4 ping2 mu4 shang4 de zhe4 ge4 shi4 shen2 me ya shu1 zi zhe4 ge4 qian1 bi3
+Dev681 bao1 bao1 nei4 ge4 shi4
+Dev682 jia1 shu3 bu4 neng2 gao4 su4 ta1 ha1 er4 ling2 er4 yi1 nian2
+Dev683 qi1 zi3 n2 tu2 shu1 guan3 n2
+Dev684 mei2 you3 na4 zhong3 xia4 jiang4 hen3 duo1 huo4 zhe3 zeng1 gao1 hen3 duo1 mei2 you3 mei2 you3 yin1 wei4 ta1 yi4 zhi2 dou1 hen3 shou4 cong2 nian2 qing1 dao4 xian4 zai4 kuai4 ba1 shi2 le
+Dev685 ran2 hou4 you3 yi1 zhong3 yong4 yu2 kan4 dong1 xi1 de wu4 pin3
+Dev686 jiu4 shi4 kan4 bao1 bao1 tou2 you3 mei2 you3 li3 tou ying1 gai1 you3 yi1 zhang1 xin4 feng1 ai1 you3 you3 you3 xin4 feng1 hao3
+Dev687 ke3 yi3 ma zhe4 ge4 ni3 shuo1 di4 yi2 ge4 ha1 wo3 men xian1 lai2 xie3 bu4 xie3 ai1
+Dev688 na4 chui2 zi qian2 mian4 you3 mei2 you3 rang4 nin2 ji4 guo4 zhe4 ge4 cai2 you3
+Dev689 ma3 ma3 yan3 jing1 yan3 jing1
+Dev690 zhao4 dao4 shang4 mian4 de hua4 zhao4 zhe ping2 mu4 de zhe4 ge4 tu2 hua4
+Dev691 shui4 mian2 you3 dian3 dao3 cuo4 le hou3 de li4 hai4 o2 wan3 shang4 ta1 qi3 lai2 shua3
+Dev692 n2 ran2 hou4 na2 chu1 xin4 feng1 gong1 ju4 bao1 li3 you3 yi2 ge4 xin4 feng1 dui4 kan4 jian4 le
+Dev693 yong4 lai2 kan4 dong1 xi1 de shi4 sha2 zi wang4 yuan3 jing4
+Dev694 hao3 qing3 ni3 bi4 shang4 ni3 de yan3 jing1 n2 qing3 ju3 qi3 ni3 zuo3 shou3
+Dev695 ei2 wo3 xiang3 bu4 qi3 le xiang3 bu4 qi3 le ha1 na4 wo3 ti2 xing3 yi1 xia4 ni3 ha1 shui3 guo3 shi4 sha2 zi
+Dev696 nv3 er2 qun2 ou1 lao3 hu3 li2 ming2 qi3 gai4 hui2 sheng1 cun1 zhuang1 jiao3 luo4 yong3 qi4 rong2 qi4 wu4 ti3
+Dev697 dui4 you3 da4 liang4 de xu1 yao4 ji4 yi4 de dong1 xi1 po2 po2 zhe4 zhong3 qing2 kuang4 gen1 ben3 wan2 cheng2 bu4 liao3
+Dev698 e2 po2 po2 wo3 xian4 zai4 yao4 gei3 nin2 chu1 shi4 yi1 xie1 dan1 ci2 ran2 hou4 nin2 jin3 liang4 ji4 zhu4
+Dev699 hai2 you3 yi2 ge4 jian4 zhu4 wu4 de yi1 bu4 fen4 shi4 sha2 zi
+Dev700 zhe4 shi4 ge4 jia1 zi jia1 dong1 xi1 de ai1 dui4 tou2 zhe4 ge4 ai1
+Dev701 dou1 mei2 you3 ha1 shu1 shu1 n2
+Dev702 bu4 ren4 shi2 a huo4 zhe3 shuo1 zi4 ji3 zhu4 de fang2 zi bu2 shi4 zi4 ji3 de jia1 a you3 mei2 you3 zhe4 xie1 qing2 kuang4
+Dev703 ni3 lei ge4 bai2 zhi3 ha1 shi4 ni3 de xin4 zhi3
+Dev704 wei4 kou3 you3 mei2 de2 bian4 hua4 wei4 kou3 yi4 ban1
+Dev705 qian2 e2 mei2 you3 jian4 guo4 lao3 hu3 mei2 you3 jian4 guo4
+Dev706 dao4 di3 shi4 lou4 dou3 hai2 shi4 bang4
+Dev707 lei1 ge4 mei2 you3 hao3 li1 ni3 zai4 lei1 ge4 ye3 mei2 you3 xia4 yi2 ge4 lei1 ge4 kan4 guo4 li1
+Dev708 lei shi4 er4 shou3 zhi3 mu3 er4 shou3 zhi3 mu3 lei ge4 ai1 lei shi4 san1
+Dev709 deng3 yu2 ta1 zhe4 ge4 yao1 gan3 ta1 wan1 bu4 xia4 qu4 xian4 zai4 ta1 zhu3 yao4 zhe4 ge4 jiao3 yi4 zhi2 leng2 ge4 wan1 qi3
+Dev710 zhong1 zi4 xing2 che1 hao3 po2 po2 xian4 zai4 ji4 de nei3 xie1 ci2
+Dev711 lei ge4 an1 nian4 dao4 guo4 mei2 you3 bai3 he2 wo3 men nian4 dao4 guo4 mei2 de2 nian4 dao1 guo4 a
+Dev712 na4 jiu4 gou4 wu4 ji1 ben3 shang4 shi4 bu4 ke3 neng2 liao3 ran2 hou4 na4 shi4 bu4 ke3 neng2 le zi4 ji3 wan2 shou3 ji1 na4 ye3 shi4 bu4 ke3 neng2 le jiu4 zhi3 you3 kan4 kan4 dian4 shi4
+Dev713 jiu4 nei4 ge4 gen1 qian2 de nei4 ge4 di4 fang1 jiao4 man3 han4 zhan4
+Dev714 ran2 hou4
+Dev715 er4 ling2 yi1 wu3 nian2 ma
+Dev716 hao3 lao3 shi1 jie1 xia4 lai2 ni3 ting1 zi3 xi4 ha1 wo3 gei3 ni3 yi1 duan4 hua4 ni3 zhao4 dao4 wo3 shuo1 li1 hua4 lai2 zuo4
+Dev717 ni3 ba3 shou3 ji1 gei3 ta1 ba3 shu4 zi4 cun2 qi3 lai2 ran2 hou4 ta1 kan4 zhe hao4 ma3 ta1 shi4 ke3 yi3
+Dev718 wo3 wang4 le ai1 a hao3 li1 mei2 shi4 ran2 hou4 lao3 shi1 xian4 zai4 wo3 gei3 ni3 kan4 liang3 zhang1 tu2 ni3 kan4 shi4 sa1 zi dong1 xi1
+Dev719 ta1 shi4 yi1 zhong3 zai4 ai1 ji2 de jian4 zhu4 wu4 a ta1 shi4 yi1 zhong3 zai4 ai1 ji2 de jian4 zhu4 wu4
+Dev720 jin1 nian2 yi3 lai2 bu4 xing2 jin1 nian2 yi3 lai2 dou1 shi4 wo3 men zai4 chu3 li3 o2 hao3 de hao3 na4
+Dev721 hao3 hao3 xie3 hao3 le xie3 hao3 le deng3 ha1 er2 ni3 ye3 shi4 pai1 zhao4 fa1 gei3 wo3 ha1 ba3 xin4 feng1 he2 lei1 xie1 tu2
+Dev722 mei2 de2 lei xie1 dao4 mei2 de2 you3 mei2 de2 yi4 yu4 a na4 xie1 qing2 kuang4 ai1
+Dev723 bu4 nang2 ge4 xing1 fen4
+Dev724 ye2 ye2 wo3 gei3 ni3 kan4 ka3 pian4 kan4 wan2 zhi1 hou4 zai4 wo3 de ti2 shi4 zhi1 xia4 ba3 ta1 ji4 dao4 qi3 ha1 n2
+Dev725 wo3 bu4 xiao3 de ta1 jiao4 sha2 zi zhe4 ge4 shi4 yong4 lai2 na4 ge4 jia1 dong1 xi1 de yi1 zhong3 wu4 pin3
+Dev726 yin1 wei4 ben3 lai2 shi4 zheng4 chang2 de2 wo3 men quan2 tao4 liang4 zuo4 xia4 lai2 yao4 zuo4 liang3 ge4 xiao3 shi2
+Dev727 yao4 han3 o2 ta1 xian4 zai4
+Dev728 lang1 ge4 ya ta1 shuo1 ni3 shi4 fou3 dai1 zai4 jia1 li3 mian4 bu4 xiang3 qu4 zuo4 sha2 zi shi4 er2 na4 jiu4 bu4
+Dev729 zhe4 hai2 mei2 you3 mei2 you3 ta1 hai2 shi4 he2 gan3 xing4 qu4 te4 bie2 shi4 guo2 jia1 zhe4 xie1 da4 shi4 qing2
+Dev730 wu2 ming2 zhi3 na4 ge4 n2 xiao3 xiao3 mu3 zhi3 n2 hao3 hao3 lei4 yo1 xian4 zai4 xian4 zai4 ni3 men ba3 na4 ge4 she4 xiang4 tou2 hao3 de wo3 xian4 zai4
+Dev731 ran2 hou4 xian4 zai4 ma3 shang4 kan4 ping2 mu4 shang4 tou wo3 zai4 gei3 ni3 fang4 yi2 ge4 dong1 xi1
+Dev732 po2 po2 lai2 wen4 nin2 shang4 he2 shui2 shi4 yi1 dui4 er2 a
+Dev733 ji4 xu4 shuo1 ji4 xu4
+Dev734 ta1 ye3 bu4 hei1 lei ge4 zhi3 shi4 shuo1 ta1 ye3 bu2 shi4 hei1 qing1 xing3 ta1 ye3 bu2 shi4 hei1 gu4 zhi2 o2 o2 hao3 de
+Dev735 san1 dao4 si4
+Dev736 hai2 you3 shi4 you3 yi1 zhong3 zhi2 wu4 shi4 shen2 me zhi2 wu4 ai1 zhi2 wu4 ji4 bu2 dao4 shi4 xian1 ren2 zhang3 ha1
+Dev737 chu2 fang2 li1 chu2 fang2
+Dev738 ma3 ma3 n2 hao3 hai2 you3 ma
+Dev739 ni3 zuo4 yi1 jian4 xin1 de gong1 zuo4 kun4 bu4 kun4 nan2
+Dev740 kan4 yi1 xie1 ci2 ran2 hou4 hai2 shi4 ni3 kan4 le zhi1 hou4 ni3 yao4 shao1 wei1 ji4 yi1 xia4 yin1 wei4 wo3 hai2 hui4 zai4 wen4 ni3
+Dev741 lei ge4 ma1 wo3 gen1 ni3 shuo1 ta1 shi4 lei1 ge4 a1 la1 bo2 shu4 zi4 yi1
+Dev742 xie3 zai4 na3 dian3 na4 lei1 kong4 bai2 chu4 sui2 bian4 xie3
+Dev743 ji1 jin1 nv3 er2 qian2 e2 lao3 hu3 sheng1 yin1 shao1 wei1 da4 dian3 er2 ma ai1 bu4 ran2 wo3 dou1 bu4 xiao3 de ni3 dao4 di3 zai4 bu4 zai4 du2
+Dev744 tong2 ling2 ren2 n2 cha4 bu4 duo1 wo3 men zhe4 de da4 jia1 cha4 bu4 duo1 a hao3 de dou1 shi4 lao3 ling2 ren2
+Dev745 ta1 you3 de shi2 hou4 xia4 wu3 de shi2 hou4 zi4 ji3 zai4 jia1 li3 mian4 ta1 hui4 zai4 shui4 yi1 hui4
+Dev746 na4 ni3 you3 mei2 you3 yin1 wei4 nao3 zi li3 yi1 xie1 xiang3 fa3 bai3 tuo1 bu4 diao4 er2 fan2 nao3
+Dev747 shu1 shu1 wo3 xian4 zai4 shuo1 san1 yang4 dong1 xi1 ni3 ji4 yi1 xia4 ha1 di4 yi2 ge4 bu4 yong4 bi3 ji4 shu1 shu1 bu4 yong4 bi3 ji4 ni3 jiu4 yong4 nao3 zi ji4 yi1 xia4 jiu4 xing2 di4 yi2 ge4 shi4 pi2 qiu2 di4 er4 ge4 guo2 qi2 guo2 guo2 qi2 a di4 san1 ge4 shu4 mu4
+Dev748 dou1 gang1 gang1 yi1 yang4 de gui1 lv4 cong2 xiao3 li1 xie3 li1 yi1 kai1 shi3 a
+Dev749 ji4 bu2 dao4 le ma ji4 bu2 dao4 le
+Dev750 jie1 shi4 mei2 wen4 ti2 o2 hao3 na4 ta1 ke3 yi3
+Dev751 tai4 zhu4 yi4 mei2 tai4 zai4 yi4 shi4 ba ran2 hou4 hou4 lai2 jiu4 fa1 jue2 you3 dian3 yan2 zhong4 shi4 ba ei2 ta1 kai1 shi3 zai4 jia1 li3 mian4 chao3 cai4 ya shen2 me de dou1 xing2 man4 man4 de jiu4 bu4 rang4 ta1 chao3 cai4 le ta1 xian4 zai4 neng2 zuo4 de jiu4 shi4 xi3 wan3 er2 a gei3 wo3 men tian1 tian1 fan4 a jiu4 zi4 ji3 qi3 ju1 ke3 yi3 zi4 ji3 zuo4 de
+Dev752 e4 na4 ni3 zhe4 ji3 ge4 yue4 ti3 zhong4 you3 mei2 you3 zeng1 jia1 huo4 zhe3 jian3 shao3 ne ti3 zhong4 shi4 jiang4 di1 le
+Dev753 zhe4 ge4 shi4 bian4 geng1 cuo4 le ren4 cuo4 le
+Dev754 ta1 shi4 ta1 shi4 jiu4 shi4 po2 po2 shi4 na4 zhong3 sheng1 qi4 de jiu4 shi4 jue2 de jiu4 shi4 qi4 hua4 jue2 de jiu4 shi4 bu2 shi4 ta1 zi4 ji3 de hai2 shi4 shuo1 ta1 zhen1 de shi4 xian4 zai4 fei1 chang2 que4 ding4 ta1 ta1 xian4 zai4 jiu4 mei3 mei3 ci4 shi4 gen1 wo3 men shuo1 jiu4 shi4 ta1 que4 ding4 ni3 bu2 shi4 ta1 sheng1 de o1 o1 o1 o1
+Dev755 hua4 hao3 le hao3 zhe4 ge4
+Dev756 shi4 sha1 yu2 n2 dui4 yong4 lai2 ce4 liang2 de dong1 xi1 shi4 sha2 zi
+Dev757 ma3 wu1 gui1 nian4 guo4 mei2 de2 ma3 nian4 guo4 de wu1 gui1
+Dev758 chi1 fan4 hai2 kuo4 yi3 huan2 kuo4 yi3 a na4 xian4 zai4 shen1 gao1 ti3 zhong4 da4 gai4 duo1 shao3
+Dev759 ni3 you3 jing1 chang2 jue2 de xiang3 ku1
+Dev760 e4 po2 po2 nin2 ren4 shi2 ren4 bu4 ren4 shi2 zhe4 shi4 shen2 me dong1 xi1 a zhe4 shi4 shen2 me dong1 xi1
+Dev761 hai3 yang2 sheng1 wu4 wo3 mei2 you3 kan4 dao4 a hai3 yang2 sheng1 wu4 hai3 yang2 sheng1 wu4
+Dev762 shuai1 men2 shuai1 dong1 xi1 you3 zhe4 zhong3 qing2 kuang4 ma you3
+Dev763 kai1 shi3 le ha1
+Dev764 liu4 jiu3 si4 lang1 ge4 ma qi1 er4 ba1 liu4
+Dev765 zhe4 shi4 sha2 zi zhe4 shi4 sha2 zi
+Dev766 e4 na4 ta1 you3 mei2 you3 jiu4 shi4 po2 po2 you3 mei2 you3 yi1 xie1 hen3 yi4 chang2 de ju3 dong4 ne rang4 ni3 jue2 de hen3 hen3 bu4 neng2 li3 jie3 de ju3 dong4 mei2 you3 jiu4 shi4 ta1 ji4 bu2 zhu4 zhe4 dian3 jiu4 shi4 shang4 yi1 miao3 fan1 de dong1 xi1 xia4 yi1 miao3 you4 zai4 fan1 chong2 fu4 de zhao3 o2 o2 o2 zhe4 zhong3 zhuang4 kuang4 ha1 bi3 ru2 shuo1 bi3 ru2 shuo1 ta1 de yao4 shi
+Dev767 zhe4 ge4 ai1 dou1 shi4 ba3 ta1 lei ge4 zhe4 ge4 ying1 gai1 bu4 tian2 ma n2
+Dev768 na4 you3 mei2 you3 bai2 tian1 hui4 gan3 jue2 dao4 fei1 chang2 de kun4 juan4 de qing2 kuang4 ne
+Dev769 n2 hao3 de ni3 hai4 bu4 hai4 pa4 you3 na4 zhong3 bu4 kai1 xin1 de shi4 qing2 luo4 zai4 ni3 tou2 shang4 ne
+Dev770 ta1 zhe4 ge4 shi4 ta1 zhe4 ge4 bi3 ru2 shuo1 fa1 pi2 qi4 neng2 hen3 kuai4 de jiu4 bian4 hao3 ma ma3 shang4 you4 fa1 nu4 le jiu4 hen3 tu1 ran2 de ma
+Dev771 ai1 wo3 suan4 bu2 dao4 le
+Dev772 lei ge4 kan4 guo4 mei2 you3 lei ge4 mei2 you3 lei ge4 kan4 guo4 mei2 you3 hao3 xiang4 mei2 you3
+Dev773 zui4 hou4 fang4 dao4 nin2 de da4 tui3 shang4
+Dev774 chi1 yao4 yao4 bu4 yao4 ren2 bang1 ma chi1 yao4 ta1 ye3 zi4 ji3 bu4 xu1 yao4 bie2 ren2 zhao4 gu4 dan4 shi4 yao4 mei2 xiao4 guo3 ta1 jiu4 bu4 chi1 le
+Dev775 ta1 bu4 xiao3 de e4 a ping2 shi2 dou1 shi4 yi2 ge4 ren2 zai4 wu1 tou2 ma qu4 nian2 shi4 yi2 ge4 ren2 zai4 wu1 tou2 jin1 nian2 wo3 men jiu4 ba3 ta1 jie1 chu1 qu4 le
+Dev776 fang1 xiang4 pan2 shui3 guan4 ti4 dao1 er4 hu2
+Dev777 ei2 shu1 shu1 xian4 zai4 nin2 xian4 zai4 wo3 rang4 nin2 xie3 yi1 feng1 xin4 ji4 gei3 nin2 zi4 ji3 ran2 hou4 nin2 kan4 shang4 mian4 de di4 zhi3 gai1 zen3 me xie3
+Dev778 mei2 ai1 jiu4 shi4 tie1 you2 piao4 sa1 lei1 ge4 nei4 you2 piao4 zhi2 jie1 hua4 ge4 you2 piao4 lei1 shang4 tou mei2 ni3 zhi2 jie1 hua4 ge4 gou1 gou1 zai4 na4 li1
+Dev779 you3 mei2 de2 you3 mei2 de2 zhe4 ge4 ci2
+Dev780 ran2 hou4 xian4 zai4 ni3 suan4 ha1 yi4 bai3 jian3 qi1 deng3 yu2 hao3 duo1 yi4 bai3 jian3 qi1 ya ei2 dui4 tou2
+Dev781 na3 yi2 ge4 shi4 qi4 che1 de yi1 bu4 fen4 fang1 xiang4 pan2
+Dev782 bi3 ru2 shuo1 gang1 cai2 bi3 ru2 gang1 cai2 wo3 zhe4 yang4 suan4 xia4 lai2 ta1 ren4 shi2 dong1 xi1 zhe4 fang1 mian4 ye3 bu2 shi4 hen3 hao3 a
+Dev783 ni3 jia3 zhuang1 yao4 gei3 zi4 ji3 qu4 ji4 yi1 feng1 xin4
+Dev784 qi4 che1 li1 bu4 jian4 qi4 che1 fang1 xiang4 pan2
+Dev785 dao4 chu4 zou3 a wan3 shang4 mei2 de2 ta1 shui4 ke1 shui4 shui4 de2 hen3 shu1 fu2 o2 ta1 you3 mei2 de2 chi1 dong1 xi1 de bian4 hua4 ya
+Dev786 dui4 tou2 fan1 na4 xie1 dui4 tou2 fan1 dong1 xi1 shi4 mei3 tian1 dou1 you3 ma
+Dev787 po2 po2 ta1 ying1 gai1 shi4 yi1 zhong3 sheng1 huo2 zai4 sha1 mo4 li3 de dong1 xi1 o2 leng2 ge4 di1 o2 wo3 ren4 bu2 dao4
+Dev788 na4 nin2 bu4 neng2 zhe4 yang4 o2 nin2 zhe4 shi4 zuo4 bi4 o2
+Dev789 zhe4 ge4 shi4 ge1 bo2 sha2 zi ai1 ge1 bo2
+Dev790 wo3 zhe4 ge4 jiang3 bu4 qing1 chu3 zhe4 shi4 yi1 zhong3 mu4 gong1 qi4 cai2 mu4 gong1 qi4 cai2 a n2
+Dev791 dou1 ke3 yi3 ta1 zhu3 yao4 shi4 ji4 yi4 li4 zhe4 ge4 shuai1 tui4 zhe4 ge4 zhu2 bu4 shuai1 tui4 bi3 jiao4 ming2 xian3 xie1
+Dev792 er4 de yi2 ge4 ji4 bu2 dao4 le n2
+Dev793 zhe4 zhong3 che1 jiao4 can2 ji2 ren2 yong4 de ni3 jue2 de ta1 shi4 shou3 tui1 che1 hai2 shi4 lun2 yi3 shou3 tui1 che1 shou3 tui1 che1 hao3 de
+Dev794 na4 ge4 sai1 bei4 qi3 na4 ge4 shang3 qu4 li1 ta1 shi4 qie1 pian4 mian4 bao1 hua2 ti1 hai2 shi4 shou3 fu2 dian4 ti1
+Dev795 ai1 xiang3 bu4 qi3 lai2 lei1 ge4 shu4 zi4 lao2 hao3 lei mei2 shi4 mei2 shi4
+Dev796 ni3 kan4 na4 ge4 lang1 ge4 yang4 jiu4 xiang4 nen4 ge4 nian2
+Dev797 jiang4 you2 mei2 you3 ha1 n2
+Dev798 ta1 chi1 yao4 n2 xian4 zai4 n2 wo3 men jiu4 shi4 fa1 xian4 ta1 chi1 yao4 hao3 xiang4 you3 dian3 you3 dian3 hu2 tu2 suo3 yi3 wo3 men xian4 zai4 shi4 ba3 yao4 shi4 jiao1 gei3 bao3 mu3 le de
+Dev799 na4 ta1 ke3 yi3 zi4 ji3 mai3 dong1 xi1 ma jiu4 shi4 na4 zhong3 xiao3 yi4 dian3 dong1 xi1 a huo4 zhe3
+Dev800 ni3 shuo1 li1 hou4 mian4 hai2 shi4 qian2 tou yo1 hou4 mian4 li1 zui4 hou4 li1
+Dev801 hao3 qing3 ni3 zai4 zhe4 ge4 zhi3 shang4 xie3 yi1 ju4 hua4 xie3 yi1 ju4 hua4 xie3 yi1 ju4 you3 yi4 yi4 de hua4
+Dev802 hai2 shi4 ji4 de dao4 ha1 ti2 shi4 nin2 hai2 shi4 neng2 ji4 dao4 yi1 xie1 ran2 hou4 nin2 lai2 shuo4 shuo4 dao4 shu3 er4 shi2 ge4 shu4 jiu4 shi4 cong2 er4 shi2 shu4 dao4 yi1
+Dev803 lei shi4 ge4 san1 jiao3 jia4 de ma n2 lei shi4 ge4 jia1 zi n2
+Dev804 zao3 shang4 xing3 le hou4 ta1 you4 yao4 shui4 yi1 dao4 liang3 ge4 xiao3 shi2 zhong1 wu3 de hua4 jiu4 shi4 san1 dian3 zhong1 shui4 dao4 si4 dian3 ban4 zhong1 ye3 yao4 shui4 yi1 ge4 ban4 xiao3 shi2
+Dev805 er4 hu2 n2 na3 yi2 ge4 shi4 yong4 lai2 zhuang1 ye4 ti3 de wu4 pin3
+Dev806 zhe4 ge4 ne
+Dev807 ta1 shi4 yi2 ge4 yue4 qi4 ni3 jue2 de shi4 shu4 qin2 luo4 di4 deng1 hai2 shi4 gang1 qin2
+Dev808 wo3 yao4 gei3 ni3 kan4 dian3 ci2 nin2 bu2 yao4 kang4 ju4 jiu4 xian4 zai4 wo3 yao4 gei3 nin2 hui2 yi4
+Dev809 zai4 jian3 qi1 zai4 jian3 qi1 zai4 jian3 qi1 shi4 qi1 shi2 zai4 jian3 qi1 shi4 qi1 shi2 qi1 shi2 qi1 shi2 liu4 man2 qi1 shi2 ji3 o2 da4 gai4
+Dev810 na3 li3 you3 o2 yang2 a niu2 a zhu1 a
+Dev811 jia1 shu3 na2 yi1 zhang1 bai2 zhi3 gei3 ta1
+Dev812 jie3 jie3 yi1 ha1 you3 shi4 shi4 ba mei2 de2 mei2 de2
+Dev813 zhe4 ge4 shi4 lou4 dou3 zhuang1 dong1 xi1 lou4 dong1 xi1
+Dev814 jiu4 gen1 ju4 ni3 de xin1 qing2 hui2 da2 jiu4 xing2 le ni3 dui4 ai1 ni3 xian4 zai4 dui4 ni3 de sheng1 huo2 ji1 ben3 shang4 man3 yi4 bu4
+Dev815 bao1 zi n2 zi4 xing2 che1 dui4 er3 duo3 n2 chui2 zi hao3 de
+Dev816 ni3 hai2 xiang3 de2 qi3 lai2 bu4 xiang3 bu4 qi3 lai2 wo3 men di4 er4 bian4 ei2 lai2 ma
+Dev817 hao3 zhe4 ge4 du2 guo4 ma yang2 cong1 ye3 du2 guo4 le de
+Dev818 ran2 hou4 xian1 xian1 bu4 gei3 ta1 kan4 zhe4 ge4 xian1 kan4 yi1 xia4 ba jiu4 zhi2 jie1 kan4 ma
+Dev819 shen1 ti3 de bu4 wei4 de ci2 ji4 de dao4 bu4 ji4 bu2 dao4 ji4 bu2 dao4
+Dev820 zhong1 zhong1 zi4 xing2 che1 zi4 xing2 che1 shu1 shu1 ni3 xian4 zai4 ji4 de nei3 xie1 ci2 ne
+Dev821 ke3 yi3 hao3 pi2 qiu2 guo2 qi2 shu4 mu4
+Dev822 wo3 gei3 ni3 nian4 guo4 de2 mai4 jing4 zi le ma n2 jing4 zi wo3 gei3 ni3 nian4 guo4 mei2 you3 hao3 xiang4 nian4 guo4 de o2 chui2 zi
+Dev823 xing1 qi1 liu4 a n2
+Dev824 o2 na4 ta1 you3 mei2 you3 jiu4 shi4 shuo1 you3 shen2 me zuo4 shi4 bi3 jiao4 chong1 dong4 de na4 zhong3 xiang3 fa3 nei4 zhong3 xing2 wei2 ne mei2 de2
+Dev825 gang1 gang1 shuo1 de na4 xie1 ci2 ji4 ji4 de dao4 na3 yi2 ge4 gang1 gang1 shuo1 le zhe4 me duo1 ni3 nian4 le na4 me duo1 jun1 dui4 tie3 lu4 ji4 de zhe4 me duo1 hai2 you3 na4 jun1 dui4 tie3 lu4
+Dev826 dan4 shi4 wo3 nian4 zhe4 ge4 shu4 zi4 ke3 neng2 hui4 yue4 lai2 yue4 zhang3 hao3 bu4 hao3
+Dev827 kai1 shi3 mei2 de2 guo4 na4 zi you3
+Dev828 shi2 zhu4 shi4 shu3 yu2 nei3 ge4 shi4 a shi2 zhu4 shi4 shu3 yu2 na3 dian3 er2
+Dev829 di4 zhi3 ni3 xiao3 bu4 de2 nei3 ge4 wei4 zhi4 ye3 di4 zhi3 xie3 na3 li3 o2 ni3 bu2 yao4 wen4 bie2 ren2
+Dev830 zai4 na2 hui2 lai2 na2 hui2 lai2 lei1 o2 hao3 ran2 hou4 ni3 lai2
+Dev831 n2 na4 xian4 zai4 wo3 gei3 ni3 ling4 yi1 zu3 ci2 yu3 ha1 nian4 yi3 hou4 ai1 ni3 lai2 ting1 le yi3 hou4 chong2 fu4 hen3 kuai4 le dao4 shu3 di4 er4 ge4 le ha1
+Dev832 xin4 feng1 er2 tong2 ang2
+Dev833 hao3 de xian4 zai4 shi4 shen2 me ji4 jie2 a xian4 zai4 ma xian4 zai4 shi4 na4 ge4 an1 ba1 yue4 ji3 yue4 fen4 an1 ba1 yue4 fen4 an1
+Dev834 na2 lai2 yi1 zhang1 bai2 zhi3 huo4 gang1 cai2 zhe4 zhang1 zhi3 ha1 ran2 hou4 wo3 men you3 ji3 ge4 tu2
+Dev835 ran2 hou4 chuan2 shi4 shen2 me chuan2 ma n2 chuan2 du2 mu4 zhou1 hen3 hao3
+Dev836 zhe4 ge4 ye3 kan4 guo4 de zhe4 ge4 ye3 kan4 guo4
+Dev837 you3 lei zhong3 qing2 kuang4 qing1 xing3 de shi2 hou4 jiu4 o2 ai1 zai4 wo4 shi4 o2 zai4 wo3 men wu1 tou2 ling4 wai4 yi2 ge4 wu1 qu4 o2 ke4 ting1 li3 dou1 o2 guo4
+Dev838 lei ge4 ye2 li2 ming2 you3 mei2 de2
+Dev839 ei2 bu4 shu1 shu1 yao4 ba3 ta1 ji4 zhu4 xian4 zai4 bu2 yong4 shuo1 chu1 xian4 guo4 mei2 you3
+Dev840 ran2 hou4 ni3 ping2 shi2 de hua4 ni3 shen1 gao1 ti3 zhong4
+Dev841 shui4 mian2 zhi4 liang4 ye3 bu4 cuo4 ha1
+Dev842 hao3 gang1 gang1 shuo1 de san1 yang4 dong1 xi1 shi4 sha2 zi ai1 guo2 qi2 shu4 mu4
+Dev843 wo3 jue2 de hai2 xing2 ba hai2 ke3 yi3
+Dev844 hao3 xia4 yi1 ti2 xia4 yi2 ge4 ha1 zhe4 ge4 shi4 shen2 me ya zhe4 shi4 shen2 me zhe4 shi4 zhe4 ge4 zhe4 ge4 ni3 bu4 qing1 chu3 a
+Dev845 ni3 kan4 you4 xiang4 gang1 gang1 leng2 ge4 yi1 he2 yi1 er4 he2 er4 ni3 kan4
+Dev846 ta1 zhe4 ge4 shi4 bi3 jiao4 yan2 zhong4 de ha1 na4 xian1 rang4 po2 po2 xiu1 xi1 ba you3 yi1 xie1 wen4 ti2 wen4 nin2 jiu4 hao3 le
+Dev847 nin2 jue2 de ta1 xiang4 hua2 ti1 hai2 shi4 xiang4 dian4 ti1 ne
+Dev848 ti4 xu1 dao1 er4 hu2 hao3 po2 po2 ni3 gang1 cai2 gei3 wo3 men nian4 de2 nei3 xie1 ci2 ni3 hai2 ji4 de dao4 nei3 xie1
+Dev849 n2 gua1 hu2 zi na4 ge4 shi4 shen2 me gua1 hu2 dao1 ai1
+Dev850 wo3 men hui4 nian4 yi1 bian4 ni3 nian4 yi1 bian4 ran2 hou4 ba3 ta1 men ji4 xia4 lai2
+Dev851 hua4 chu1 lai2 ma hua4 chu1 lai2 wo3 men zhe4 ge4 ni3 hua4 ma ni3 hua4 ma gen1 dao4 ta1 shuo1 de ni3 zuo4
+Dev852 shi4 shen2 me bian4 gu4 ne qian2 mian4 hao3 xiang4 mei2 tai4 ting1 qing1 chu3 jiu4 shi4 jia1 li3 mian4 wo3 li2 hun1 zhi1 hou4 dao3 zhi4 ta1 na4 ge4
+Dev853 xiang3 bu4 qi3 lai2 le ha1 ge1 bo2 ei2 ge1 bo2
+Dev854 ta1 shi4 ta1 shi4 ta1 bu2 shi4 zuo3 pie3 zi3 ba bu2 shi4
+Dev855 ta1 shuo1 nian4 guo4 de nian4 guo4 de zhong1 nian4 guo4 mei2 de2
+Dev856 na4 ta1 neng2 jiu4 shi4 neng2 qu4 yin2 hang2 he2 yin2 hang2 jin4 xing2 shen2 me mai3 mai4 bu4 jiu4 shi4 qu3 qian2 bu4 neng2 bu4 neng2 mei2 you3 cong2 lai2 mei2 zuo4 guo4 yin1 wei4 ta1 bu4 shi2 zi4 jiu4 shi4 jiu4 shi4 lao3 ban4 zuo4
+Dev857 na2 yi1 zhang1 zhi3 bi3 lei ge4 dou4 shi4 lei ge4
+Dev858 n2 yi4 bai3 ling2 san1 miao3 wan2 quan2 zheng4 que4 li1
+Dev859 hao3 wo3 men zuo4 xia4 yi1 bu4 ha1 yong4 yi1 zhi1 shou3 qing3 ni3 yong4 yi1 zhi1 shou3 de liang3 ge4 shou3 zhi3 pai1 ni3 de jian1 bang3 liang3 ci4 bing4 zha3 zha3 yan3 jing1
+Dev860 na4 ta1 hui4 bu2 hui4 jing1 chang2 su4 shuo1 zi4 ji3 shen1 ti3 na3 li3 bu4 shu1 fu2 jiao3 a bu4 shu1 fu2 a
+Dev861 na3 yi2 ge4 shi4 hai3 yang2 sheng1 wu4 e2 sha1 yu2
+Dev862 hao3 xiang4 wang4 ji4 le ni3 jiu4 nian4 guo4 huo4 zhe3 mei2 nian4 guo4
+Dev863 ran2 hou4 xiang3 wen4 yi1 xia4 ping2 shi2 shu1 shu1 shi4 ri4 chang2 ji1 ben3 sheng1 huo2 neng2 li4 de hua4 zen3 me yang4 le zi4 ji3 shang4 ce4 suo3 zhe4 xie1 neng2 zuo4 dao4 ma bu4 xing2 quan2 kao4 wo3 ma1
+Dev864 n2 ni3 zhen1 de ji4 bu2 zhu4 le ha1 ran2 hou4 wo3 men zai4 shi4 yi1 xia4 ha1 n2 you3 yi1 zhong3 yun4 dong4 qi4 cai2 shi4 shen2 me lai2 zhe yun4 dong4 qi4 cai2
+Dev865 kou3 qin2 er4 hu2 o2
+Dev866 fan1 yi2 mian4 shi4 lang1 ge4 gao3 hao3 na2
+Dev867 zhong1 zhi3
+Dev868 liu4 yue4 n2
+Dev869 zhe4 ge4 du2 guo4 ma qi4 che1 du2 guo4 de
+Dev870 qi4 guan1 qi4 guan1 mei2 you3 kan4 guo4 ren2 niao3 ren2 niao3 mei2 you3 kan4 guo4
+Dev871 you3 mei2 you3 wei4 le yi1 xie1 xiao3 shi4 qing2 shang1 xin1 a shang1 xin1 mei2 you3 wo3 shang1 xin1 a you3 mei2 you3 jue2 de jing1 chang2 jue2 de xiang3 ku1 a
+Dev872 e2 shui4 jiao4 dou1 hai2 hao3 ba shui4 jiao4 hao3 ta1 zou3 chu1 qu4 ta1 cong2 wo3 men zhe4 li3 zou3 dao4 yi1 yuan4 shang3 qu4 zou3 lu4 dou1 ke3 yi3 zou3 hui2 lai2
+Dev873 ni3 kan4 ni3 zhao3 dao4 lei1 zhang1 zhi3 mei2 de2 ni3 zhao3 dao4 qi3 gei3 wo3 shuo1 yi1 xia4 mei2 you3 mei2 you3 fan1 hao3 ai1 dui4 nei4 ge4 fang1 fa3 ni3 lian4 xi2 yi1 xia4 ma lei1 ge4 shi4
+Dev874 hao3 ran2 hou4 gang1 cai2 wo3 men hai2 kan4 dao4 you3 yi2 ge4 shi4 gu4 ding4 dong1 xi1 yong4 de shi4 shen2 me bu4 xiao3 de shi4 hui2 xing2 zhen1 ha1 hao3
+Dev875 shui3 guo3 you3 nei3 xie1 a shui3 guo3 shi4 na3 yi2 ge4
+Dev876 yan2 bu4 yan2 zhong4 ne bu4 yan2 zhong4 dan4 ta1 jiu4 na4 me ji3 tian1
+Dev877 si4 er4 qi1 san1 yi1 si4 er4 qi1 san1 yi1 n2 hao3
+Dev878 qi4 che1 bu4 jian4 shi4 sha2 zi fang1 xiang4 pan2
+Dev879 dui4 le yi2 ban4 ta1 fang4 zai4 zhi3 shang4 jiu4 mei2 na2 hui2 lai2
+Dev880 ying1 er2 ye3 you3
+Dev881 lei ge4 kan4 guo4 de lei ge4 mei2 you3 kan4 guo4
+Dev882 yi2 ge4 hui2 xing2 zhen1 yi1 zhong3 hai3 yang2 sheng1 wu4 shi4 sha1 yu2
+Dev883 zhe4 shi4 sha2 zi ni3 nian4 yi1 bian4 ma jia1 ting2 ying4 bi4 tie3 lu4 er2 tong2 jun1 dui4 qi2 zhi4 pi2 fu1 tu2 shu1 guan3 mai4 zi hai3 yang2
+Dev884 chu2 le ting1 zhen3 qi4 bu4 ren4 shi2 qi2 ta1 dou1 da2 dui4 le ha1 n2
+Dev885 mei2 you3 ha1 fu3 zi wo3 du2 guo4 ma fu3 zi pi3 chai2 yong4 de fu3 zi wo3 du2 guo4 ma
+Dev886 zhe4 shi4 yi2 ge4 jia4 jia4
+Dev887 qi1 shi2 er4 jian3 qi1 liu4 shi2 wu3
+Dev888 ti4 dao1 ha1 a1 yi2 wo3 gen1 nin2 ti2 shi4 nin2 liao3 ran2 hou4 ti2 shi4 le yi1 bian4 ran2 hou4 nin2 zai4 hui2 yi4 yi1 xia4 gang1 cai2 wo3 men shuo1 guo4 de zhe4 ge4 ci2 yu3 nin2 ji4 de dao4 nei3 xie1 hao3 bu4 hao3
+Dev889 hao3 ai1 shi4 bu2 shi4 bie2 ge4 dou1 bi3 ni3 qiang2 ma lei ge4 ye3 hei1 zheng4 chang2
+Dev890 chuang2 you3 mei2 you3 chuang2 mei2 de2 hao3 de
+Dev891 zhe4 ge4 kan4 guo4 li1 xia4 yi2 ge4 zhe4 ge4 kan4 guo4 li1 xia4 yi2 ge4 zhe4 ge4 kan4 guo4 li1 xia4 yi2 ge4
+Dev892 she2 she2 mei2 you3 shuo1 guo4 chuang2 chuang2 shuo1 guo4
+Dev893 wu1 gui1 wu1 gui1 wu1 gui1 wu1 gui1 zhong1 zhong1 zhong1
+Dev894 gou3 chui2 zi chui2 zi a
+Dev895 qian2 bao1
+Dev896 dui4 dui4 dui4 dui4 na4 shang4 ce4 suo3 ya xi3 shu4 de shen2 me zhe4 xie1 ye3 dui4
+Dev897 gui3 lian3 ke2 er2 jiu4 shi4 fang1 yan2 jiu4 shi4 mian4 ju4 gui3 lian3 ke2 er2
+Dev898 ting1 qing1 chu3 le ma yi4 bai3 jian3 qu4 qi1 shen2 me yi4 si1 jiu4 shi4 shu4 zi4 yi4 bai3 jian3 qi1
+Dev899 jing4 zi gei3 ni3 nian4 guo4 mei2 de2 mei2 you3 mei2 you3
+Dev900 you3 yi2 ge4 shi4 zhong4 zhi2 wu4
+Dev901 shu1 shu1 jie1 xia4 lai2 wo3 zai4 wen4 ni3 ji3 ge4 wen4 ti2 ha1 nin2 jue2 de sheng1 huo2 guo4 de2 kuai4 le4 ma
+Dev902 e2 da4 gai4 mei3 tian1 wan3 shang4 dou1 qi3 ma n2 mei3 tian1 dou1 qi3
+Dev903 hao3 na4 hao3 wo3 men xian4 zai4 lai2 kan4 yi1 xia4 kan4 de2 dao4 ping2 mu4 shang4 mian4 de dong1 xi1 ma
+Dev904 xian4 zai4 shi4 you3 dian3 mei2 you3 shen2 me biao3 qing2 wo3 kan4 yi4 zhi2 ce4 shi4 yi3 lai2 dou1 shi4 nei4 ge4 biao3 qing2 mei2 you3 ming2 xian3 de xi3 nu4 ai1 le4 ya shen2 me de
+Dev905 shu1 shu1 zai4 jia1 you3 mei2 you3 hen3 guai4 de yi1 xie1 xing2 wei2 a bi3 ru2 fan3 fan3 fu4 fu4 de shuo1 yi1 xie1 shen2 me hua4 huo4 zhe3 fan3 fan3 fu4 fu4 de che3 zi4 ji3 de yi1 fu2 a
+Dev906 ni3 ba3 zhe4 zhang1 tu2 hua4 xia4 lai2 na3 zhang1 kong4 bai2 lei1 zhi3 ba3 zhe4 zhang1 tu2 hua4 xia4 lai2 hua4 da4 yi1 dian3 ha1 dou1 hua4 da4 yi1 dian3 bi3 jiao4 hao3
+Dev907 hao3 xiang4 yuan2 lai2 jiao4 wo3 men na4 ge4 lang1 ge4 na4 ge4 hao3 yuan2 lai2 di1 shi2 er4 dian3
+Dev908 dou4 de2 lei1 bian1 zhao3 shi2 er4 lai2 o2
+Dev909 lie4 ren2 lei ge4 mei2 de2
+Dev910 na4 wo3 cai2 mei2 you3 ji4 dao4 a gao1 xian4 zai4 gen1 ni3 shuo1 de sha2 zi dong1 xi1 a a ta1 gang1 gang1 shuo1 de mei2 ji4 dao4 ha1
+Dev911 hai3 bao4
+Dev912 ni3 shuo1 sha2 zi ya hou4 qi1 shi4 shen2 me shi2 hou4 wo3 gao3 bu4 qing1 chu3 zhe4 ge4 sha2 zi ya
+Dev913 mei2 shen2 me huo2 dong4 fang4 qi4 wo3 zai4 xiao3 qu1 zou3 dong4 n2 na4 ni3 you3 mei2 you3 jue2 de sheng1 huo2 kong1 xu1
+Dev914 qu4 na4 ge4 zhong4 yi1 zhong4 yi1 na4 ge4 na4 ge4 shui2 lv3 lao3 shi1 na4 er2 lv3 jiao4 shou4
+Dev915 ran2 hou4 wo3 shuo1 wan2 zhi1 hou4 ni3 yao4 chong2 fu4 yi1 bian4 ran2 hou4 bing4 qie3 yao4 ji4 zhu4 zhe4 san1 yang4 dong1 xi1 yin1 wei4 deng3 yi2 xia4 wo3 hai2 hui4 zai4 wen4 nin2
+Dev916 ba1 shi2 jian3 qi1 qi1 shi2 san1
+Dev917 an4 zhao4 ta1 mu4 qian2 de zhuang4 tai4 de hua4 sheng1 cun2 qi1 hen3 nan2 chao1 guo4 yi1 nian2 ba
+Dev918 cun1 zhuang1 you3 ren2 min2 mei2 you3
+Dev919 mei2 jian4
+Dev920 tai4 duo1 le ji4 bu4 de2 na4 wo3 men zai4 lai2 yi1 bian4 ha1 zai4 lai2 yi1 bian4
+Dev921 zhe4 shi4 yi1 zhi1 hua1 hao3 zhe4 ge4
+Dev922 hao3 ni3 kan4 ni3 kan4 shi4 nen4 ge4 di1 han3 ni3 ji4 shi4 you3 xie1 sha2 zi dong1 xi1
+Dev923 mei2 you3 jiu4 shi4 ou3 er3 zao3 shang4 yin1 wei4 wo3 er2 zi qu4 xue2 xiao4 ma shang4 xue2 qu4 le ta1 jiu4 zong3 wen4 wen4 er2 zi hui2 lai2 mei2 you3 a shen2 me shen2 me de
+Dev924 hai2 you3 ta1 gan1 zang4 shang4 mian4 qi2 shi2 you3 ge4 xiao3 li1 ke3 neng2
+Dev925 zhe4 ge4 wo3 bu4 xiao3 de zhe4 shi4 sha2 zi ye3
+Dev926 da4 mu3 zhi3
+Dev927 ni3 xian4 zai4 ting1 wo3 de kou3 ling4 ha1 hai2 shi4 yi1 yang4 wo3 mei3 ge4 kou3 ling4 zhi3 neng2 shuo1 yi1 bian4
+Dev928 yao4 xie3 yi1 ju4 hua4 ni3 ba3 zhi3 na2 chu1 lai2 hai2 yao4 na2 yi1 zhi1 bi3
+Dev929 e2 xian4 zai4 wo3 yao4 gen1 nin2 shuo1 yi1 ju4 hua4 nin2 xu1 yao4 qing1 chu3 de gen1 wo3 chong2 fu4 chu1 lai2 ha1 zhe4 ju4 hua4 shi4
+Dev930 o2 hao3 de ming2 bai2 le
+Dev931 jia1 ting2 ying4 bi4 tie3 lu4
+Dev932 ji4 bu2 dao4 ying1 er2 yong4 pin3 shi4 sha2 zi
+Dev933 ran2 hou4 xian4 zai4 zhao3 dao4 na4 ge4 shi2 ji4 ce4 yan4 shi4 cong2 yi1 dao4 er4 shi2 wu3 na4 ge4 yi1 dao4 er4 shi2 wu3 hao4
+Dev934 mei2 shi4 ha1 na4 zhe4 ge4 ne yuan2 bi3
+Dev935 si4 er4 qi1 san1 yi1 qi1 san1 yi1
+Dev936 hao3 mei2 shi4 ha1 wo3 men jie1 zhe xia4 mian4 de na4 ge4 jia1 shu3 ji4 gei3 ni3 men de you3 na4 ge4 lian2 xian4 shi2 yan4 lian2 xian4 shi2 yan4 ke3 neng2 ni3 men yao4 na2 chu1 di4 shi2 qi1 ye4
+Dev937 ran2 hou4 e4 xian4 zai4 ne wo3 yao4 shuo1 yi1 ju4 hua4 qing3 nin2 de qing3 nin2 ne qing1 chu3 de gen1 wo3 chong2 fu4 yi1 bian4 a
+Dev938 hao3 ta1 men you3 yi1 xie1 shi4 yi1 xie1 shen1 ti3 miao2 shu4 shen1 ti3 bu4 wei4 de yi1 xie1 ci2 yu3
+Dev939 e2 jiu4 shi4 shu1 shu1 you3 mei2 you3 chu1 xian4 guo4 huan4 jue2 de zhe4 zhong3 qing2 kuang4 jiu4 bi3 ru2 shuo1 jia1 li3 na3 er2 ben3 lai2 mei2 ren2 ta1 jiu4 fei1 yao4 shuo1 you3 ren2 huo4 zhe3 shuo1 zong3 jue2 de zi4 ji3 neng2 ting1 jian4 qi2 qi2 guai4 guai4 de sheng1 yin1 zhi1 lei4 de
+Dev940 hao3 ran2 hou4 wo3 zai4 gei3 ni3 nian4 yi1 bian4 ni3 ting1 bu4 dong3 de gei3 wo3 shuo1 ha1 wo3 jiu4 gei3 ni3 jiang3 shi4 sha2 zi ha1
+Dev941 jiu4 bi3 ru2 shuo1 wo3 jiang1 yi1 er4 san1 nin2 jiu4 fan3 guo4 lai2 shuo1 san1 er4 yi1 hao3 ba
+Dev942 you3 zhe4 ge4 gan3 jue2 a you3 zhe4 ge4 gan3 jue2 ha1 na4 ni3 you3 mei2 you3 jing1 chang2 wei4 yi1 xie1 xiao3 de shi4 qing2 gan3 dao4 shang1 xin1 ne
+Dev943 zhe4 ge4 hai2 shi4 dui4 dao4 zhe4 ge4 hua4 ha1 hua4 yi1 yang4 de hua4 zai4 xia4 mian4 ma hua4 yi2 ge4 mai4 ai1 hua4 yi2 ge4 zhi3 yong4 hua4 yi2 ge4
+Dev944 dui4 wo3 men lai2 shuo1 mei2 you3 yi4 yi4 dui4 ta1 lai2 shuo1 you3 yi4 yi4 jiu4 shi4 yi1 bian4 yi1 bian4 di4 zuo4 tong2 yang4 de shi4 qing2 dan4 shi4
+Dev945 hao3 hao3 ni3 qu4 xiu1 xi1 yi1 xia4 ta1 bu4 yong4 zuo4 na4 ge4 shi4 bu4 ta1 bu4 yong4 zuo4 le wo3 men hou4 mian4 wen4 ni3 jiu4 xing2 le
+Dev946 ji3 yue4 fen4 ni3 gu1 ji4 ma
+Dev947 ran2 hou4 ye3 you3 zhong1 guo2 zi4 shi4 ba wo3 men a1 la1 bo2 shu4 zi4 yi1 shang4 mian4 shi4 kai1 shi3
+Dev948 hao3 kai1 shi3 ha1 ge1 bo2 ge1 bo2 mao1 mao1
+Dev949 jiu4 shi4 gang1 cai2 nin2 shuo1 ta1 xian4 zai4 mei2 you3 shen2 me jing1 shen2 shang4 de ming2 xian3 de dong1 xi1 bi3 ru2 wang4 xiang3 a huan4 jue2 a ji1 re3 yi4 yu4
+Dev950 kou3 qin2 n2
+Dev951 zhuang1 ye4 ti3 li1 zhuang1 ye4 ti3 li1 jiao4 sha2 zi shui3 guan4
+Dev952 po2 po2 ni3 jue2 de ta1 shi4 luo4 tuo2 hai2 shi4 ma3 o2 luo4 tuo2 luo4 tuo2 luo4 tuo2
+Dev953 xuan3 ze2 zheng4 que4 de yi1 fu2 chuan1 shang4 de2 bu4 de2 xing2 de2 xing2 shu4 xi3 dou1 shu4 xi3
+Dev954 mei2 de2 sha2 zi la pu2 tao2 hai2 you3 ai1
+Dev955 hao3 po2 po2 nin2 hai2 shi4 jiu4 shi4 ping2 mu4 shang4 shi4 shen2 me nin2 hai2 shi4 nian4 yi1 xia4
+Dev956 kan4 mei2 kan4 dao4 guo4 zhe4 ge4 mei2 you3 mei2 you3 mei2 kan4 dao4 guo4 cai2 zheng4
+Dev957 zhe4 shi4 yi1 zhong3 zai4 ai1 ji2 de dong1 xi1 zhe4 zhong3 fang2 zi jiao4 man2
+Dev958 dui4 zhi2 chi3 ha1 ran2 hou4 you3 yi2 ge4 yong4 lai2 kan4 dong1 xi1 de wu4 pin3
+Dev959 dao1 dao1 zi dao1 zi zhong1 zhong1
+Dev960 ni3 jue2 de sheng1 huo2 ling4 ren2 xing1 fen4 ma xing1 fen4
+Dev961 kan4 hai2 you3 mei2 you3 de2 xiang3 qi3 lai2 li1 n2 xiang3 bu4 qi3 lai2 hao3 wo3 men zai4 kan4 yi1 bian4
+Dev962 shu1 shu1 ni3 jue2 de ta1 xiang4 wo1 niu2 hai2 shi4 xiang4 shan4 bei4
+Dev963 fei1 ji1 fei1 ji1 er3 duo3 er3 duo3
+Dev964 na4 ta1 ke3 yi3 zi4 ji3 zi4 ji3 gou4 wu4 na4 xie1 ne dou1 mei2 wen4 ti2 dou1 ke3 yi3 ta1 xian4 zai4 hai2 dou1 shi4 ta1 jia1 li3 jia1 li3 dou1 shi4 ta1 mai3 cai4
+Dev965 e4 xian4 zai4 shi4 ji3 yue4 fen4
+Dev966 fan2 zao4 na4 zhong3 pi2 qi4 hen3 da4 na4 zhong3 ken3 ding4 shi4 you3 kun4 rao3 le jiu4 yi1 tian1 dao4 wan3 ta1 dou1 zai4 fa1 pi2 qi4
+Dev967 ta1 zi4 ji3 shang4 jie1 mai3 dong1 xi1 de2 bu4 de2 xing2 shang4 che1 bu4 zi4 ji3 qu4 jie1 shang4 mai3 dong1 xi1
+Dev968 yin1 wei4 deng3 hui4 wo3 hai2 yao4 kan4 ta1 tui3 shang4 ha1 e4 niang2 niang2 ni3 xian1 yong4 you4 shou3 ba3 lei1 zhang1 zhi3 na2 qi3
+Dev969 hao3 wo3 men xian4 zai4 you4 lai2 hua4 tu2 ha1 hua4 tu2 wo3 jue2 de zhe4 ge4 ye2 ye2 jin1 tian1 jing1 shen2 bu2 shi4 hen3 hao3 ta1 ping2 shi2 dou1 shi4 zhe4 ge4 yang4 zi ma ping2 shi2 dou1 shi4 leng2 ge4
+Dev970 hao3 ran2 hou4 bai3 zai4 ta1 mian4 qian2 ran2 hou4 wo3 zai4 gei3 ta1 kan4 yi1 ha1 lei yi2 ge4 de lian2 xian4 de gui1 ze2
+Dev971 wu3 ba1 yi1 jiu3 er4 liu4 si4 qi1 wu3 ba1 yi1 jiu3 hao3 duo1 a
+Dev972 ta1 yao4 yong4 xie3 yi1 ju4 hua4 sui2 bian4 xie3 yi1 ju4 wan2 zheng3 de you3 yi4 yi4 de hua4 hao3 ma
+Dev973 hao3 kan4 dao4 la kan4 dao4 la xing2 le xing2 le
+Dev974 hao3 xiang4 cha4 bu4 duo1 o2 wo3 jiu4 shi4 da3 dian4 hua4 jiu4 gan3 jue2 chu1 lai2 o2 dan4 shi4 ta1 you3 ke3 zhi1 qian2 jiu4 yi3 jing1 chu1 xian4 zhe4 zhong3 man4 man4 bu4 hao3 ni3 men mei2 you3 fa1 xian4
+Dev975 ji4 jing4 zhe4 ge4 shi4 ji4 jing4 ni3 du2 yi1 ha1 ma ji4 jing4 ji4 jing4
+Dev976 na4 ni3 ping2 shi2 ping2 shi2 da4 gai4 tang3 yao4 tang3 hao3 jiu3 cai2 shui4 de2 zhe an1
+Dev977 kan4 guo4 mei2 de2 mei2 you3
+Dev978 ta1 dong1 xi1 fang4 zai4 na3 li3 de ma3 shang4 jiu4 wang4 ji4 le fan3 zheng4 jiu4 shi4 jue2 de yi1 tian1 zai4 wu1 tou2 bu4 zhi1 dao4 zuo4 sha2 zi mei3 tian1 dou1 shi4
+Dev979 guo2 qing4 jie2 qin1 jin4 hao3
+Dev980 mei2 zuo4 de xia4 lai2 jiu4 shi4 he1 le na4 ge4 yao4 yao4 tu3 wei4 jing4 zhi1 qian2 zuo4 liao3 de ta1 mei2 gei3 wo3 kan4 bao4 gao4 ta1 shuo1 mei2 you3 sha2 zi da4 wen4 ti2
+Dev981 o2 yao4 shang4 yi4 ban1 dou1 shi4 yi4 ban1 yi1 ci4 yi1 ci4 ju1 duo1 yi1 ci4 ha1 hao3 de hao3 de
+Dev982 a hao3 de na4 wan3 shang4 hui4 bu2 hui4 qi3 ye4 ne qi3 ye4 yi4 ban1 dou1 bu4 qi3 ye4 wo3 yi4 ban1 dou1 bu4 qi3
+Dev983 bu4 guang1 yao4 ji4 zhe4 ge4 ci2 hai2 yao4 ji4 dao4 wo3 qian2 mian4 gei3 ni3 shuo1 de deng3 ha1 wo3 hui4 ti2 shi4 ni3 ha1
+Dev984 hen3 xiang4 yin1 yue4 wan2 de wan2 de
+Dev985 lao3 shi1 ta1 jiu4 ai4 he1 jiu3 nian2 qing1 de shi2 hou4 ai4 he1 jiu3 ha1
+Dev986 hao3 xian4 zai4 wo3 gei3 ni3 shuo1 shu4 zi4 dan4 shi4 ni3 yao4 ba3 ta1 dao4 guo4 lai2 shuo1 jiu4 bi3 ru2 shuo1 wo3 gei3 ni3 nian4 yi1 er4 san1 ran2 hou4 ni3 yao4 ba3 ta1 shuo1 san1 er4 yi1 zhe4 yang4 shuo1 chu1 lai2
+Dev987 n2 hai2 you3 yi2 ge4 ming2 zi4 ta1 de xue2 ming2 yi1 ha1 wu3 ge4 ma
+Dev988 peng2 xiao3 ying1 a ni3 xian4 zai4 zai4 sha2 zi di4 fang1 a zai4 shi2 tie3 ni3 xian4 zai4 zai4 nei3 ge4 cheng2 shi4 ya
+Dev989 er3 duo3 er3 duo3 gou3 zou3 gou3 gou3
+Dev990 shang4 mian4 shi2 er4 ran2 hou4 jiu3 liu4 ran2 hou4 san1
+Dev991 yi1 zhou1 you3 mei2 de2 san1 tian1 zhe4 zhong3 qing2 kuang4 mei2 de2 nen4 ge4 pin2 fan2
+Dev992 yi3 qian2 zhen3 duan4 guo4 dong4 mai4 ying4 hua4 mei2 you3 mei2 you3
+Dev993 xian4 zai4 wo3 men dou4 lai2 xiang3 hui2 yi4 yi1 ha1 gang1 gang1 wo3 men kan4 le nei3 xie1 ya
+Dev994 hao3 ran2 hou4 di4 er4 chuan4 shu4 zi4 liu4 si4 san1 jiu3
+Dev995 hao3 po2 po2 jie1 xia4 lai2 ma2 fan2 ni3 na2 yi1 zhang1 zhi3 chu1 lai2 hua4 yi2 ge4 zhong1
+Dev996 shi2 qi1 shi2 qi1 nang2 ge4 dou1 shi4 xie1 kong4 bai2 zhi3 ei2
+Dev997 xiang3 xiang3 ha1 na4 ni3 jue2 de sheng1 huo2 kong1 xu1 bu4
+Dev998 lao3 hu3 lao3 hu3 li2 ming2 li2 ming2
+Dev999 jiao1 lv4 hao3 xiang4 mei2 you3 you3 ba
+Dev1000 ni3 shuo1 li1 na3 san1 ge4 dao1 fu3 zi lang2 tou
+Dev1001 qian1 bi3 ei2 qian1 bi3
+Dev1002 na4 wo3 men xian4 zai4 hai2 shi4 kan4 ping2 mu4 ha1 ping2 mu4 shang4 zhe4 ge4 shi4 shen2 me ya zhe4 ge4 shi4 hua1 sa1
+Dev1003 hao3 ran2 hou4 po2 po2 hua4 wan2 le ma po2 po2 zhe4 me kuai4 ma nin2 ju3 dao4 ping2 mu4 shang4 gei3 wo3 kan4 yi1 yan3
+Dev1004 ji4 bu2 dao4 le hao3 po2 po2 jie1 xia4 lai2 ha1 wo3 men xia4 yi2 ge4
+Dev1005 mo2 gu1 yi1 jia4
+Dev1006 ai1 ya1 zhong1 zi4 xing2 che1 lao3 hu3 shen2 me
+Dev1007 hao3 a1 yi2 xian4 zai4 kan4 dao4 ping2 mu4 shang4 you3 ge4 dong1 xi1 mei2 you3 you3 ge4 tu2 n2 n2
+Dev1008 hao3 ting1 dao4 wo3 shuo1 ha1 wu3 ba1 er4
+Dev1009 xian4 zai4 ji4 de na4 xie1 ci2 an1 zi4 xing2 che1 ma3 qi4 che1 pao3
+Dev1010 na4 ke3 yi3 ha1 po2 po2 na4 jiu4 xian1 zhe4 yang4 ha1 nin2 gao4 su4 wo3 you2 piao4 tie1 zai4 na3 nin2 gei3 wo3 zhi3 yi1 xia4 you2 piao4 ying1 gai1 tie1 zai4 na3
+Dev1011 dao1 zi chui2 zi
+Dev1012 ba3 shou3 ji1 deng1 qi3 guo4 hou4 ba3 ta1 sheng1 yin1 kai1 zui4 xiao3 ke3 yi3 ke3 yi3
+Dev1013 fu3 zi ting1 dao4 le de
+Dev1014 jiu3 er4 liu4 san1 er4 qi1 jiu3
+Dev1015 chuang2 chuang2 fei1 ji1
+Dev1016 hao3 na4 xian4 zai4 wo3 gei3 ni3 nian4 ni3 kan4 gang1 cai2 shuo1 guo4 mei2 shuo1 guo4
+Dev1017 yong3 qi4 rong2 qi4 wu4 ti3
+Dev1018 shi2 ba1 lei1 ge4 er2 o2 ai1 yo1 you4 gan4 lang1 ge4 di1
+Dev1019 you3 mei2 de2 yi1 xie1 yi4 chang2 de xing2 wei2 bi3 ru2 shuo1 zai4 wu1 tou2 dao4 chu4 zhao3 dong1 xi1 zhuan4 lai2 zhuan4 qu4
+Dev1020 ta1 ping2 shi2 de hua4 ni3 gan3 jue2 ta1 zhe4 zhong3 qing2 kuang4 yi1 zhou1 you3 ji3 hui2 ai1 da4 gai4
+Dev1021 n2 hao3 na4 ni3 jue2 de ni3 xian4 zai4 de ji4 yi4 li4 you3 mei2 you3 bi3 yi3 qian2 cha4 ne
+Dev1022 ta1 shuo1 wan2 yi1 ju4 hua4 ni3 gen1 ta1 shuo1 wo3 shuo1 na3 yang4 shuo1 deng3 ta1 shuo1 le lai2 shuo1 bu4 lai2
+Dev1023 n2 ni3 zhe4 ge4 zhong1 xie3 ge4 yi1 xie3 ge4 yi1 jiu4 shi4 shuo1 zhe4 shi4 ni3 di4 yi1 ci4 hua4 de zhong1
+Dev1024 hao3 hai2 you3 zui4 hou4 yi2 ge4 wei4 yu4 yong4 pin3 shi4 sha2 zi ye3
+Dev1025 ni3 kan4 zhe4 shi4 sha2 zi tu4 zi an1 ei2 dui4 zhe4 ge4 an1 qian1 bi3 bi3 bi3 zhe4 ge4 an1 jian3 dao1 zhe4 ge4 an1 hua1 zhe4 ge4 an1 dao1 ju4 zi ju4 zi dui4 de zhe4 ge4 an1 sao4 ba3 hao3 de zhe4 ge4 an1 mu4 bu4 zhe4 ge4 an1 yi1 jia4 zhe4 ge4 an1 lun2 yi3 lun2 yi3 lun2 yi3 n2 zhe4 ge4 an1 luo4 tuo2 zhe4 ge4 an1 yu3 mao2 qiu2 pai1
+Dev1026 ni3 zuo4 jue2 ding4 rong2 bu4 rong2 yi4 jiu4 bi3 ru2 shuo1 ni3 qu4 mai3 yi1 yang4 dong1 xi1 ni3 zuo4 jue2 ding4 kuai4 bu4 kuai4 rong2 bu4 rong2 yi4
+Dev1027 yong3 qi4 na4 ge4 ci2 ma a kan4 dao4 guo4 mei2 you3 hao3 xiang4 mei2 you3
+Dev1028 shi2 dian3 shi2 fen1 shi2 yi4 dian3 shi2 fen1 ha1 po2 po2
+Dev1029 ta1 qu4 na4 ge4 ta1 ba3 yi2 ge4 yi1 bao1 can1 jin1 zhi3 ta1 ren4 wei2 na4 ge4 can1 jin1 zhi3 shi4 bao1 yao4
+Dev1030 gu4 ding4 dong1 xi1 li1 ai1 hui2 xing2 zhen1
+Dev1031 hao3 kai1 shi3 ha1 ge1 bo2 mao1 n2 mao1
+Dev1032 you3 yi1 xie1 shi4 xie1 gong1 ju4
+Dev1033 hai2 you3 yi1 zhong3 zhi2 wu4 shi4 shen2 me zhi2 wu4 ji4 bu2 dao4 le ni3 ji4 bu4 de2 le shi4 xian1 ren2 zhang3 ha1 o2 dui4 tou2 shi4 xian1 ren2 zhang3
+Dev1034 na4 ge4 hai2 shi4 you3 ni3 shi4 jue2 de kun4 mie1 hai2 shi4 jue2 de jing1 li4 bu4 zu2 shi4 na3 zhong3 qing2 kuang4 ai1
+Dev1035 ei2 dui4
+Dev1036 wei4 sheng1 chu1 xian4 guo4 hao3 xiang4 n2 hao3
+Dev1037 zhong1 biao3 hao3 kan4 ling4 wai4 yi2 ge4
+Dev1038 shui3 guan4 ye3 suan4 a n2 you3 yi1 zhong3 wei4 yu4 yong4 pin3
+Dev1039 n2 hai2 you3 ma
+Dev1040 ran2 hou4 you3 yi1 zhong3 chuan2 you3 yi1 zhong3 chuan2 shi4 shen2 me chuan2 mu4 chuan2
+Dev1041 na4 ta1 you3 mei2 you3 yi1 xie1 jiu4 shi4 zi4 cong2 ji4 yi4 xia4 jiang4 yi3 lai2 you3 mei2 you3 gan3 jue2 ta1 qing2 xu4 bi3 ru2 shuo1 ta1 yi4 yu4 le huo4 zhe3 shuo1 kan4 de zong3 shi4 xian3 de hen3 bei1 shang1 you3 mei2 you3 na4 ge4 mei2 you3 fa1 xian4 ne
+Dev1042 tu2 shu1 guan3 tu2 shu1 guan3 hai3 yang2 hai3 yang2 mai4 zi
+Dev1043 dui4 ran2 hou4 hua4 chu1 shi2 yi4 dian3 guo4 shi2 fen1 de yang4 zi
+Dev1044 zi4 xing2 che1 zi4 xing2 che1 wo3 bei4 dao4 de she2 she2 mei2 bei4 dao4 ban3 deng4 o2 ban3 deng4 bei4 la4 le mei2 bei4 dao4
+Dev1045 mao1 mao1 wo3 bei4 dao4 de zui3 ba1 mei2 bei4 dao4 shu4 o2 shu4
+Dev1046 guo2 qi2 pi2 fu1 er2 tong2
+Dev1047 yong3 qi4 yong3 qi4 an1 you3 ta1 shuo1 you3
+Dev1048 zhe4 ge4 kan4 bu4 dong3 zhe4 ge4 shi4 sha2 zi ya zhe4 ge4 xiao3 de shi4
+Dev1049 zhe4 ge4 hong2 quan1 quan1 quan1 chu1 lai2 de shou3 zhi3 tou jiao4 shen2 me ming2 zi4 da4 mu3 zhi3
+Dev1050 jiu4 shi4 na4 xie1 chui1 chui1 jiu4 shi4 lao3 shi1 zuo4 yong4 xia4 ke4 de shi2 jian1 dui4 na4 ge4 shi2 jian1 chui1 dui4
+Dev1051 jiu4 shi4 gang1 gang1 shi2 miao3 zhong1 gang1 gang1 han3 ni3 shi2 miao3 zhong1 an1 ni3 ji4 xia4 lai2 de na4 xie1 tu2 an1 you3 yi2 ge4 shi4 ni3 ji4 bu2 dao4 de hua4 ni3 gan3 jue2 ni3 mei2 kan4 guo4 a
+Dev1052 ran2 hou4 dang4 cheng2 xin4 zhi3 yao4 sai4 jin4 qu4 ran2 hou4 nin2 yao4 ba3 di4 zhi3 a zhe4 xie1 xie3 hao3
+Dev1053 na4 ni3 wan3 shang4 ji3 dian3 shang4 chuang2 shui4 jiao4 ya ji3 dian3 shui4 jiao4 ji3 dian3 a ba1 jiu3 jiu3 dian3 duo1 zhong1
+Dev1054 chun1 xia4 qiu1 dong1 nei3 ge4 ji4 jie2 bu2 yao4 ti2 xing3 ta1 ha1 jia1 shu3 bu2 yao4 ti2 xing3 ta1
+Dev1055 jie1 duan4 xing4 de jie1 duan4 xing4 de o2 ta1 xian4 zai4 xing4 ge2 ge4 fang1 mian4 de bao3 chi2 de hai2 bi3 jiao4 hao3 ba
+Dev1056 hai3 yang2 mai4 zi jia1 ting2
+Dev1057 yi1 qi1 si4 er4 ba1
+Dev1058 ni3 xiang3 yi1 xia4 ta1 shi4 yi1 sheng1 yong4 de shi4 shen2 yi1 sheng1 yong4 de shen2 me dong1 xi1 ne dai4 de na4 ge4 na4 ge4 dai4 er3 duo3 shang4 de jiu4 leng2 me dai4 qi3
+Dev1059 jia1 ju4 ne n2 sha2 zi zhuo1 an1 shu1 zhuo1
+Dev1060 ni3 men jue2 de zhao4 gu4 ta1 zhe4 zhong3 kun4 nan2 cheng2 du4 bi3 ru2 shuo1 yi1 er4 san1 si4 wu3 ping2 wu3 ji2
+Dev1061 xing1 qi1 ji3 ni3 xiao3 de bu4 xing1 qi1 san1
+Dev1062 jing4 zi qian2 mian4 · you3 mei2 you3 rang4 nin2 ji4 guo4 jing4 zi mei2 you3
+Dev1063 gu4 zhi2 de biao3 xian4 ye3 bu4 bu4 gu4 zhi2 de biao3 xian4 ye3 bu4 duo1 o2 ye3 bu2 shi4 ye3 hen3 shao3 jian4
+Dev1064 a lai2 wo3 dai4 ha1 er2 wo3 zai4 dai4 ni3 kan4 yi1 bian4
+Dev1065 ran2 hou4 wo3 men xian4 zai4 yao4 xie3 yi1 ju4 hua4 ni3 sui2 bian4 xie3 yi1 ju4 hua4
+Dev1066 na4 ta1 xian4 zai4 e4 po2 po2 xian4 zai4 shi2 yu4 zen3 me yang4 ma shi2 yu4 hai2 ke3 yi3 a xian4 zai4 hui2 lai2 ni3 yi4 zhi2 dou1 yi4 zhi2 hao3
+Dev1067 chui2 zi ji4 guo4 mei2 de2 mei2 ji4 guo4
+Dev1068 da4 gai4 you3 shi2 yi1 er4 nian2 ba e2 shi2 yi1 er4 nian2 chu1 zhong1 bi4 ye4 yi3 hou4 du2 zhong1 zhuan1 ya
+Dev1069 kong1 xu1 bu4 na4 you3 shi2 hou4 hai2 shi4 gan3 dao4 kong1 xu1 hao3 da3 na4 nin2 jue2 de sheng1 huo2 yan4 juan4 ma
+Dev1070 yin1 yue4 gang1 gang1 er2 kan4 dao4 mei2 de2 yo1 mei2 you3 kan4 dao4 ta1 shuo1 mei2 you3 kan4 dao4
+Dev1071 a wen4 ni3 ji2 zhong1 jing1 li4 you3 kun4 nan2 mei2 de2 jiu4 shi4 yao4 xiang3 jing4 xia4 xin1 lai2 dui4 yi1 jian4 shi4 qing2
+Dev1072 ai1 hao3 de zai4 jian3 qi1 deng3 yu2 duo1 shao3 zai4 jian3 qi1 hai2 you3 qi1 shi2 er4
+Dev1073 mei2 jian4
+Dev1074 ji4 bu2 dao4 le hao3 wo3 deng3 ha1 er2 zai4 gei3 ni3 nian4 yi1 bian4 wo3 zui4 hou4 yi1 bian4 ji4 bu4 de2 yao4 ti2 xing3 ni3
+Dev1075 jiu4 shi4 n2 ju4 jue2 he2 zuo4 jiu4 shi4 jue2 de ta1 ta1 you3 dian3 er2 nan2 yi3 xiang1 chu3 de na4 zhong3
+Dev1076 shou3 zhi3 tou jiao4 shen2 me ming2 zi4 hong2 se4 quan1 quan1 quan1 chu1 lai2 de zhe4 ge4 shou3 zhi3 tou shi4
+Dev1077 she2 shuo1 guo4 mei2 de2 sha2 zi she2 she2 ye3 mei2 shuo1 guo4
+Dev1078 yin3 liao4 a nei4 shi4 yin3 liao4 a xiang4 gang1 mei2 de2
+Dev1079 jin1 nian2 shi4 er4 ling2 ling2 yi1 nian2 er4 ling2 ling2 yi1 ha1
+Dev1080 ying1 er2 wan2 ju4 yao2 ling2
+Dev1081 wo3 han3 bu4 lai2 zhe4 ge4 zhe4 shi4 yi1 zhong3 dong4 wu4 ta1 shi4 guan4 tou dao1 hai2 shi4 he2 ma3 hai2 shi4 xi1 niu2
+Dev1082 ce4 liang2 ce4 liang2 ye3 xiang3 bu4 qi3 you3 yi2 ge4 shi4 yong4 lai2 kan4 dong1 xi1 de wu4 pin3
+Dev1083 wang4 yuan3 jing4 er2 hao3 xian4 zai4 zui4 hou4 yi1 zu3 ha1 ba3 na4 xie1 du2 yi1 xia4
+Dev1084 ka3 che1 ka3 che1 ye3 mei2 shuo1 guo4
+Dev1085 a jia1 dong1 xi1 de a jiu4 shi4 jia1 dong1 xi1 li3 dan4 shi4 kan4 qi3 you4 bu4 xiang4 jiu4 shi4 na4 zhong3 nie4 zi na4 zhong3
+Dev1086 hao3 po2 po2 ni3 jue2 de xian4 zai4 hao3 duo1 dian3 le da4 gai4 si4 wu3 dian3 le si4 dian3 le
+Dev1087 zhao4 dao4 lei ge4 tu2 hua4 xia4 lai2 zhao4 dao4 lei ge4 tu2 hua4
+Dev1088 mei2 you3 mei2 you3 mei2 you3 jian4 guo4 de mei2 you3
+Dev1089 zhe4 dao4 mei2 you3
+Dev1090 zhe4 ge4 jiu4 shi4 hua2 ti1 fu4 shou3 dian4 ti1 ta1 jiao4 sha2 zi ming2 zi4
+Dev1091 zai4 xin4 feng1 shang4 xie3 hao3 di4 zhi3 bing4 gao4 su4 wo3 you2 piao4 tie1 zai4 na3 er2
+Dev1092 zui4 hou4 zhe4 zhang1 ma n2 di4 wu3 zhang1 ta1 shuo1 ta1 kan4 guo4 de
+Dev1093 lei ge4 lei ge4 dong1 xi1 mei2 kan4 dao4 guo4
+Dev1094 jian4 zhu4 shang4 yi1 bu4 fen4 fang2 zi shang4 de yi1 bu4 fen4 gang1 gang1 kan4 de ci2 yu3 dang1 zhong1
+Dev1095 leng3 qi4 ji1 xiang1 zi ni3 jue2 de shi4 na3 yi2 ge4 na4 jiu4 shi4 kou3 qin2 na4 zhong3
+Dev1096 wo3 bu4 xiao3 de zhe4 ge4 de hua4 lei ge4 ni3 men zhi3 you3 wen4 yi1 xia4 ta1 men jie2 chang2 jing4 kan4 ta1 men chu2 le he1 zhe4 ge4 hai2 neng2 he1 sha2 zi
+Dev1097 n2 yao4 chong2 xin1 lai2 ni3 yao4 ba3 na4 ge4 tu2 pian4 fang4 chu1 lai2 wo3 miao2 de2
+Dev1098 zhi3 you3 ge4 ren2 le ge4 le sai1 wo3 ye3 shi4 ge4 ren2 zai4 zhu3 le chi1
+Dev1099 jiu4 shi4 yi1 yi1 er4 er4 san1 san1 si4 si4 leng2 ge4 lian2 qi3 lai2 shu4 zi4 zai4 qian2 tou yi1 he2 yi1
+Dev1100 ran2 hou4 chi1 yao4 zi4 ji3 ta1 ping2 shi2 zai4 chi1 yao4 mei2 you3 ai1
+Dev1101 ta1 shuo1 ta1 hua4 bu4 qi3 ke3 yi3 xian1 gei3 ta1 piao1 yi1 yan3 zhe4 ge4
+Dev1102 ran2 hou4 ta1 lei ge4 jiu4 shi4 ta1 ping2 shi2 you3 mei2 you3 lei zhong3 gan3 jue2 bu2 zheng4 chang2 lei zhong3 guo4 du4 xing1 fen4 huo4 zhe3 qing2 xu4 gao1 ang2 zhe4 zhong3 shi2 hou4 you3 mei2 de2
+Dev1103 ni3 ting1 hao3 wo3 nian4 yi2 ge4 ni3 ji4 zhu4 yi2 ge4
+Dev1104 kan4 dong1 xi1 li1 wang4 yuan3 jing4 ce4 liang2 li1 zhi2 chi3
+Dev1105 zhe4 ge4 gang1 cai2 mei2 xian4 de ni3 jiu4 shuo1 ma mei2 jian4 guo4 a mei2 jian4
+Dev1106 ta1 shi4 yong4 de sha2 zi shi4 ben3 lai2 yong4 de ta1 zhi1 qian2 yong4 de li4 ke4 li4 de
+Dev1107 deng1 de teng2 xun4 hui4 yi4 wo3 ba3 nei4 ge4 fa1 gei3 ni3 ni3 zhi2 jie1 xia4 yi2 ge4 nei4 ge4
+Dev1108 ren3 bu2 zhu4 ha1 chen2 lao3 shi1 ta1 ping2 shi2 you4 mei2 you3 gan3 jue2 jiu4 shi4 che3 che3 de jiu4 shi4 hen3 kai1 xin1 yi4 chang2 de qing2 kuang4 zheng4 chang2 de shi4 qing2 ta1 tu1 ran2 da4 xiao4 hen3 kai1 xin1 ren3 bu2 zhu4
+Dev1109 na4 ta1 jiu4 shi4 bi3 ru2 shuo1 da3 dian4 hua4 na4 xie1 de2 bu4 de2 xing2 ai1
+Dev1110 sha2 zi si4 shi2 si4 zhi3 shi2 shi1 zi ni3 gen1 wo3 chong2 fu4 yi1 xia4
+Dev1111 mei2 de2 shi4 mei2 de2
+Dev1112 yue4 qi4 a yue4 qi4 xiang4 shi4 shuo1 de er4 hu2
+Dev1113 zhe4 ge4 ne na3 er2 a zhe4 shi4 qian1 bi3 a n2
+Dev1114 ta1 li1 ma1 ma1 jiu4 shi4 wo3 de wai4 po2 ying1 gai1 zhe4 ge4 dao4 wan3 nian2 you3 chu1 xian4 jing1 shen2 shang4 zhe4 xie1 yi1 xie1 zhuang4 kuang4 dan4 na4 ge4 shi2 hou4 mei2 you3 qu4 yi1 yuan4 zhi4 zhi3 shuo1 ta1 ke3 neng2 you3 dian3 bu2 dui4 tou2
+Dev1115 xian1 xiang3 ha1 ni3 li3 jie3 dao4 mei2 de2 zhe4 gen1 shi4 cuo4 de zhe4 gen1 xian4 shi4 cuo4 de qu4 gei3 gang1 le
+Dev1116 san1 lian2 si4 si4 lian2 wu3 wu3 zai4 lian2 liu4
+Dev1117 deng3 yu2 qi1 shi2 er4 wa ji4 xu4 ji4 xu4 ji4 xu4
+Dev1118 sha1 mo4 zhi2 wu4 shi4 xian1 ren2 zhang3 ran2 hou4 ying1 er2 yong4 pin3 shi4 yao2 ling2
+Dev1119 wo3 men zai4 jia1 li3 bian1 hao3 bi3 zuo4 sha2 zi shi4 na4 xie1 zhe4 bi3 fang1 shuo1 jiu4
+Dev1120 hao3 po2 po2 ni3 xian4 zai4 ji4 de nei3 xie1 ci2 a ai1 yo1 wo3 yi1 jiao3 you4 ji4 bu4 guo4 lai2 hao3
+Dev1121 ta1 hai2 hui4 zhao3 wo3 ma1
+Dev1122 gao3 hun4 le gang1 gang1 kan4 de bu2 shi4 yi3 qian2 de gang1 gang1 kan4 de na4 si4 zhang1 tu2 pian4 shang4 mian4 de
+Dev1123 wen4 ni3 duo1 gao1 yi1 mi3 san1 yi1 mi3 qi1 qi1 er4
+Dev1124 zai4 jian3 qi1 jiu3 shi2 qi1 zai4 jian3 qi1 ba1 shi2 liu4
+Dev1125 zai4 chuan1 cha1 shi2 er4 ge4 ci2 ni3 mei2 you3 jian4 guo4 de ci2 ran2 hou4 ni3 yao4 gao4 su4 wo3 nei3 xie1 ci2 ni3 kan4 guo4 nei3 xie1 ci2 ni3 mei2 you3 kan4 guo4 ha1
+Dev1126 na4 ge4 shou1 shou1 shi4 xie3 gei3 ni3 ge4 ren2 de
+Dev1127 bi3 jiao4 bi3 jiao4 tu1 ran2 jiu4 shi4 zhi1 qian2 wo3 men jue2 de jiu4 shi4 zhi1 qian2 tou shou4 guo4 yi1 ci4 shang1 shou4 guo4 yi1 ci4 wai4 shang1 ran2 hou4 jiu4 mei2 you3 shang4 ban1 le
+Dev1128 wo3 xian4 zai4 yao4 shuo1 san1 yang4 dong1 xi1 wo3 shuo1 wan2 zhi1 hou4 ni3 yao4 chong2 fu4 yi1 bian4
+Dev1129 dan4 shi4 ni3 bi4 xu1 yao4 lian2 qi3 lai2 jiu4 shi4 shuo1 yi1 dao4 er4 ni3 yao4 lian2 qi3 lai2 cong2 shu4 zi4 yi1 dao4 han4 zi4 yi1 ran2 hou4 zai4 di4 zeng1 di4 zeng1 jiu4 di4 zeng1 dao4 shu4 zi4 shang4 mian4 qu4 ran2 hou4 zai4 di4 zeng1 dao4 han4 zi4
+Dev1130 liu4 yue4 fen4 jiu4 hai2 hao3 mei2 de2 sa1 zi de ai1 jiu4 shi4 liu4 yue4 fen4
+Dev1131 mei2 you3 yong3 qi4 you3
+Dev1132 kan4 dong1 xi1 de wu4 pin3 ne kan4 dong1 xi1 a
+Dev1133 ren4 ha1 lei1 xie1 dong1 xi1 ha1
+Dev1134 ni3 shen1 shang4 dai4 de zhe4 ge4 shi4 sha2 zi ma o2 jiu4 ta1 dai4 zhe zhe4 ge4 sa1 shou3 biao3
+Dev1135 wan3 shang4 wan3 shang4 a shi2 dian3 ban4 zuo3 you4
+Dev1136 n2 si1 wei2 quan2 dui4 le de
+Dev1137 er4 hu2 xiang3 bu4 qi3 le dui4 er4 hu2 hai2 you3 ne
+Dev1138 shi4 qing2 zuo4 duo1 le jiu4 gan3 jue2 jing1 li4 bu4 gou4 a wo3 men you3 mei2 de2 hao3 duo1 shi4 qing2 lao3 nian2 ren2 o2 hao3 de
+Dev1139 ba1 shi2 liu4 zai4 jian3 qi1 ba1 shi2 liu4 jian3 qi1
+Dev1140 na4 ta1 xian4 zai4 ni3 jue2 de ta1 you3 yi4 yu4 mei2 you3 ne
+Dev1141 mao1 mei2 you3 zui3 chun2 zui3 chun2 mei2 you3 ge1 bo2
+Dev1142 jiu3 shi2 san1 jian3 qi1 yo1 ai1 ai1 jiu3 shi2 san1 jian3 qi1
+Dev1143 wo3 gei3 ni3 ti2 shi4 xia4 shui3 guo3 shi4 sha2 zi ta1 gang1 er2 shuo1 de you3 ge4 shui3 guo3 o2 shui3 guo3 shui3 guo3
+Dev1144 yun4 dong4 qi4 cai2 yun4 dong4 xie2 ta1 gang1 ha1 er2 gei3 ni3 shuo1 de yun4 dong4 qi4 cai2 shi4 na3 yi2 ge4 o2 yun4 dong4 qi4 cai2 lan2 qiu2 gang1 gang1 gen1 ni3 shuo1 guo4 ni3 yun4 dong4 qi4 cai2 dang1 zhong1 ta1 gang1 gang1 gen1 ni3 shuo1 guo4 de
+Dev1145 yi2 ge4 shou3 zhi3 n2 po2 po2 ni3 ba3 bi3 fang4 xia4 a ba3 bi3 fang4 xia4
+Dev1146 xian1 zhi3 wu1 ding3 shang4 mian4 di4 ban3 xia4 mian4 hao3 de ke3 yi3 le
+Dev1147 hao3 ni3 ting1 dao4 qi3 hui2 da2 wo3 jiu4 xing2 le wo3 kan4 ni3 hui2 bu4 hui2 da2 de2 qi3
+Dev1148 ni3 zhi3 de shi4 jiu4 shi4 na4 zhong3 cun2 qian2 hai2 shi4 qu3 qian2
+Dev1149 n2 you3 mei2 de2 yi1 xie1 yi4 chang2 de xing2 wei2 bi3 ru2 shuo1 zai4 wu1 tou2 fan3 fan3 fu4 fu4 zuo4 tong2 yi1 jian4 shi4 qing2 bu4 ting1 zhu3 fu4 zou3 lai2 zou3 qu4 mei2 de2
+Dev1150 yong4 you4 shou3 na2 zhe4 zhang1 zhi3 shuang1 shou3 ba3 ta1 dui4 zhe2 zai4 ba3 zhi3 fang4 dao4 da4 tui3 shang4
+Dev1151 jin1 nian2 shi4 na3 yi1 nian2 yi1 jiu3 jiu3 san1 nian2
+Dev1152 hui2 dao4 qi3 hui2 dao4 na4 xie1 ta1 gang1 gang1 lei1 shi4 zai4 ce4 shi4 ma jiu4 shi4 kan4 ni3 ji4 yi4 li4 shi4 lang1 ge4 hui2 shi4 er2 sai1
+Dev1153 mi2 hou2 tao2 a a bu2 shi4
+Dev1154 ran2 hou4 zhe4 shi2 er4 ge4 ci2 ne ni3 bi4 xu1 yao4 ji4 xia4 dai4 hui4 wo3 men zai4 ce4 shi4 de shi2 hou4 wo3 hui4 zai4 zhe4 shi2 er4 ge4 ci2 li3 mian4
+Dev1155 ai1 bu4 gan3 jue2 dao4 o2 hao3 na4 po2 po2 ni3 zao3 shang4 qi3 lai2 kai1 xin1 ma
+Dev1156 ma3 bao3 an1 ma3
+Dev1157 zhe4 ge4 ta1 mei2 jian4 guo4 o2 mei2 jian4 guo4 ha1
+Dev1158 ran2 hou4 zhi3 zhi3 wu1 ding3 zhi3 zhi3 di4 ban3 sa1 zi an1
+Dev1159 ji1 rou4 ji2 bing4 yin1 wei4 ji1 rou4 ji2 bing4 hai2 shi4 you3 ji1 rou4 wei1 suo1 a ji1 li4 xia4 jiang4 a zhe4 xie1 ta1 dou1 mei2 de2
+Dev1160 ran2 hou4 a1 yi2 ni3 ting1 qing1 ha1 yong4 ni3 yi1 zhi1 shou3 de liang3 ge4 shou3 zhi3 pai1 mei3 ge4 jian1 bang3 liang3 ci4 bing4 zha3 zha3 yan3 jing1
+Dev1161 wu3 ba1 yi1 jiu3 n2 hao3 hao3 wo3 men huan4 yi2 ge4 ha1
+Dev1162 hui2 sheng1 hao3 xiang4 you3 yong3 qi4 hao3 xiang4 you3
+Dev1163 mei2 de2 mei2 de2 han4 zi4 shi2 san1 a hao3 le ma
+Dev1164 fei1 ji1 fei1 ji1 a er3 duo3
+Dev1165 zhe4 ge4 shi4 sha2 zi wo3 bu4 xiao3 de zhe4 ge4 shi4 yi1 sheng1 yong4 lai2 jian3 cha2 yong4 de o2 zhe4 ge4 shi4 ting1 na4 ge4 de shi4 bu2 shi4 dui4 ta1 jiao4 shen2 me jiao4 sha2 zi bu4 xiao3 de zhi3 xiao3 de yi1 sheng1 ting1 ta1 jiao4 ting1 zhen3 qi4 ha1
+Dev1166 bu4 guan3 zao3 jiu4 bu4 guan3 qian2 le bu4 guan3 qian2 ha1
+Dev1167 o2 ta1 zou3 lu4 hou4 qi1 mei2 za3 shuai1 zou3 lu4 rong2 yi4 hou4 qing1
+Dev1168 xing1 qi1 ji3 xiao3 de bu4 xing1 qi1 san1
+Dev1169 ni3 men fang1 yan2 shi4 er4 mu3 zhi3 ma a
+Dev1170 sha1 mo4 zhi2 wu4 shi4 xian1 ren2 zhang3 ran2 hou4 ying1 er2 yong4 pin3 shi4 yao2 ling2
+Dev1171 zhe4 shi4 yi1 zhong3 yue4 qi4 kou3 qin2
+Dev1172 yi4 bai3 jian3 qi1 deng3 yu2 duo1 shao3 yi4 bai3 yi4 bai3 jian3 qi1 a
+Dev1173 n2 na2 chu1 lai2 le n2 xian4 zai4 qing3 nin2 an4 zhao4 cong2 xiao3 dao4 da4 de shun4 xu4 ba3 ta1 men lian2 qi3 lai2
+Dev1174 gang1 qin2 mai4 shu4 qin2 mai4 luo4 di4 deng1 shu4 qin2 ying1 gai1 shi4 shu4 qin2
+Dev1175 you3 mao1 mao1 hai2 you3 ai1 mao1
+Dev1176 xie3 de lai2 bu4 wu1 tou2 de di4 zhi3 ji4 xin4 de shi2 hou4 hui4 bu2 hui4 xie3
+Dev1177 nan2 wa2 er2 yong4 li1 wei4 yu4 yong4 pin3 ti4 dao1
+Dev1178 bai2 tian1 jue2 de kun4 bu4 kun4 a
+Dev1179 n2 mei2 shi4 po2 po2 nin2 ji4 de ma nin2 ting1 nin2 kan4 nin2 du2 de2 chu1 lai2 ma
+Dev1180 wo3 ji4 bu2 dao4 le wo3 jiu4 ji4 dao4 jiu4 gei3 ni3 shuo1 hao3 hao3 de mei2 wen4 ti2 hao3 zhi1 hou4 jiu4 zhao4 xiang4 fa1 gei3 wo3 ma yi4 qi3
+Dev1181 yi3 qian2 you3 mei2 you3 jiu4 shi4 nao3 zhong1 guo4 feng1 an1 jiu4 shi4 nao3 chu1 xue4 zhe4 xie1 na4 mei2 you3 mei2 you3 ha1
+Dev1182 na3 yi2 ge4 jie1 dao4 xiao3 de bu4 liang3 lu4 kou3 o2 bu4 cuo4 le cai4 yuan2 ba4 jie1 dao4
+Dev1183 jian3 dao1 ai1 hao3 zai4 xia4 yi2 ge4 ye2
+Dev1184 hao3 zhe4 zhong3 jiu4 shi4 ou3 er3 ding4 qi1 dui4 ding4 qi1 ou3 er3
+Dev1185 er4 qi1 wu3 ba1 liu4 er4 wu3 ba1 si4 er4 qi1 wu3 ba1 er4 jiu3 liu4 san1 si4
+Dev1186 er4 hu2 ti4 xu1 dao1 n2
+Dev1187 zhe4 ge4 ye3 kan4 guo4 de
+Dev1188 you3 yi4 dian3 you3 yi4 dian3 ha1
+Dev1189 jie2 shu4 hua4 wan2 le quan2 bu4 lian2 wan2 le ma a1 yi2 quan2 bu4 lian2 wan2 le
+Dev1190 na4 ni3 men zai4 qu4 kan4 de hua4 ni3 men li3 bai4 si4 li3 bai4 si4 jiu4 ke3 yi3 jiu4 ke3 yi3 ta1 na4 bian1 ying1 gai1 dou1 you3 jie2 guo3 ran2 hou4 ni3 men gua4 le hao4 de hua4 ran2 hou4 ta1 na4 bian1 ye3 hui4 zhi1 dao4 ni3 men zhe4 ge4 jie2 guo3 de ha1
+Dev1191 dong1 xi1 ye3 jiao4 chui1 na4 ge4 ye3 jiao4 kou3 qin2 ma cuo4 le
+Dev1192 n2 zai4 jian3 qi1 deng3 yu2 duo1 shao3 zai4 jian3 qi1 a zai4 jian3 qi1 kai1 shi3 na4 shi4 yi4 bai3 jian3 qi1 wo3 dou1 wo3 dou1 ji4 bu4 de2
+Dev1193 ran2 hou4 wo3 men xian4 zai4 zai4 lai2 suan4 yi1 xia4 yi4 bai3 jian3 qi1 ha1 kai1 shi3 yi4 bai3 jian3 qi1 ji4 xu4 suan4
+Dev1194 o2 jiu4 shi4 jiu3 dian3 duo1 shui4 le dan4 shi2 ji4 shang4 jiu4 shi4 tang3 zai4 na3 er2 bu2 shi4 zhen1 zheng4 de shui4 jiao4 dui4
+Dev1195 mang2 zhe qu4 zhao4 gu4 jia1 li3 le shi4 ba ai1 dui4 mang2 zhe zhao4 gu4 ta1 de dou1 shi4 zhao4 gu4 ta1 de xiao3 hai2 yin1 wei4 wu3 ge4 wo3 ai4 ren2 you3 wu3 ge4 xiong1 mei4 xia4 mian4 you3 ge4 da4 ge1 da4 ge1 you3 ge4 er2 zi er2 zi you3 ge4 zeng1 sun1 ta1 dou1 qu4 zhao4 gu4 ta1 men qu4 le
+Dev1196 na4 ge4 shu4 zi4 shi4 duo1 shao3 hao3 po2 po2
+Dev1197 ni3 kan4 yi1 xia4 ni3 zhao3 dao4 lei1 zhang1 mei2 de2 lao3 shi1 hao3 jiu4 shi4 fen1 bie2 you3 shu4 zi4 he2 han4 zi4
+Dev1198 zhe4 ge4 shi4 sa1 zi zhe4 ge4 shi4
+Dev1199 hao3 lai2 ni3 ba3 gang1 cai2 na4 liang3 zhang1 tu2 dou1 hua4 xia4 lai2
+Dev1200 bi3 sai4 mei2 you3 hui2 sheng1 du2 guo4 ma
+Dev1201 kan4 dong1 xi1 li1 kan4 dong1 xi1 wang4 yuan3 jing4 ai1
+Dev1202 ge1 bo2 mao1 mao1
+Dev1203 zhe4 ge4 du2 guo4 ma qi4 guan1 mei2 du2 guo4 hao3 zhe4 ge4 du2 guo4 ma hao3 xiang4 mei2 du2 guo4 yang4 hao3 de zhe4 ge4 du2 guo4 ma mei2 du2 guo4 hao3 zhe4 ge4 du2 guo4 ma mei2 du2 guo4 hao3 de zhe4 ge4 du2 guo4 ma du2 guo4 zhe4 ge4 du2 guo4 ma
+Dev1204 m2 you3 mei2 de2 ji4 yi4 xia4 jiang4 a na4 xie1 de you3 mei2 de2
+Dev1205 zhi4 zhi3 lei ge4 mei2 de2 yi4 wu4 mei2 de2 cun1 zhuang1 mei2 de2 jiao3 luo4 you3 o2
+Dev1206 hao3 xian4 zai4 wo3 men lai2 hua4 hua4 ha1 ni3 kan4 wo3 men zhe4 er2 you3 ji3 fu2 hua4 n2 wo3 gei3 ni3 tou2 ping2 le ha1 ni3 lai2 ba3 ta1
+Dev1207 dao1 zi hao3 ye3 ting1 guo4 ba la4 zhu2
+Dev1208 zhe4 ge4 pu2 tao2 qiu2 pai1 mao1 tou2 ying1 shu1 zhuo1
+Dev1209 kan4 dou1 kan4 bu4 qing1 chu3 zhe4 ge4 bian1
+Dev1210 ba3 bai2 zhi3 fan1 yi2 ge4 mian4 jia1 shu3 po2 po2 zhe4 ge4 zhi3 ling4 dui4 ma
+Dev1211 zhe4 ge4 ne zhe4 shi4 yi1 jia4 zhe4 ge4 shi4 sha2 zi zhe4 shi4 ling4 wai4 yi1 fu2 tu2 le
+Dev1212 gou3 gou3 chui2 zi chui2 zi yi3 zi yi3 zi
+Dev1213 jian3 qi1
+Dev1214 ran2 hou4 jiu4 shi4 wen4 ha1 ni3 da3 tong1 mei2 de2 wen4 ha1 ni3 da3 hu1 de qing2 kuang4 mei3 tian1 da4 gai4
+Dev1215 shu1 zhuo1 zhi2 chi3
+Dev1216 o2 zhe4 shi4 yi1 sheng1 yong4 de yong4 lai2 jian3 cha2 de dong1 xi1 ting1 zhen3 qi4 n2 dui4 de
+Dev1217 ran2 hou4 mian4 ne shi4 shi2 er4 xia4 mian4 shi4 liu4 liu4 dui4 e4 zuo3 bian1 shi4 jiu3
+Dev1218 shu4 mu4 shu4 mu4
+Dev1219 hai3 yang2 qi2 zi hai2 you3 mei2 de2 xiang3 bu4 qi3 xiang3 bu4 qi3 le ha1 hao3 na4 wo3 men zai4 kan4 yi1 bian4
+Dev1220 hai2 you3 shen2 me ji4 bu4 de2 le ji4 bu4 de2
+Dev1221 ran2 hou4 hai2 you3 yi2 ge4 shi4 chuan2 shi4 shen2 me chuan2 du2 mu4 zhou1 hao3 de
+Dev1222 qing3 ni3 man4 dian3 shuo1 qing3 ni3 man4 dian3 shuo1 yi1 xia4 ne hao3 hao3 yong4 yi1 zhi1 shou3 de liang3 ge4 shou3 zhi3 tou
+Dev1223 yi4 yu4 zheng4 a mei2 de2 mei2 de2
+Dev1224 gou3 gou3 chui2 zi chui2 zi yi3 zi n2 yi3 zi zuo4 lei ge4 yi3 zi
+Dev1225 yi3 zi yi3 zi jiao4 che1 jiao4 che1 yan3 jing1
+Dev1226 zhe4 ge4 wa zhe4 ge4 shi4 ting1 zhen3 qi4 hao3 de zhe4 ge4
+Dev1227 hao3 lai2 shi4 yi1 xia4 ma wo3 men kan4 shi4 yi1 xia4 po2 po2 neng2 bu4 neng2 jiu4 shi4 ba3 da4 de na4 zhang1 zhi3 na2 chu1 lai2 ma
+Dev1228 ji4 bu2 dao4 la
+Dev1229 ran2 hou4 xian4 zai4 hai2 shi4 cong2 er4 shi2 shu4 dao4 yi1 er4 shi2 shu4 dao4 yi1 n2 hai2 shi4 er4 shi2 shi2 jiu3 shu4 dao4 yi1 er4 shi2 shi2 jiu3 shi2 ba1 shi2 qi1 shi2 liu4 shi2 wu3 shi2 si4 shi2 san1 shi2 er4 shi2 yi1 shi2 jiu3 ba1 qi1 liu4 wu3 si4 san1 er4 yi1
+Dev1230 hao3 shu1 shu1 xian4 zai4 hai2 shi4 wo3 yao4 gei3 nin2 kan4 yi1 xie1 ci2 ha1
+Dev1231 hao3 wo3 men lei li1 shi4 na3 dian3 ni3 lei shi4 zhong4 yi1
+Dev1232 hai3 ma3 sou1 mei2 jian4 guo4
+Dev1233 zhe4 ge4 zhi3 shi4 lian4 xi2 bu4 fen4 ha1 lian4 wan2 le ni3 jiu4 gen1 wo3 shuo1 si4 wu3
+Dev1234 cheng2 men2 lei shi4 yi1 zhong3 yong4 lai2 ju1 zhu4 yong4 lai2 ju1 zhu4 de yi1 zhong3 jian4 zhu4 wu4
+Dev1235 qi3 gai4 hao3 xiang4 you3 n2
+Dev1236 hao3 zhe4 ge4 ne shou3 biao3
+Dev1237 ai1 wang4 le wei4 you3 yi2 ge4 shi4 zhong3 yun4 dong4 qi4 cai2
+Dev1238 zhe4 ge4 ne sha1 yu2 hao3 zhe4 ge4 nei3 ge4 zhe4 ge4 zhe4 yi1 ye4 ji4 xu4 ni3 nian4 yi1 xia4 zhi2 chi3 wang4 yuan3 jing4 xian1 ren2 zhang3 yao2 ling2 zhe4 ge4 fang1 xiang4 pan2 shui3 guan4 ti4 dao1 er4 hu2
+Dev1239 na4 ta1 da3 dian4 hua4 ne jiu4 shi4 bi3 ru2 shuo1 shi2 yi1 wei4 na4 zhong3 dian4 hua4 hao4 ma3 ta1 ke3 yi3 zi4 ji3 bo1 ma dian4 hua4 hao4 ma3 jiu4 shi4 ta1 ben3 lai2 jiu4 bu4 shi2 zi4 jiu4 shi4 ta1 ba3 wo3 men yi1 jia1 ren2 jiu4 shi4 ta1 suo3 shu2 xi1 de zhe4 xie1 ren2 de ta1 dou1 ji4 zhu4 le ta1 ta1 ke3 yi3 yong4 shou3 ji1
+Dev1240 mei2 you3 mei2 you3 zen3 me ke3 neng2 yin2 hang2 gei3 ta1 suan4 cuo4 ma
+Dev1241 xie3 hao3 le ma xie3 hao3 la xie3 wan2 le
+Dev1242 guo2 qi2 guo2 qi2 shu4 mu4 ting1 bu4 qing1 chu3 ni3 shuo1 de sha2 zi shu4 mu4 shu4 mu4
+Dev1243 fei1 ji1
+Dev1244 chui2 zi chui2 zi dou1 ting1 guo4 le ni3 jiu4 shuo1 ting1 guo4 o2 ting1 guo4
+Dev1245 jian3 bu2 dao4 hao3 na4 ni3 xiang3 yi1 ha1 wo3 gang1 gang1 gei3 ni3 shuo1 de san1 yang4 dong1 xi1 han3 ni3 ji4 dao4 de na4 san1 yang4 dong1 xi1 shi4 sha2 zi ye2
+Dev1246 ta1 yao4 cha1 shi2 er4 ge4 ni3 mei2 kan4 dao4 de ci2 zai4 zhe4 li3 mian4 yi1 ha1 ta1 jiu4 lai2 wen4 ni3
+Dev1247 shi4 fou3 jing1 chang2 jue2 de yan4 juan4 yan4 juan4 dao3 shi4 mei2 jue2 de yan4 juan4
+Dev1248 xing1 qi1 ji3 an1 jin1 tian1 xing1 qi1 ji3 ba4 ba4 jin1 tian1 xing1 qi1 san1 man2
+Dev1249 liu4 shi2 e2 zai4 jian3 ge4 qi1 liu4 shi2 er4
+Dev1250 hao3 ni3 na2 dao4 xia4 yi1 zhang1 zhi3
+Dev1251 zhe4 ge4 yao4 bu4 yao4 shi4 yi1 xia4 ya hai2 shi4 shuo1 jiu4 bu4 hua4 le jiu4 shi4 zhe4 ge4 ke3 neng2 jiu4 shi4 dui4 ta1 hai2 shi4 shuo1 ting3 ting3 nan2 de
+Dev1252 shi2 qi1 shi2 qi1 o2 kan4 dao4 le er4 shi2 wu3 ge4 shu4 zi4 kan4 dao4 mei2 you3
+Dev1253 yuan2 gui1 ban4 yuan2 gui1 shu1 shu1 nin2 jue2 de ta1 xiang4 san1 jiao3 chi3 hai2 shi4 xiang4 liang2 jiao3 qi4 ne
+Dev1254 ting1 bu2 dao4
+Dev1255 niao3 niao3 mei2 shen2 me yin4 xiang4 le
+Dev1256 hao3 jia1 shu3 dou1 dui4 ha1 hao3 de dui4
+Dev1257 mei2 you3 ha1 zhe4 ge4
+Dev1258 n2 re4 ha1 fan4 hui4 bu2 hui4 xian4 zai4 bu4 gan3 rang4 ta1 re4
+Dev1259 zi4 xing2 che1 zi4 xing2 che1 hao3 po2 po2 xian4 zai4 ji4 de nei3 xie1 ci2 ya ni3 ji4 de dao4 nei3 xie1
+Dev1260 ni3 yao4 bu4 yao4 gen1 ta1 shuo1 yi1 xia4 ba4 jiu4 shi4 ta1 ma3 shang4 ma3 shang4 yao4 gei3 ni3 kan4 yi1 xie1 ci2 yu3 ni3 kan4 le ni3 jiu4 xiang3 yi1 ha1 ni3 dou1 nong4 bu4 zhe te4 yi4 qu4 ji4 dan4 shi4 ta1 ge2 yi1 ha1 er2 you4 gei3 ni3 chu1 xie1 xin1 li1 ci2 yu3 ni3 jiu4 xiang3 yi1 ha1 er2 na4 ge4 ci2 ta1 gang1 gang1 gei3 ni3 kan4 mei2 de2
+Dev1261 ta1 wan3 shang4 shui4 de2 zen3 me yang4 a shui4 de2 bu4 hao3 jiu4 shi4 lao3 shi4 qi3 ye4
+Dev1262 chui2 zi chui2 zi
+Dev1263 lei ge4 an1 li2 ming2 you3 wo3 men nian4 dao4 le de a ta1 shuo1 nian4 dao4 guo4
+Dev1264 gao1 lao3 shi1 jiu4 shi4 chen2 lao3 shi1 ta1 zui4 jin4 qing2 xu4 you3 mei2 de2 di1 luo4 dao4 bi3 ru2 shuo1 jie1 jin4 yi4 yu4 de cheng2 du4 you3 mei2 you3
+Dev1265 hao3 xian4 zai4 a1 yi2 wo3 gei3 ni3 ti2 shi4 yi1 xia4 a jiu4 you3 yi1 xie1 ci2 yu3 shi4 shen1 ti3 lei4 de ci2 yu3
+Dev1266 hai2 you3 mei2 de2 n2 xiang3 bu4 qi3 le
+Dev1267 wo3 xiang3 wo3 gao3 bu4 qing1 zhe4 ge4 zhe4 shi4 yi1 zhong3 dong4 wu4 zhe4 shi4 wo1 niu2 zhe4 zhong3 dong4 wu4 dui4 tou2 zhe4 shi4 sha2 zi ye3
+Dev1268 xiang4 gang1 gang1 na4 yang4 lian2 yi1 lian2 er4 er4 lian2 san1
+Dev1269 shui3 guan4 bo1 luo2 n2 shui3 guan4 bo1 luo2 hai2 you3 ne yan1 cong1 n2 yan1 cong1 hai2 you3 ne
+Dev1270 yi1 jiu3 san1 ba1 nian2 ma yi1 jiu3 san1 ba1 nian2 shi2 yi1 shi2 er4 shi2 yi1 yue4 er4 shi2 ba1 shi2 yi1 yue4 er4 shi2 ba1
+Dev1271 si1 dai4 mei2 chu1 xian4 guo4 wu4 ti3 mei2 chu1 xian4 guo4
+Dev1272 lao3 hu3 an1 lao3 hu3 zhe4 ge4 ci2 yu3 wo3 men kan4 dao4 guo4 mei2 de2 an1 kan4 dao4 guo4 o1 kan4 dao4 guo4
+Dev1273 dan4 shi4 ta1 jiu4 zong3 zai4 jian1 chi2 qian2 suan4 cuo4 le shi4 ba a
+Dev1274 you3 ma mei2 you3
+Dev1275 ta1 n2 ji4 de bu4 ta1 bu4 neng2 wan2 quan2 ji4 de you3 ke3 neng2 ta1 hui4 gao3 a bi3 ru2 shuo1 jin1 tian1 wo3 yao4 chi1 yao4
+Dev1276 wai4 mian4 you3 sha2 xin1 xian1 shi4 er2 yao4 rang4 wo3 zuo4 ya
+Dev1277 xian4 zai4 wo3 shuo1 yi1 ju4 hua4 ha1 ni3 lai2 chong2 fu4 ting1 qing1 chu3 ha1 wo3 zhi3 shuo1 yi1 bian4
+Dev1278 na2 chu1 yi1 zhang1 wo3 gei3 nin2 kan4 yi1 xia4 ha1
+Dev1279 mai4 zi hai3 yang2
+Dev1280 pai1 mei3 yi2 ge4 jian1 bang3 liang3 ci4 bing4 qie3 zha3 yi1 xia4 yan3 jing1
+Dev1281 zhong1 zi4 xing2 che1 zi4 xing2 che1 hao3 ni3 xian4 zai4 xiang3 yi1 ha1 ni3 ji4 de de you3 nei3 xie1 ye3
+Dev1282 zhi2 chi3 yuan3 wang4 jing4 wang4 yuan3 jing4 o2 wang4 yuan3 jing4 xian1 ren2 zhang3
+Dev1283 na4 bu4 ke3 yi3 jiu4 shi4 da3 dian4 hua4 ma bi3 ru2 shuo1 jiu4 shi4 shi2 yi1 wei4 de dian4 hua4 hao4 ma3 ta1 neng2 zi4 ji3 bo1 ma ke3 yi3 bo1
+Dev1284 san1 jiao3 chi3 shi2 pin3 zhe4 ge4 shi4
+Dev1285 xing2 mei2 shi4 shu1 shu1 ni3 hai2 ji4 de wo3 gang1 gang1 gei3 ni3 shuo1 de na4 san1 yang4 dong1 xi1 ma
+Dev1286 dui4 le dui4 le ha1 po2 po2 ran2 hou4 zui4 hou4 ne si4 zai4 lian2 si4 jie2 shu4
+Dev1287 ye3 cha4 bu4 duo1 dan4 shi4 hai2 shi4 you3 li4 ha1
+Dev1288 chun1 tian1 chun1 tian1 chun1 tian1 chi1 bao1 gu3 de ji4 jie2 hao3 wo3 men xian4 zai4 shi4 zai4 nei3 ge4 cheng2 shi4 a
+Dev1289 zhao4 dao4 lei ge4 hua4 zhao4 dao4 tong2 yang4 lei ge4 hua4 yi2 ge4 hua4 dao4 zhe4 li3 kong4 bai2 chu4
+Dev1290 hao3 wo3 xian4 zai4 kai1 shi3 ha1 di4 yi2 ge4 ci2 ge1 bo2 ge1 bo2 mao1 mao1 fu3 zi fu3 zi chuang2 chuang2 fei1 ji1 fei1 ji1 er3 duo3 er3 duo3 gou3 gou3 chui2 zi chui2 zi yi3 zi yi3 zi jiao4 che1 jiao4 che1 yan3 jing1 yan3 jing1 ma3 ma3 dao1 zi dao1 zi zhong1 zhong1 zi4 xing2 che1 zi4 xing2 che1
+Dev1291 chuan1 nuan3 hua1 kai1 hai2 mei2 dao4 xia4 tian1 a ai1
+Dev1292 hao3 duo1 zhong1 ne shi2 yi4 dian3 guo4 shi2 fen1
+Dev1293 di4 yi2 ge4 wo3 men di4 yi1 ye4 dang1 zhong1 shui3 guo3 shi4 pu2 tao2
+Dev1294 si4 shi2 si4 zhi3 si4 shi2 si4 zi n2 hao3 lei ran2 hou4 jie1 xia4 lai2 ni3 kan4 lei1 dian3
+Dev1295 hao3 wo3 du2 yi1 chuan4 shu4 zi4 ni3 dao4 guo4 lai2 du2 ha1 wo3 dou1 yi1 er4 ni3 yao4 du2 er2 yi3 zhe4 zhong3 ha1
+Dev1296 zi4 xing2 che1 dao1 zi ma3 chuang2
+Dev1297 shi4 ti4 dao1 ha1 ti4 dao1 ti4 dao1 ti4 dao1
+Dev1298 lei ge4 yan1 lei ge4 shi4 ge4 chang2 zi
+Dev1299 yu4 dao4 bu4 yu2 kuai4 de shi4 jiu4 you3 a
+Dev1300 zhe4 ge4 lun2 yi3 luo4 tuo2 zhe4 ge4 qiu2 pai1
+Dev1301 n2 zhe4 ge4 zhe4 ge4 mei2 you3 mei2 you3 zhe4 ge4 hao3 xiang4 mei2 you3
+Dev1302 xie3 hao3 le n2 hao3 wo3 shi4 yi1 ming2 tui4 xiu1 jiao4 shi1
+Dev1303 na4 na3 yang4 dao4 qi3 yo1 e2
+Dev1304 mao1 mao1 mao1 ge1 bo2 mao1
+Dev1305 xian1 tou2 na4 ge4 ta1 shuo1 shi4 wo1 niu2 a
+Dev1306 n2 shui3 guo3 shi4 sha2 zi ma shui3 guo3 shi4 pu2 tao2 n2 dui4 tou2
+Dev1307 hao3 ji1 ben3 shang4 mu4 qian2 jiu4 shi4 zhe4 xie1 ha1 jiu4 shi4 yi2 ge4 ce4 shi4 ji1 ben3 shang4 po2 po2 neng2 zuo4 de wo3 ji1 ben3 shang4 dou1 gei3 ta1 zuo4 le
+Dev1308 ran2 hou4 jiu4 shi4 gong1 ju4 bao1 li3 de zhe4 yi1 zhang1 lian2 xian4 shi2 yan4 bu4 fen4 ke3 yi3 neng2 zhao3 dao4 ma you3
+Dev1309 xian1 ren2 zhang3 xian1 ren2 zhang3 yao4 ling3 yao4 ling3 fang1 xiang4 pan2 fang1 xiang4 pan2 shui3 guan4 shui3 guan4 ti4 dao1 ti4 dao1 er4 hu2 er4 hu2
+Dev1310 ting1 ming2 bai2 mei2 you3 ting1 ming2 bai2 li3 hao3 xia4 yi2 ge4
+Dev1311 hao3 xian4 zai4 ni3 hui2 yi4 ha1 gang1 cai2 kan4 le nei3 xie1 ci2 jiu4 gang1 gang1 nian4 le nei3 xie1
+Dev1312 hai3 yang2 sheng1 wu4 sha1 yu2 gu4 ding4 dong1 xi1 li1 hui2 xing2 zhen1
+Dev1313 shui3 guo3 shi4 shen2 me pu2 tao2 niao3 shi4 shen2 me mao1 tou2 ying1
+Dev1314 yin1 wei4 wo3 mei2 you3 zhe4 fang1 mian4 de ya1 li4 ai1
+Dev1315 you3 mei2 you3 jue2 de xian4 zai4 ni3 xian4 zai4 chu4 lei ge4 chu3 jing4 hao2 wu2 xi1 wang4 you3 lei zhong3 xiang3 fa3 mei2 de2
+Dev1316 zhe4 shi4 shu4 hua1 a ai1 hua1
+Dev1317 fu3 zi chuang2 chuang2 fei1 ji1 fei1 ji1 er3 duo3 er3 duo3 gou3
+Dev1318 suo3 yi3 nin2 jue2 de ta1 xiang4 shu4 qin2 hai2 shi4 xiang4 gang1 qin2 ne gang1 qin2 a
+Dev1319 zhuo1 zi kan4 bu4 qing1 chu3 le
+Dev1320 ni3 men yi1 gui4 tou2 ni3 men yi1 gui4 tou2 hui4 you3 zhe4 ge4 dong1 xi1
+Dev1321 wen4 ni3 ji4 yi4 li4 gan3 jue2 guo2 ren2 gan3 jue2 hao3 bu4 hao3 ji4 yi4 li4 o2 o2 yi4 ban1 yi4 ban1
+Dev1322 n2 shuo1 la hai2 you3 ma
+Dev1323 jiu4 shi4 yin1 wei4 ta1 zhe4 ge4 ren4 zhi1 gong1 neng2 hai2 shi4 you3 dian3 wen4 ti2 n2 ni3 xian4 zai4 hai2 ni3 zai4 na4 xie1 er2 zi zhe4 xie1 lai2 bu4 lai2 ma zhao3 dao4 ta1 mei2 you3
+Dev1324 ji4 bu2 dao4
+Dev1325 xiao3 de na4 ge4 han4 zi4 yao4 gen1 ta1 da4 yi1 ge4 de shu4 zi4 lian2 qi3 lai2
+Dev1326 mei2 ji4 na4 xie1
+Dev1327 bu4 xing2 le bu4 xing2 ha1 hao3 de na4 ni3 jue2 de ni3 zuo4 jue2 ding4 rong2 yi4 ma
+Dev1328 ai1 bu4 ting1 qing1 chu3 lei1 ju4 hua4 ao2 you3 yi2 ge4 shi4 zhong3 ying1 er2 yong4 pin3 jiu4 ying1 er2 yong4 di1 dong1 xi1
+Dev1329 a dan4 shi4 wo3 zhao3 bu2 zhu4 wo3 zou3 qi3 qu4 le wo3 bu4 xiao3 de za3 kuai4 hui2 lai2 o2 wo3 yao4 gu3 qi3 zheng3 ge4 zi4 wo3 cai2 xiao3 de
+Dev1330 hao3 zhe4 zhong3 jiao1 lv4 zhe4 zhong3 yan2 zhong4 cheng2 du4 ni3 men an1 wei4 ta1 a ta1 neng2 bu4 neng2 huan3 jie3 neng2
+Dev1331 zhuo1 zi n2 you3 shen2 me hen3 duo1 hen3 duo1 a
+Dev1332 yuan2 li1 zhong1 ran2 hou4 zai4 shang4 tou tian2 shang4 suo3 you3 di1 shu4 zi4 bing4 qie3 hua4 chu1 zhi3 zhen1 zhi3 chu1 shi2 yi4 dian3 shi2 fen1
+Dev1333 zuo4 yi1 jian4 xin1 de gong1 zuo4 kun4 bu4 kun4 nan2
+Dev1334 mei2 you3 shuo1 you3 de shi2 hou4 hui4 liu2 lei4 a ku1 qi4 a hen3 bei1 shang1 a zhe4 zhong3 mei2 you3 zhe4 zhong3 ma mei2 you3
+Dev1335 na4 ta1 wan3 shang4 shui4 jiao4 hao3 bu4 hao3 ne wan3 shang4 shui4 jiao4 hai2 ke3 yi3 dan4 xian4 zai4 xing3 de ting3 zao3 jiu4 liu4 qi1 dian3 zhong1 jiu4 zi4 ji3 jiu4 xing3 le
+Dev1336 ren4 shi2 fang1 mian4 ta1 zhi3 shi4 you3 xie1 bu4 zhi1 dao4 jiao4 shen2 me ming2 zi4 er2 yi3 ta1 ren4 shi2 na4 ge4 dong1 xi1 hao3 mei2 shi4
+Dev1337 lai2 ni3 nian4 yi1 bian4 ma chen2 lao3 shi1 ai1 yao4 de
+Dev1338 he2 ma3 ya nin2 jue2 ta1 xiang4 he2 ma3 hai2 shi4 xiang4 xi1 niu2 xi1 niu2
+Dev1339 a a
+Dev1340 ni3 xiang3 de2 qi3 lai2 bu4 ma ni3 xiang3 bu4 qi3 lai2 ni3 ye3 ke3 yi3 gei3 wo3 shuo1 ni3 shuo1 wo3 xiang3 bu4 qi3 lai2
+Dev1341 jiu4 hen3 rong2 yi4 jiao1 lv4 he2 fan2 zao4 ta1 xian4 zai4 de qing2 xu4
+Dev1342 ni3 kan4 ni3 neng2 xiang3 qi3 hao3 duo1 xie3 hao3 duo1 yin1 wei4 yao1 qiu2 zhi3 neng2 shuo1 yi1 bian4 ai1 na4 jiu4
+Dev1343 zi4 ji3 xi3 zao3 n2 zi4 ji3 xi3 zao3
+Dev1344 yao1 zhi3 mu3 hao3
+Dev1345 yi2 ge4 yue4 dou1 bu2 jian4 de you3 yi1 hui4 ma
+Dev1346 fei1 ji1 er3 duo3 shou3
+Dev1347 mei2 you3 mei2 you3 a hao3 hao3 de na4 nin2 xian4 zai4 shen1 gao1 ti3 zhong4 da4 gai4 duo1 shao3 ne
+Dev1348 ting1 dong3 le sa1 wo3 yao4 xian1 gei3 ni3 kan4 xian1 gei3 ni3 kan4 yi1 zu3 dan1 ci2 ni3 quan2 bu4 ji4 xia4 lai2
+Dev1349 zhe4 ge4 kan4 guo4 li1 n2 xia4 yi2 ge4
+Dev1350 na4 ni3 zi4 ji3 fa1 de shi2 hou4 ni3 jue2 de xin1 tiao4 shi4 kuai4 ma hai2 shi4 man4 ma hai2 shi4 zai4 luan4 tiao4 ai1 luan4
+Dev1351 wo3 zai4 gei3 ni3 ti2 gong1 ji3 ge4 ha1 yi2 ge4 shi4 kou3 qin2 yi2 ge4 shi4 leng3 qi4 ji1 yi2 ge4 shi4 xiang1 zi
+Dev1352 wo3 men ba3 ta1 jiao4 cheng2 qu1 chi3 qu4 le zhuan3 pan2 hao3 de2 xing2 le
+Dev1353 yi1 kai1 shi3 nian4 la you3 nei3 xie1 xiang3 yi1 xiang3
+Dev1354 bu4 yuan4 yi4 dai4 zai4 jia1 li3 wo3 yuan4 yi4 dai4 zai4 jia1 li3 ya
+Dev1355 jing3 bao4 kan4 guo4 mei2 de2 jing3 bao4 lei ge4 mei2 kan4 guo4 hui2 sheng1 kan4 guo4 de
+Dev1356 ge1 bo2 ge1 bo2 mao1 dao1
+Dev1357 mo4 de2
+Dev1358 ni3 gang1 cai2 kan4 ping2 mu4 de shi2 hou4 ni3 ren4 de zi4 dang1 zhong1 you3 ge4 shi4 hai3 yang2 sheng1 wu4 de ming2 zi4 ni3 ji4 bu2 ji4 de2 dao4
+Dev1359 shi4 fou3 jing1 chang2 yin1 wei4 yi1 xie1 xiao3 shi4 qing2 shang1 xin1
+Dev1360 n2 hao3 de zhi3 neng2 xie3 ge4 chang2 an1 hua2 dou1 dan4 dou1 zi4 dou1 xie3 cuo4 ta1 zhe4 ge4 dou1 zi4 jiu4 shi4 shou3 du1 de dou1 ta1 zuo3 you4 pian1 pang2 fan3 qi3 xie3 de
+Dev1361 shu4 zi4 guang3 du4 shi4 yi1 xia4 ma

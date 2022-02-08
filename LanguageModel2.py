@@ -214,13 +214,14 @@ if(__name__=='__main__'):
 	
 	ml = ModelLanguage('./model_language')
 	ml.LoadModel()
-	# str_pinyin = ['kao3', 'yan2', 'yan1', 'yu3', 'ci2', 'hui4']
+	str_pinyin = ['kao3', 'yan2', 'yan1', 'yu3', 'ci2', 'hui4']
 	# str_pinyin = "liu3 zong1 xia4 xian4 nian2 liu4 shi2 sui4 wu3 shi2 nian2 dai4 jin4 ru4 han2 wai4 wu4 bu4 gong1 zuo4 yi1 jiu3 jiu3 si4 nian2 shi2 er4 yue4 ren4 wai4 jiao1 an1 bao3 shou3 xi2 mi4 shu1"
-	#r = ml.decode(str_pinyin)
+	r = ml.decode(str_pinyin)
+	print(r)
 
 	# str_pinyin = str_pinyin.split(' ')
 
-	str_pinyin = ['kao3', 'yan2', 'ying1', 'yu3', 'ci2', 'hui4']
-	r=ml.SpeechToText(str_pinyin)
-	print('语音转文字结果：\n',r)
+	# str_pinyin = ['kao3', 'yan2', 'yin1', 'yu3', 'ci2', 'hui4']
+	# r=ml.SpeechToText(str_pinyin)
+	# print('语音转文字结果：\n',r)
 
